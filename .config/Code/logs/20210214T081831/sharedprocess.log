@@ -1,0 +1,13 @@
+[2021-02-14 08:19:14.530] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-14 08:51:09.392] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2021-02-14 08:51:09.397] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-ssh-edit
+[2021-02-14 08:51:10.724] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh-edit undefined
+[2021-02-14 08:51:10.768] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.ms-vscode-remote.remote-ssh-edit-0.64.0: ms-vscode-remote.remote-ssh-edit
+[2021-02-14 08:51:10.769] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.64.0
+[2021-02-14 08:51:10.769] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh-edit
+[2021-02-14 08:51:10.773] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-ssh undefined
+[2021-02-14 08:51:10.783] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh-edit
+[2021-02-14 08:51:10.892] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.ms-vscode-remote.remote-ssh-0.64.0: ms-vscode-remote.remote-ssh
+[2021-02-14 08:51:10.892] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.64.0
+[2021-02-14 08:51:10.893] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-ssh
+[2021-02-14 08:51:10.914] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-ssh

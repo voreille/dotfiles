@@ -1,0 +1,7 @@
+# GIMP action-history
+
+(history-item "edit-paste" 3)
+(history-item "edit-paste-in-place" 1)
+(history-item "image-resize" 1)
+
+# end of action-history

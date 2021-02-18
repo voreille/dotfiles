@@ -1,0 +1,12 @@
+[2021-02-18 08:15:27.120] [exthost] [info] extension host started
+[2021-02-18 08:15:27.130] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-02-18 08:15:27.130] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.64.0/out/extension
+[2021-02-18 08:15:32.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-18 08:15:32.517] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-18 08:15:32.526] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-02-18 08:15:32.526] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/vscodevim.vim-1.18.9/out/extension
+[2021-02-18 08:15:32.628] [exthost] [info] eager extensions activated
+[2021-02-18 08:15:34.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-18 08:15:34.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-18 08:27:16.845] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-18 08:27:17.849] [exthost] [info] exiting with code 0

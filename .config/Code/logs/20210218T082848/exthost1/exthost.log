@@ -1,0 +1,70 @@
+[2021-02-18 08:28:49.021] [exthost] [info] extension host started
+[2021-02-18 08:28:49.035] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-02-18 08:28:49.035] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.64.0/out/extension
+[2021-02-18 08:28:53.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-02-18 08:28:53.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-02-18 08:28:53.705] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-02-18 08:28:53.705] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/vscodevim.vim-1.18.9/out/extension
+[2021-02-18 08:28:53.827] [exthost] [info] eager extensions activated
+[2021-02-18 08:28:55.180] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-02-18 08:28:55.180] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-02-18 09:05:55.436] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:05:55.436] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:05:55.451] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:2,$model3) has been disposed"}
+[2021-02-18 09:15:36.973] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:15:36.974] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:15:40.119] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:15:40.119] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:15:56.740] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 09:15:56.740] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:13.284] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:13.284] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:16.762] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:16.762] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:31.897] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:21:31.897] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:14.401] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:14.401] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:26.055] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:26.055] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:39.315] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 14:26:39.315] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:22:01.796] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:22:01.796] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:22:03.868] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:22:03.868] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:41:27.828] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:41:27.828] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:41:38.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:41:38.188] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:44:46.941] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:44:46.941] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:45:26.959] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:45:26.959] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:51:04.300] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:51:04.300] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:58:59.860] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:58:59.860] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 16:58:59.880] [exthost] [warning] {"name":"DISPOSED","message":"TextEditor(vs.editor.ICodeEditor:8,$model52) has been disposed"}
+[2021-02-18 17:09:53.144] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:09:53.144] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:01.881] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:01.881] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.164] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.164] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.288] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.288] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.472] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:10:45.472] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:12:31.392] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:12:31.392] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:17:05.909] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:17:05.909] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:21:17.547] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:21:17.547] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:38:08.257] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 17:38:08.257] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 18:10:27.184] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 18:10:27.184] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 18:11:08.193] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 18:11:08.193] [exthost] [warning] TextEditor is closed/disposed

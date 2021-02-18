@@ -1,0 +1,6 @@
+[2021-02-10 15:42:24.782] [renderer3] [error] Cannot read property 'cmd' of undefined: TypeError: Cannot read property 'cmd' of undefined
+	at /home/val/.vscode-server/bin/5d424b828ada08e1eb9f95d6cb41120234ef57c7/out/vs/server/remoteExtensionHostProcess.js:89:539
+	at Array.forEach (<anonymous>)
+	at r (/home/val/.vscode-server/bin/5d424b828ada08e1eb9f95d6cb41120234ef57c7/out/vs/server/remoteExtensionHostProcess.js:89:484)
+	at o.findCandidatePorts (/home/val/.vscode-server/bin/5d424b828ada08e1eb9f95d6cb41120234ef57c7/out/vs/server/remoteExtensionHostProcess.js:89:4027)
+	at async o.$registerCandidateFinder (/home/val/.vscode-server/bin/5d424b828ada08e1eb9f95d6cb41120234ef57c7/out/vs/server/remoteExtensionHostProcess.js:89:1558)

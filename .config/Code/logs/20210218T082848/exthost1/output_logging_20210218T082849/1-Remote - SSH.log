@@ -1,0 +1,120 @@
+[08:28:49.097] Log Level: 2
+[08:28:49.098] remote-ssh@0.64.0
+[08:28:49.098] linux x64
+[08:28:49.099] SSH Resolver called for "ssh-remote+adrien2", attempt 1
+[08:28:49.099] "remote.SSH.useLocalServer": true
+[08:28:49.099] "remote.SSH.sshPath": undefined
+[08:28:49.099] "remote.SSH.sshConfigurationFile": undefined
+[08:28:49.100] "remote.SSH.useFlock": true
+[08:28:49.100] "remote.SSH.lockfilesInTmp": false
+[08:28:49.100] "remote.SSH.localServerDownload": auto
+[08:28:49.100] "remote.SSH.remoteServerListenOnSocket": false
+[08:28:49.100] "remote.SSH.showLoginTerminal": false
+[08:28:49.100] "remote.SSH.defaultExtensions": []
+[08:28:49.100] SSH Resolver called for host: adrien2
+[08:28:49.100] Setting up SSH remote "adrien2"
+[08:28:49.102] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[08:28:49.108] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-622cb03f7e070a9670c94bae1a45d78d7181fbd4-0.64.0/data.json
+[08:28:49.109] Using commit id "622cb03f7e070a9670c94bae1a45d78d7181fbd4" and quality "stable" for server
+[08:28:49.111] Install and start server if needed
+[08:28:49.124] Checking ssh with "ssh -V"
+[08:28:49.131] > OpenSSH_8.4p1, OpenSSL 1.1.1i  8 Dec 2020
+
+[08:28:49.134] askpass server listening on /run/user/1000/vscode-ssh-askpass-442a4c95cad4c18d321a4933190b56ae99b7659a.sock
+[08:28:49.134] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-dc3468ba092bfdd3d9b57974874623e906309e3b.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","40931","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-622cb03f7e070a9670c94bae1a45d78d7181fbd4-0.64.0/data.json"}
+[08:28:49.134] Local server env: {"DISPLAY":"1","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.64.0/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.64.0/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-442a4c95cad4c18d321a4933190b56ae99b7659a.sock"}
+[08:28:49.138] Spawned 26668
+[08:28:49.219] > local-server> Spawned ssh: 26680
+[08:28:49.221] stderr> OpenSSH_8.4p1, OpenSSL 1.1.1i  8 Dec 2020
+[08:28:51.546] stderr> debug1: Server host key: ecdsa-sha2-nistp256 SHA256:QGI4/EPg1bhz+2zgv4sPJQM5/2if4fcluj1g80yPkvs
+[08:28:51.716] stderr> Authenticated to 153.109.130.82 (via proxy).
+[08:28:52.227] > Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-64-generic x86_64)
+> 
+>  * Documentation:  https://help.ubuntu.com
+>  * Management:     https://landscape.canonical.com
+>  * Support:        https://ubuntu.com/advantage
+> 
+>  * Canonical Livepatch is available for installation.
+>    - Reduce system reboots and improve kernel security. Activate at:
+>      https://ubuntu.com/livepatch
+> 
+> 9 packages can be updated.
+> 0 of these updates are security updates.
+> To see these additional updates run: apt list --upgradable
+> 
+> New release '20.04.2 LTS' available.
+> Run 'do-release-upgrade' to upgrade to it.
+> 
+> Your Hardware Enablement Stack (HWE) is supported until April 2023.
+> *** System restart required ***
+[08:28:52.256] > ready: 6d3e7381bc5c
+[08:28:52.297] > Linux 5.4.0-64-generic #72~18.04.1-Ubuntu SMP Fri Jan 15 14:06:34 UTC 2021
+[08:28:52.298] Platform: linux
+[08:28:52.396] > 6d3e7381bc5c: running
+[08:28:52.466] > Acquiring lock on /home/val/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/vscode-remote-lock.val.622cb03f7e070a9670c94bae1a45d78d7181fbd4
+> Found existing installation at /home/val/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4...
+> Checking /home/val/.vscode-server/.622cb03f7e070a9670c94bae1a45d78d7181fbd4.log and /home/val/.vscode-server/.622cb03f7e070a9670c94bae1a45d78d7181fbd4.pid for a running server
+> Looking for server with pid: 20559
+[08:28:52.497] > Found running server...
+>  
+> *
+> * Reminder: You may only use this software with Visual Studio family products,
+> * as described in the license (https://go.microsoft.com/fwlink/?linkid=2077057)
+> *
+>  
+[08:28:52.527] > Checking server status on port 46783 with wget
+> 6d3e7381bc5c: start
+> sshAuthSock====
+> webUiAccessToken====
+> listeningOn==46783==
+> osReleaseId==ubuntu==
+> arch==x86_64==
+> tmpDir==/run/user/1000==
+> platform==linux==
+> unpackResult====
+> didLocalDownload==0==
+> downloadTime====
+> installTime====
+> extInstallTime====
+> serverStartTime====
+> connectionToken==1aa111aa-a111-111a-aa1a-1a1aaaa11111==
+> 6d3e7381bc5c: end
+[08:28:52.528] Received install output: 
+sshAuthSock====
+webUiAccessToken====
+listeningOn==46783==
+osReleaseId==ubuntu==
+arch==x86_64==
+tmpDir==/run/user/1000==
+platform==linux==
+unpackResult====
+didLocalDownload==0==
+downloadTime====
+installTime====
+extInstallTime====
+serverStartTime====
+connectionToken==1aa111aa-a111-111a-aa1a-1a1aaaa11111==
+
+[08:28:52.530] Remote server is listening on 46783
+[08:28:52.530] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":46783},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"1aa111aa-a111-111a-aa1a-1a1aaaa11111"},"installUnpackCode":""}
+[08:28:52.532] Persisting server connection details to /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-622cb03f7e070a9670c94bae1a45d78d7181fbd4-0.64.0/data.json
+[08:28:52.536] Starting forwarding server. localPort 39505 -> socksPort 40931 -> remotePort 46783
+[08:28:52.536] Forwarding server listening on 39505
+[08:28:52.537] Waiting for ssh tunnel to be ready
+[08:28:52.540] [Forwarding server 39505] Got connection 0
+[08:28:52.543] Tunneled 46783 to local port 39505
+[08:28:52.544] Resolved "ssh-remote+adrien2" to "127.0.0.1:39505"
+[08:28:52.561] ------
+
+
+
+
+[08:28:52.600] [Forwarding server 39505] Got connection 1
+[08:28:52.697] [Forwarding server 39505] Got connection 2
+[08:28:58.341] [Forwarding server 39505] Got connection 3
+[08:28:58.342] [Forwarding server 39505] Got connection 4
+[08:28:58.348] [Forwarding server 39505] Got connection 5
+[08:28:58.349] [Forwarding server 39505] Got connection 6
+[08:28:58.349] [Forwarding server 39505] Got connection 7
+[08:28:58.350] [Forwarding server 39505] Got connection 8
+[08:29:19.026] [Forwarding server 39505] Got connection 9
