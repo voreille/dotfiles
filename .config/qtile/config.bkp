@@ -624,6 +624,9 @@ floating_types = ["notification", "toolbar", "splash", "dialog"]
 def start_once():
     subprocess.call([home + '/.config/qtile/scripts/autostart.sh'])
 
+@hook.subscribe.screen_change
+def restart_on_randr(qtile):
+    qtile.cmd_restart()
 
 follow_mouse_focus = True
 bring_front_click = False

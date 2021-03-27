@@ -1,5 +1,5 @@
 favorites=
-recent=visual-studio-code.desktop,xfce4-power-manager-settings.desktop,firefox.desktop,teams_teams.desktop,xfce-mouse-settings.desktop,mendeleydesktop.desktop,xfce-ui-settings.desktop,thunar-settings.desktop,gufw.desktop,xfce-display-settings.desktop
+recent=org.manjaro.pamac.manager.desktop,firefox.desktop,deluge.desktop,visual-studio-code.desktop,xfce4-power-manager-settings.desktop,teams_teams.desktop,xfce-mouse-settings.desktop,mendeleydesktop.desktop,xfce-ui-settings.desktop,thunar-settings.desktop
 button-icon=/home/val/Documents/personal_icons/whiskermenu-manjaro-dracula.svg
 button-single-row=false
 show-button-title=false
@@ -7,7 +7,7 @@ show-button-icon=true
 launcher-show-name=true
 launcher-show-description=true
 launcher-show-tooltip=true
-item-icon-size=2
+item-icon-size=0
 hover-switch-category=false
 category-show-name=true
 category-icon-size=1

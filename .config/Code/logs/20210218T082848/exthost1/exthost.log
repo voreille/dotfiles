@@ -68,3 +68,5 @@
 [2021-02-18 18:10:27.184] [exthost] [warning] TextEditor is closed/disposed
 [2021-02-18 18:11:08.193] [exthost] [warning] TextEditor is closed/disposed
 [2021-02-18 18:11:08.193] [exthost] [warning] TextEditor is closed/disposed
+[2021-02-18 22:44:58.834] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-02-18 22:44:59.840] [exthost] [info] exiting with code 0

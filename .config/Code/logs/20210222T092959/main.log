@@ -1,0 +1,37 @@
+[2021-02-22 09:29:59.988] [main] [info] update#setState idle
+[2021-02-22 09:30:29.992] [main] [info] update#setState checking for updates
+[2021-02-22 09:47:42.797] [main] [error] Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-02-22 09:47:42.797] [main] [info] update#setState idle
+[2021-02-22 10:30:30.018] [main] [info] update#setState checking for updates
+[2021-02-22 10:47:19.966] [main] [error] Error: net::ERR_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-02-22 10:47:19.967] [main] [info] update#setState idle
+[2021-02-22 11:30:30.117] [main] [info] update#setState checking for updates
+[2021-02-22 11:30:30.438] [main] [info] update#setState idle
+[2021-02-22 12:30:30.217] [main] [info] update#setState checking for updates
+[2021-02-22 12:30:31.235] [main] [info] update#setState idle
+[2021-02-22 13:30:30.329] [main] [info] update#setState checking for updates
+[2021-02-22 13:30:30.958] [main] [info] update#setState idle
+[2021-02-22 14:30:30.430] [main] [info] update#setState checking for updates
+[2021-02-22 14:30:30.782] [main] [info] update#setState idle
+[2021-02-22 15:30:30.529] [main] [info] update#setState checking for updates
+[2021-02-22 15:30:30.934] [main] [info] update#setState idle
+[2021-02-22 16:30:30.602] [main] [info] update#setState checking for updates
+[2021-02-22 16:30:30.878] [main] [info] update#setState idle
+[2021-02-22 17:30:30.702] [main] [info] update#setState checking for updates
+[2021-02-22 17:30:31.012] [main] [info] update#setState idle
+[2021-02-22 18:30:30.801] [main] [info] update#setState checking for updates
+[2021-02-22 18:30:31.336] [main] [info] update#setState idle
+[2021-02-22 19:30:30.901] [main] [info] update#setState checking for updates
+[2021-02-22 19:30:40.892] [main] [info] update#setState idle
+[2021-02-22 20:30:30.921] [main] [info] update#setState checking for updates
+[2021-02-22 20:30:33.333] [main] [info] update#setState idle
+[2021-02-22 21:30:31.024] [main] [info] update#setState checking for updates
+[2021-02-22 21:30:36.793] [main] [info] update#setState idle
+[2021-02-22 22:30:31.063] [main] [info] update#setState checking for updates
+[2021-02-22 22:30:31.287] [main] [info] update#setState idle
+[2021-02-22 23:30:31.163] [main] [info] update#setState checking for updates
+[2021-02-22 23:30:31.523] [main] [info] update#setState idle
