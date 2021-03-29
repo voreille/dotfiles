@@ -447,9 +447,14 @@ def init_widgets_list():
                widget.Prompt(),
               widget.TaskList(
                          border=colors["grey"],
-                         borderwidth=1,
+                         borderwidth=0,
                          highlight_method="block",
                          padding = 2,
+                         txt_floating=nf.icons["fa_window_restore"],
+                         txt_minimized=nf.icons["fa_window_minimize"],
+                         txt_maximized=nf.icons["fa_window_maximize"],
+                         max_title_width=250,
+                         title_width_method="uniform",
                         ),
                widget.TextBox(
                         # text="",
