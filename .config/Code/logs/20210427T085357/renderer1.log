@@ -1,0 +1,25 @@
+[2021-04-27 14:14:30.155] [renderer1] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)

@@ -1,0 +1,609 @@
+[08:56:09.874] Log Level: 2
+[08:56:09.876] remote-ssh@0.65.4
+[08:56:09.876] linux x64
+[08:56:09.877] SSH Resolver called for "ssh-remote+adrien2", attempt 1
+[08:56:09.877] "remote.SSH.useLocalServer": true
+[08:56:09.877] "remote.SSH.path": undefined
+[08:56:09.877] "remote.SSH.configFile": undefined
+[08:56:09.877] "remote.SSH.useFlock": true
+[08:56:09.877] "remote.SSH.lockfilesInTmp": false
+[08:56:09.878] "remote.SSH.localServerDownload": auto
+[08:56:09.878] "remote.SSH.remoteServerListenOnSocket": false
+[08:56:09.878] "remote.SSH.showLoginTerminal": false
+[08:56:09.878] "remote.SSH.defaultExtensions": []
+[08:56:09.878] "remote.SSH.loglevel": 2
+[08:56:09.879] SSH Resolver called for host: adrien2
+[08:56:09.879] Setting up SSH remote "adrien2"
+[08:56:09.882] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[08:56:09.890] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[08:56:09.895] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[08:56:09.898] Install and start server if needed
+[08:56:09.901] PATH: /home/val/.local/bin:/home/val/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/usr/lib/jvm/default/bin
+[08:56:09.901] Checking ssh with "ssh -V"
+[08:56:09.925] > OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+
+[08:56:09.927] askpass server listening on /run/user/1000/vscode-ssh-askpass-d9aa6ccb43dfd3a937f6f03456ac69de02e4908d.sock
+[08:56:09.928] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-100286d31e33c36dbb30f47134a32e9665a4cf51.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","38769","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[08:56:09.928] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-d9aa6ccb43dfd3a937f6f03456ac69de02e4908d.sock"}
+[08:56:09.932] Spawned 5755
+[08:56:10.023] > local-server> Spawned ssh: 5763
+[08:56:10.026] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[08:56:12.384] stderr> debug1: Server host key: ssh-ed25519 SHA256:CqQxiwThyMVy7fXthyrh/7vXSf8BqTrJuYAkmm56smo
+[08:56:12.580] stderr> Authenticated to 153.109.130.82 (via proxy).
+[08:56:13.569] > Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-70-generic x86_64)
+> 
+>  * Documentation:  https://help.ubuntu.com
+>  * Management:     https://landscape.canonical.com
+>  * Support:        https://ubuntu.com/advantage
+> 
+>  * Canonical Livepatch is available for installation.
+>    - Reduce system reboots and improve kernel security. Activate at:
+>      https://ubuntu.com/livepatch
+> 
+> 24 packages can be updated.
+> 0 of these updates are security updates.
+> To see these additional updates run: apt list --upgradable
+> 
+> New release '20.04.2 LTS' available.
+> Run 'do-release-upgrade' to upgrade to it.
+> 
+> Your Hardware Enablement Stack (HWE) is supported until April 2023.
+> *** System restart required ***
+[08:56:13.636] > ready: 1e32f1caa3ef
+[08:56:13.672] > Linux 5.4.0-70-generic #78~18.04.1-Ubuntu SMP Sat Mar 20 14:10:07 UTC 2021
+[08:56:13.672] Platform: linux
+[08:56:13.755] > 1e32f1caa3ef: running
+[08:56:13.791] > Acquiring lock on /home/val/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/vscode-remote-lock.val.3c4e3df9e89829dce27b7b5c24508306b151f30d
+[08:56:13.813] > Found existing installation at /home/val/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d...
+> Checking /home/val/.vscode-server/.3c4e3df9e89829dce27b7b5c24508306b151f30d.log and /home/val/.vscode-server/.3c4e3df9e89829dce27b7b5c24508306b151f30d.pid for a running server
+> Looking for server with pid: 13832
+[08:56:13.843] > Starting server with command... /home/val/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/server.sh --start-server --host=127.0.0.1 --enable-remote-auto-shutdown  --port=0  &> "/home/val/.vscode-server/.3c4e3df9e89829dce27b7b5c24508306b151f30d.log" < /dev/null
+> printenv:
+[08:56:13.863] >     LC_MEASUREMENT=en_GB.UTF-8
+>     SSH_CONNECTION=153.109.124.125 52598 153.109.130.82 22
+>     LC_PAPER=en_GB.UTF-8
+>     LC_MONETARY=en_GB.UTF-8
+>     LANG=en_US.UTF-8
+>     LC_NAME=en_GB.UTF-8
+>     XDG_SESSION_ID=1123
+>     USER=val
+>     PWD=/home/val
+>     HOME=/home/val
+>     SSH_CLIENT=153.109.124.125 52598 22
+>     XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+>     LC_ADDRESS=en_GB.UTF-8
+>     LC_NUMERIC=en_GB.UTF-8
+>     MAIL=/var/mail/val
+>     PAPERSIZE=a4
+>     SHELL=/bin/bash
+>     SHLVL=2
+>     LC_TELEPHONE=en_GB.UTF-8
+>     VSCODE_AGENT_FOLDER=/home/val/.vscode-server
+>     LOGNAME=val
+>     DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+>     XDG_RUNTIME_DIR=/run/user/1000
+>     PATH=/home/val/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+>     LC_IDENTIFICATION=en_GB.UTF-8
+>     LC_TIME=en_GB.UTF-8
+>     _=/usr/bin/printenv
+> Spawned remote server: 719
+> Waiting for server log...
+[08:56:13.930] > Waiting for server log...
+[08:56:13.951] > Waiting for server log...
+[08:56:13.978] >  
+> *
+> * Reminder: You may only use this software with Visual Studio family products,
+> * as described in the license (https://go.microsoft.com/fwlink/?linkid=2077057)
+> *
+>  
+[08:56:14.000] > 1e32f1caa3ef: start
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> webUiAccessToken====
+> listeningOn==37461==
+> osReleaseId==ubuntu==
+> arch==x86_64==
+> tmpDir==/run/user/1000==
+> platform==linux==
+> unpackResult====
+> didLocalDownload==0==
+> downloadTime====
+> installTime====
+> extInstallTime====
+> serverStartTime==121==
+> connectionToken==11aa111a-1a11-11a1-111a-a11a1a11a11a==
+> 1e32f1caa3ef: end
+[08:56:14.000] Received install output: 
+SSH_AUTH_SOCK====
+DISPLAY====
+webUiAccessToken====
+listeningOn==37461==
+osReleaseId==ubuntu==
+arch==x86_64==
+tmpDir==/run/user/1000==
+platform==linux==
+unpackResult====
+didLocalDownload==0==
+downloadTime====
+installTime====
+extInstallTime====
+serverStartTime==121==
+connectionToken==11aa111a-1a11-11a1-111a-a11a1a11a11a==
+
+[08:56:14.001] Remote server is listening on 37461
+[08:56:14.001] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":37461},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"11aa111a-1a11-11a1-111a-a11a1a11a11a"},"serverStartTime":121,"installUnpackCode":""}
+[08:56:14.002] Persisting server connection details to /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[08:56:14.008] Starting forwarding server. localPort 44803 -> socksPort 38769 -> remotePort 37461
+[08:56:14.008] Forwarding server listening on 44803
+[08:56:14.008] Waiting for ssh tunnel to be ready
+[08:56:14.010] [Forwarding server 44803] Got connection 0
+[08:56:14.011] Tunneled 37461 to local port 44803
+[08:56:14.012] Resolved "ssh-remote+adrien2" to "127.0.0.1:44803"
+[08:56:14.028] ------
+
+
+
+
+[08:56:14.127] [Forwarding server 44803] Got connection 1
+[08:56:14.515] [Forwarding server 44803] Got connection 2
+[08:56:16.092] [Forwarding server 44803] Got connection 3
+[14:58:22.359] ------
+
+
+
+
+[14:58:22.360] SSH Resolver called for "ssh-remote+adrien2", attempt 2, (Reconnection)
+[14:58:22.363] SSH Resolver called for host: adrien2
+[14:58:22.364] Setting up SSH remote "adrien2"
+[14:58:22.373] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[14:58:22.376] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[14:58:22.381] Found local server running: {"remoteListeningOn":{"port":37461},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"11aa111a-1a11-11a1-111a-a11a1a11a11a","pid":5755,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-100286d31e33c36dbb30f47134a32e9665a4cf51.sock","socksPort":38769,"startupTime":1619592969932}
+[14:58:22.382] Running server is stale. Ignoring
+[14:58:22.383] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[14:58:22.399] Install and start server if needed
+[14:58:22.413] askpass server listening on /run/user/1000/vscode-ssh-askpass-eae74c297b055b470524b269afe87a37a1713d50.sock
+[14:58:22.414] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-15897a240fa44ecb02ee9d6f5e5b509946e0151e.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","40051","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[14:58:22.415] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-eae74c297b055b470524b269afe87a37a1713d50.sock"}
+[14:58:22.436] Spawned 79424
+[14:58:22.810] > local-server> Spawned ssh: 79433
+[14:58:22.815] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[14:58:26.937] > local-server> Timed out
+[14:58:26.953] Local server exit: 0
+[14:58:37.829] stderr> Connection timed out during banner exchange
+[14:58:37.830] stderr> Connection to UNKNOWN port 65535 timed out
+[14:58:37.835] > local-server> ssh child died, shutting down
+[14:58:37.839] Local server exit: 0
+[14:58:37.840] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[14:58:37.918] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[14:58:37.934] ------
+
+
+
+
+[14:58:42.976] ------
+
+
+
+
+[14:58:42.977] SSH Resolver called for "ssh-remote+adrien2", attempt 3, (Reconnection)
+[14:58:42.978] SSH Resolver called for host: adrien2
+[14:58:42.978] Setting up SSH remote "adrien2"
+[14:58:42.981] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[14:58:42.982] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[14:58:42.983] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[14:58:42.995] Install and start server if needed
+[14:58:43.005] askpass server listening on /run/user/1000/vscode-ssh-askpass-362ade30a53df3305cb34faad6c044a93972a047.sock
+[14:58:43.006] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-533a88a5eed26465a759631c479f1d141e2cf325.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","33979","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[14:58:43.006] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-362ade30a53df3305cb34faad6c044a93972a047.sock"}
+[14:58:43.019] Spawned 79506
+[14:58:43.225] > local-server> Spawned ssh: 79515
+[14:58:43.228] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[14:58:58.239] stderr> Connection timed out during banner exchange
+[14:58:58.240] stderr> Connection to UNKNOWN port 65535 timed out
+[14:58:58.241] > local-server> ssh child died, shutting down
+[14:58:58.248] Local server exit: 0
+[14:58:58.249] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[14:58:58.253] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[14:58:58.263] ------
+
+
+
+
+[14:59:03.295] ------
+
+
+
+
+[14:59:03.296] SSH Resolver called for "ssh-remote+adrien2", attempt 4, (Reconnection)
+[14:59:03.299] SSH Resolver called for host: adrien2
+[14:59:03.300] Setting up SSH remote "adrien2"
+[14:59:03.306] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[14:59:03.307] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[14:59:03.309] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[14:59:03.330] Install and start server if needed
+[14:59:03.358] askpass server listening on /run/user/1000/vscode-ssh-askpass-e766ab03ed74db1311a74150ef9148a3eecdc208.sock
+[14:59:03.360] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-5b2d020005c97a1d4ad26389ef303ecd2d0bb17a.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","45503","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[14:59:03.361] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-e766ab03ed74db1311a74150ef9148a3eecdc208.sock"}
+[14:59:03.390] Spawned 79572
+[14:59:03.614] > local-server> Spawned ssh: 79580
+[14:59:03.617] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[14:59:18.633] stderr> Connection timed out during banner exchange
+[14:59:18.633] stderr> Connection to UNKNOWN port 65535 timed out
+[14:59:18.635] > local-server> ssh child died, shutting down
+[14:59:18.651] Local server exit: 0
+[14:59:18.653] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[14:59:18.660] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[14:59:18.669] ------
+
+
+
+
+[14:59:28.729] ------
+
+
+
+
+[14:59:28.730] SSH Resolver called for "ssh-remote+adrien2", attempt 5, (Reconnection)
+[14:59:28.731] SSH Resolver called for host: adrien2
+[14:59:28.732] Setting up SSH remote "adrien2"
+[14:59:28.738] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[14:59:28.740] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[14:59:28.741] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[14:59:28.759] Install and start server if needed
+[14:59:28.775] askpass server listening on /run/user/1000/vscode-ssh-askpass-28132beb23bc998a467dfe95545bc660b16ea416.sock
+[14:59:28.776] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-09164bfe1aa99e8d83e57ad04b2ba3f6694bcbde.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","44461","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[14:59:28.776] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-28132beb23bc998a467dfe95545bc660b16ea416.sock"}
+[14:59:28.786] Spawned 79593
+[14:59:28.979] > local-server> Spawned ssh: 79601
+[14:59:28.984] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[14:59:43.997] stderr> Connection timed out during banner exchange
+[14:59:43.997] stderr> Connection to UNKNOWN port 65535 timed out
+[14:59:44.001] > local-server> ssh child died, shutting down
+[14:59:44.020] Local server exit: 0
+[14:59:44.022] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[14:59:44.026] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[14:59:44.041] ------
+
+
+
+
+[14:59:54.112] ------
+
+
+
+
+[14:59:54.113] SSH Resolver called for "ssh-remote+adrien2", attempt 6, (Reconnection)
+[14:59:54.114] SSH Resolver called for host: adrien2
+[14:59:54.116] Setting up SSH remote "adrien2"
+[14:59:54.122] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[14:59:54.124] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[14:59:54.125] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[14:59:54.141] Install and start server if needed
+[14:59:54.156] askpass server listening on /run/user/1000/vscode-ssh-askpass-0dfb8a9c8533108a956a7e5c61e9a34ace345e37.sock
+[14:59:54.158] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-fccf58307f4d0dc3b7da5da94f7fd0a2f7373a3a.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","38815","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[14:59:54.158] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-0dfb8a9c8533108a956a7e5c61e9a34ace345e37.sock"}
+[14:59:54.177] Spawned 79650
+[14:59:54.443] > local-server> Spawned ssh: 79659
+[14:59:54.447] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[15:00:09.459] stderr> Connection timed out during banner exchange
+[15:00:09.459] stderr> Connection to UNKNOWN port 65535 timed out
+[15:00:09.461] > local-server> ssh child died, shutting down
+[15:00:09.470] Local server exit: 0
+[15:00:09.470] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[15:00:09.472] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[15:00:09.477] ------
+
+
+
+
+[15:00:19.492] ------
+
+
+
+
+[15:00:19.493] SSH Resolver called for "ssh-remote+adrien2", attempt 7, (Reconnection)
+[15:00:19.494] SSH Resolver called for host: adrien2
+[15:00:19.494] Setting up SSH remote "adrien2"
+[15:00:19.498] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[15:00:19.499] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[15:00:19.500] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[15:00:19.508] Install and start server if needed
+[15:00:19.525] askpass server listening on /run/user/1000/vscode-ssh-askpass-b63d782967561ba14eb35c226df9b8efe73abc2b.sock
+[15:00:19.527] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-22ddbbb244289d906b4731f4a69d75496a6d28c0.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","39647","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[15:00:19.528] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-b63d782967561ba14eb35c226df9b8efe73abc2b.sock"}
+[15:00:19.547] Spawned 79717
+[15:00:19.861] > local-server> Spawned ssh: 79725
+[15:00:19.864] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[15:00:34.876] stderr> Connection timed out during banner exchange
+[15:00:34.877] stderr> Connection to UNKNOWN port 65535 timed out
+[15:00:34.879] > local-server> ssh child died, shutting down
+[15:00:34.894] Local server exit: 0
+[15:00:34.895] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[15:00:34.899] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[15:00:34.911] ------
+
+
+
+
+[15:00:44.962] ------
+
+
+
+
+[15:00:44.962] SSH Resolver called for "ssh-remote+adrien2", attempt 8, (Reconnection)
+[15:00:44.963] SSH Resolver called for host: adrien2
+[15:00:44.964] Setting up SSH remote "adrien2"
+[15:00:44.970] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[15:00:44.971] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[15:00:44.972] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[15:00:44.981] Install and start server if needed
+[15:00:44.995] askpass server listening on /run/user/1000/vscode-ssh-askpass-43ed36ffedbca890c2a043768281cd102cc007ed.sock
+[15:00:44.997] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-b47799d9b4d5728891a57e63404cdcc6b9a1d5b3.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","37251","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[15:00:44.998] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-43ed36ffedbca890c2a043768281cd102cc007ed.sock"}
+[15:00:45.019] Spawned 79808
+[15:00:45.285] > local-server> Spawned ssh: 79816
+[15:00:45.288] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[15:01:00.302] stderr> Connection timed out during banner exchange
+[15:01:00.303] stderr> Connection to UNKNOWN port 65535 timed out
+[15:01:00.304] > local-server> ssh child died, shutting down
+[15:01:00.317] Local server exit: 0
+[15:01:00.318] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[15:01:00.322] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[15:01:00.328] ------
+
+
+
+
+[15:01:10.341] ------
+
+
+
+
+[15:01:10.341] SSH Resolver called for "ssh-remote+adrien2", attempt 9, (Reconnection)
+[15:01:10.342] SSH Resolver called for host: adrien2
+[15:01:10.342] Setting up SSH remote "adrien2"
+[15:01:10.345] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[15:01:10.346] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[15:01:10.346] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[15:01:10.352] Install and start server if needed
+[15:01:10.358] askpass server listening on /run/user/1000/vscode-ssh-askpass-c6926e2fd68f268c22a2a059f22fc7913dc99014.sock
+[15:01:10.358] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-2833fd937499aa745bc2f96069ac26766aec6863.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","33321","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[15:01:10.359] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-c6926e2fd68f268c22a2a059f22fc7913dc99014.sock"}
+[15:01:10.370] Spawned 79869
+[15:01:10.575] > local-server> Spawned ssh: 79877
+[15:01:10.580] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[15:01:25.593] stderr> Connection timed out during banner exchange
+[15:01:25.593] stderr> Connection to UNKNOWN port 65535 timed out
+[15:01:25.596] > local-server> ssh child died, shutting down
+[15:01:25.610] Local server exit: 0
+[15:01:25.611] Received install output: OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+Connection timed out during banner exchange
+Connection to UNKNOWN port 65535 timed out
+
+[15:01:25.614] Resolver error: Error: The connection timed out
+    at Function.Offline (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:64692)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62345
+    at Object.t.handleInstallOutput (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:62620)
+    at Object.e [as tryInstallWithLocalServer] (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:386419)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:294035
+    at Object.t.withShowDetailsEvent (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:405329)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384890
+    at E (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:381658)
+    at Object.t.resolveWithLocalServer (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:384517)
+    at Object.t.resolve (/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:1:295505)
+    at /home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension.js:127:110530
+[15:01:25.624] ------
+
+
+
+
+[15:01:55.642] ------
+
+
+
+
+[15:01:55.643] SSH Resolver called for "ssh-remote+adrien2", attempt 10, (Reconnection)
+[15:01:55.643] SSH Resolver called for host: adrien2
+[15:01:55.644] Setting up SSH remote "adrien2"
+[15:01:55.648] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[15:01:55.651] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[15:01:55.652] Using commit id "3c4e3df9e89829dce27b7b5c24508306b151f30d" and quality "stable" for server
+[15:01:55.662] Install and start server if needed
+[15:01:55.673] askpass server listening on /run/user/1000/vscode-ssh-askpass-b022dc7ae341bd6a75eed1eaf3561bd1149970b4.sock
+[15:01:55.674] Spawning local server with {"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-d45d71c119a55dd735059278d4f5a21141bfb5af.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","44577","-o","ConnectTimeout=15","adrien2"],"dataFilePath":"/home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json"}
+[15:01:55.674] Local server env: {"DISPLAY":":0","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/opt/visual-studio-code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/run/user/1000/vscode-ssh-askpass-b022dc7ae341bd6a75eed1eaf3561bd1149970b4.sock"}
+[15:01:55.690] Spawned 79940
+[15:01:55.911] > local-server> Spawned ssh: 79948
+[15:01:55.915] stderr> OpenSSH_8.5p1, OpenSSL 1.1.1k  25 Mar 2021
+[15:02:02.248] stderr> debug1: Server host key: ssh-ed25519 SHA256:CqQxiwThyMVy7fXthyrh/7vXSf8BqTrJuYAkmm56smo
+[15:02:04.031] stderr> Authenticated to 153.109.130.82 (via proxy).
+[15:02:06.111] > Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-70-generic x86_64)
+> 
+>  * Documentation:  https://help.ubuntu.com
+>  * Management:     https://landscape.canonical.com
+>  * Support:        https://ubuntu.com/advantage
+> 
+>  * Canonical Livepatch is available for installation.
+>    - Reduce system reboots and improve kernel security. Activate at:
+>      https://ubuntu.com/livepatch
+> 
+> 25 packages can be updated.
+> 0 of these updates are security updates.
+> To see these additional updates run: apt list --upgradable
+> 
+> Your Hardware Enablement Stack (HWE) is supported until April 2023.
+> *** System restart required ***
+[15:02:06.807] > ready: 052c7c42e113
+[15:02:07.349] > Linux 5.4.0-70-generic #78~18.04.1-Ubuntu SMP Sat Mar 20 14:10:07 UTC 2021
+[15:02:07.350] Platform: linux
+[15:02:08.410] > 052c7c42e113: running
+[15:02:08.448] > Acquiring lock on /home/val/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/vscode-remote-lock.val.3c4e3df9e89829dce27b7b5c24508306b151f30d
+> Found existing installation at /home/val/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d...
+> Checking /home/val/.vscode-server/.3c4e3df9e89829dce27b7b5c24508306b151f30d.log and /home/val/.vscode-server/.3c4e3df9e89829dce27b7b5c24508306b151f30d.pid for a running server
+> Looking for server with pid: 719
+> Found running server...
+>  
+> *
+> * Reminder: You may only use this software with Visual Studio family products,
+> * as described in the license (https://go.microsoft.com/fwlink/?linkid=2077057)
+> *
+>  
+> Checking server status on port 37461 with wget
+[15:02:08.756] > 052c7c42e113: start
+> SSH_AUTH_SOCK====
+> DISPLAY====
+> webUiAccessToken====
+> listeningOn==37461==
+> osReleaseId==ubuntu==
+> arch==x86_64==
+> tmpDir==/run/user/1000==
+> platform==linux==
+> unpackResult====
+> didLocalDownload==0==
+> downloadTime====
+> installTime====
+> extInstallTime====
+> serverStartTime====
+> connectionToken==11aa111a-1a11-11a1-111a-a11a1a11a11a==
+> 052c7c42e113: end
+[15:02:08.757] Received install output: 
+SSH_AUTH_SOCK====
+DISPLAY====
+webUiAccessToken====
+listeningOn==37461==
+osReleaseId==ubuntu==
+arch==x86_64==
+tmpDir==/run/user/1000==
+platform==linux==
+unpackResult====
+didLocalDownload==0==
+downloadTime====
+installTime====
+extInstallTime====
+serverStartTime====
+connectionToken==11aa111a-1a11-11a1-111a-a11a1a11a11a==
+
+[15:02:08.758] Remote server is listening on 37461
+[15:02:08.759] Parsed server configuration: {"serverConfiguration":{"remoteListeningOn":{"port":37461},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"11aa111a-1a11-11a1-111a-a11a1a11a11a"},"installUnpackCode":""}
+[15:02:08.761] Persisting server connection details to /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[15:02:08.766] Starting forwarding server. localPort 44221 -> socksPort 44577 -> remotePort 37461
+[15:02:08.767] Forwarding server listening on 44221
+[15:02:08.769] Waiting for ssh tunnel to be ready
+[15:02:08.773] [Forwarding server 44221] Got connection 0
+[15:02:08.778] Tunneled 37461 to local port 44221
+[15:02:08.778] Resolved "ssh-remote+adrien2" to "127.0.0.1:44221"
+[15:02:08.797] ------
+
+
+
+
+[15:02:08.867] [Forwarding server 44221] Got connection 1
+[15:02:10.554] [Forwarding server 44221] Got connection 2
+[16:16:53.575] [Forwarding server 44221] Got connection 3

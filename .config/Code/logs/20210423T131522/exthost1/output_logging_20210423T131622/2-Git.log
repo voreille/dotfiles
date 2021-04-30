@@ -1,0 +1,95 @@
+Looking for git in: git
+Using git 2.31.1 from git
+Opening repository for path='/home/val/python_wkspce/rgd_mice' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/.env' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/LICENSE' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/Makefile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/docs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/models' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/notebooks' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/references' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/reports' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/requirements.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/setup.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/test_environment.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/tox.ini' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/rgd_mice/env/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/notebook/bundler/tests/resources/subdir/subsubdir/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/jupyterlab_widgets/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}

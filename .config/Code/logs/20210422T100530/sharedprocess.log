@@ -1,0 +1,7 @@
+[2021-04-22 10:05:41.682] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-04-22 10:06:09.616] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-04-22 10:06:11.221] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.f12acfcf-53e9-4bb0-bd58-d2585f957240: ms-python.vscode-pylance
+[2021-04-22 10:06:11.266] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/ms-python.vscode-pylance-2021.4.2
+[2021-04-22 10:06:11.271] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-04-22 10:06:11.352] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-04-22 10:06:12.324] [sharedprocess] [info] Starting to clean up unused language packs.

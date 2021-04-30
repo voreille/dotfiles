@@ -1,18 +1,33 @@
 [KFileDialog Settings]
-Recent Files[$e]=tra0003_aidrafox.mp4,file:$HOME/Downloads/RoccosIntimateCastings10_s03_JohnPrice_HazelDew_1080p.mp4,file:$HOME/Downloads/tra0003_aidrafox.mp4
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+Recent Files[$e]=tra0003_aidrafox.mp4,file:$HOME/Videos/.dw/SZ2487_Isabella_De_Laa_1080P.mp4,file:$HOME/Videos/.dw/SZ1978_Kira_Thorn_1080P.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h21m26s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h18m43s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h17m22s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h15m24s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h13m59s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h11m33s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-10h06m47s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-09h59m46s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-26-09h57m40s-SZ1978_Kira_Thorn_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-25-17h44m46s-GIO1291_Alessandra_Amore_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-25-17h44m04s-GIO1291_Alessandra_Amore_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-25-17h43m57s-GIO1291_Alessandra_Amore_1080P.mp4-.mp4,file:$HOME/Videos/.vlc/vlc-record-2021-04-25-17h43m08s-GIO1291_Alessandra_Amore_1080P.mp4-.mp4
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/,file:$HOME/Videos/,file:$HOME/Videos/.dw/,file:$HOME/Documents/perso/kdenlive_project/,file:$HOME/Videos/.vlc/
 detailViewIconSize=16
 
 [MainWindow]
 DP-2-1 eDP-1 Height 1080=1034
+DP-2-1 eDP-1 Height 1920x1080=1040
 DP-2-1 eDP-1 Width 1920=1900
+DP-2-1 eDP-1 Width 1920x1080=1906
 DP-2-1 eDP-1 XPosition=1928
+DP-2-1 eDP-1 XPosition 1920x1080=5
 DP-2-1 eDP-1 YPosition=34
-State=AAAA/wAAAAD9AAAAAgAAAAEAAAFaAAACjfwCAAAAAfwAAAFdAAACjQAAANsBAAAa+gAAAAECAAAAAvsAAAAKAG0AaQB4AGUAcgEAAAHwAAACCwAAAL8A///++wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAACJAP///gAAAAIAAAdsAAABB/wBAAAACfsAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAACGAP////sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABpAP////wAAAAAAAABOgAAAHsA////+gAAAAABAAAABfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAAA/////wAAAGAA////+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA////+wAAAB4AYwBsAGkAcABfAHAAcgBvAHAAZQByAHQAaQBlAHMBAAAAAP////8AAABaAP////sAAAAYAHUAbgBkAG8AXwBoAGkAcwB0AG8AcgB5AQAAAAD/////AAAAYAD////8AAABPgAAAxUAAAFAAP////oAAAAAAgAAAAP7AAAAGABjAGwAaQBwAF8AbQBvAG4AaQB0AG8AcgEAAABEAAABzQAAAMcA///++wAAABIAUwB1AGIAdABpAHQAbABlAHMAAAAAAP////8AAAEOAP////sAAAAOAGwAaQBiAHIAYQByAHkBAAAAAP////8AAAChAP///vwAAARXAAADFQAAAUAA////+gAAAAACAAAAAvsAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAL8AAAEsAAAAxwD///77AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAJUA///++wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABJAD////7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACnAP////sAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAAChAP////sAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABPAD///8AAAYOAAACjQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIBAAACOv////8AAAAAAAAAAA==
+DP-2-1 eDP-1 YPosition 1920x1080=31
+State=AAAA/wAAAAD9AAAAAgAAAAAAAAEDAAABq/wCAAAAAfsAAAAWAHAAcgBvAGoAZQBjAHQAXwBiAGkAbgEAAAJFAAABqwAAAJgA////AAAAAgAAB3IAAAIZ/AEAAAAO+wAAABgAbgBvAHQAZQBzAF8AdwBpAGQAZwBlAHQAAAAAAP////8AAAByAP////sAAAAOAGwAaQBiAHIAYQByAHkAAAAAAP////8AAAByAP////sAAAAUAHMAYwByAGUAZQBuAGcAcgBhAGIAAAAAAP////8AAACGAP////sAAAAaAGEAdQBkAGkAbwBzAHAAZQBjAHQAcgB1AG0AAAAAAP////8AAABpAP////wAAAAAAAABhQAAAGYA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAAZgD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAFoA/////AAAAYkAAAD4AAAAewD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA/////AAAAoUAAAKYAAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAGAA////+wAAAAoAbQBpAHgAZQByAQAABSEAAAJRAAABJgD////7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUAAAAAAP////8AAAEmAP////sAAAAQAHcAYQB2AGUAZgBvAHIAbQAAAAAA/////wAAAKcA////+wAAABQAcgBnAGIAXwBwAGEAcgBhAGQAZQAAAAAA/////wAAAKEA////+wAAABIAaABpAHMAdABvAGcAcgBhAG0AAAAAAP////8AAAE8AP////sAAAASAFMAdQBiAHQAaQB0AGwAZQBzAAAAAAD/////AAABAwD///8AAAZrAAABqwAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAABgAZQB4AHQAcgBhAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1040
+eDP-1 Width 1920x1080=1906
+eDP-1 XPosition 1920x1080=5
+eDP-1 YPosition 1920x1080=31
 
 [Recent Dirs]
-KdenliveClipFolder[$e]=$HOME/Downloads/,$HOME/Videos,$HOME/Documents
+KdenliveClipFolder[$e]=$HOME/Videos/.dw/,$HOME/Videos/.vlc/,$HOME/Documents/perso/kdenlive_project/
+KdenliveProjectsFolder[$e]=$HOME/Documents/perso/kdenlive_project,$HOME/Documents/perso/kdenlive_project/,$HOME/Documents
+
+[Recent Files]
+File1[$e]=$HOME/Documents/perso/kdenlive_project/gape_evolution.kdenlive
+File2[$e]=$HOME/Documents/perso/kdenlive_project/pmv_dp.kdenlive
+Name1[$e]=gape_evolution.kdenlive
+Name2[$e]=pmv_dp.kdenlive
 
 [Scope_Histogram]
 autoRefresh=true
@@ -36,11 +51,11 @@ realtime=false
 75PBox=false
 autoRefresh=true
 axis=false
-backgroundmode=0
+backgroundmode=1
 colorspace_ypbpr=false
-gain=1
+gain=6
 iqlines=false
-paintmode=0
+paintmode=2
 realtime=false
 
 [Scope_Waveform]
@@ -53,7 +68,7 @@ rec601=false
 ColorSchemePath=KvAdaptaDark.colors
 
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAANAAAAAYAAAAmAAAABQAAAE8AAAAEAAAAMQAAAAMAAAA3AAAAAgAAAF8AAAABAAAANwAAALYAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAAAtgAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA+
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAI/gAAAAcAAAAHAAAANAAAAAYAAAAmAAAABQAAAE8AAAAEAAAAMQAAAAMAAAA3AAAAAgAAAF8AAAABAAAANwAAARUAAAAIAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAIAAABFQAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA+
 
 [capture]
 decklink_extension=mov
@@ -73,16 +88,19 @@ mltpath[$e]=/usr/share/mlt/profiles
 rendererpath[$e]=/usr/bin/melt
 
 [timeline]
+showmarkers=false
 trackheight=67
 
 [unmanaged]
+colorclipcolor=128,255,128
 default_profile=atsc_1080p_25
+defaultrescaleheight=540
+defaultrescalewidth=960
 force_breeze=true
 monitor_audio=false
 producerslist=slowmotion,decklink,pango,pixbuf,pgm,vorbis,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,avformat,avformat-novalidate,qimage,qtext,kdenlivetitle,blipflash,count,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,xml,xml-string,xml-nogl,framebuffer
-project_fps=60
 use_dark_breeze=true
 widgetstyle=kvantum-dark
 
 [version]
-version=20.12.2
+version=20.12.3

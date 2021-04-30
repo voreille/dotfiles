@@ -1,8 +1,40 @@
+[Desktop Entry]
+FullScreen=false
+
 [MainWindow]
 DP-2-1 eDP-1 Height 1080=1034
+DP-2-1 eDP-1 Height 1920x1080=1054
 DP-2-1 eDP-1 Width 1920=940
+DP-2-1 eDP-1 Width 1920x1080=1920
 DP-2-1 eDP-1 XPosition=968
+DP-2-1 eDP-1 XPosition 1920x1080=0
 DP-2-1 eDP-1 YPosition=34
-RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAA6wAAAPKAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+DP-2-1 eDP-1 YPosition 1920x1080=26
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPbAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+eDP-1 Height 1920x1080=1054
+eDP-1 Width 1920x1080=1920
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=26
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/SPHN_IMAGINE_extensiveMeeting_22.04.2021.pdf
+File10[$e]=$HOME/Downloads/2104.13478.pdf
+File2[$e]=$HOME/Downloads/MeetingAgenda_22.04.2022 _updated.pdf
+File3[$e]=$HOME/Downloads/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf
+File4[$e]=$HOME/Downloads/2102.04306.pdf
+File5[$e]=$HOME/Downloads/HECKTOR_medima.pdf
+File6[$e]=$HOME/Downloads/slect9.pdf
+File7[$e]=$HOME/Downloads/MEDIA-D-21-00487.pdf
+File8[$e]=$HOME/Downloads/1905.10432v1.pdf
+File9[$e]=$HOME/Downloads/fonc-10-555514.pdf
+Name1[$e]=SPHN_IMAGINE_extensiveMeeting_22.04.2021.pdf
+Name10[$e]=2104.13478.pdf
+Name2[$e]=MeetingAgenda_22.04.2022 _updated.pdf
+Name3[$e]=Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf
+Name4[$e]=2102.04306.pdf
+Name5[$e]=HECKTOR_medima.pdf
+Name6[$e]=slect9.pdf
+Name7[$e]=MEDIA-D-21-00487.pdf
+Name8[$e]=1905.10432v1.pdf
+Name9[$e]=fonc-10-555514.pdf

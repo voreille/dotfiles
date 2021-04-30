@@ -1,24 +1,50 @@
 {
     "telemetry.machineId": "0e5cc432bb0854729ce98bd11154d42c2f25d9f79191e52c2b45949fcd0e43c3",
     "openedPathsList": {
-        "workspaces3": [
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/plc_seg",
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/mario_20jan21",
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/okapy",
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/hecktor_private",
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/lymphangitis3.0",
-            "file:///home/val/python_wkspce/hecktor_private",
-            "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/petct-seg"
-        ],
-        "files2": [],
-        "workspaceLabels": [
-            "~/python_wkspce/plc_seg [SSH: adrien2]",
-            "~/python_wkspce/mario_20jan21 [SSH: adrien2]",
-            "~/python_wkspce/okapy [SSH: adrien2]",
-            "~/python_wkspce/hecktor_private [SSH: adrien2]",
-            "~/python_wkspce/lymphangitis3.0 [SSH: adrien2]",
-            null,
-            "~/python_wkspce/petct-seg [SSH: adrien2]"
+        "entries": [
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/okapy",
+                "label": "~/python_wkspce/okapy [SSH: adrien2]",
+                "remoteAuthority": "ssh-remote+adrien2"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/lymphangitis3.0",
+                "label": "~/python_wkspce/lymphangitis3.0 [SSH: adrien2]",
+                "remoteAuthority": "ssh-remote+adrien2"
+            },
+            {
+                "folderUri": "file:///home/val/python_wkspce/rgd_mice"
+            },
+            {
+                "folderUri": "file:///home/val/python_wkspce/vid_motion"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/plc_seg",
+                "label": "~/python_wkspce/plc_seg [SSH: adrien2]",
+                "remoteAuthority": "ssh-remote+adrien2"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/hecktor_private",
+                "label": "~/python_wkspce/hecktor_private [SSH: adrien2]",
+                "remoteAuthority": "ssh-remote+adrien2"
+            },
+            {
+                "folderUri": "file:///home/val/python_wkspce/hecktor_private"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/petct-seg",
+                "label": "~/python_wkspce/petct-seg [SSH: adrien2]",
+                "remoteAuthority": "ssh-remote+adrien2"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Bdesuto/home/valentin/python_wkspce",
+                "label": "~/python_wkspce [SSH: desuto]",
+                "remoteAuthority": "ssh-remote+desuto"
+            },
+            {
+                "folderUri": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/mario_20jan21",
+                "label": "~/python_wkspce/mario_20jan21 [SSH: adrien2]"
+            }
         ]
     },
     "lastKnownMenubarData": {
@@ -49,7 +75,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.27",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -65,25 +91,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/plc_seg",
-                                        "path": "/home/val/python_wkspce/plc_seg",
+                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/lymphangitis3.0",
+                                        "path": "/home/val/python_wkspce/lymphangitis3.0",
                                         "scheme": "vscode-remote",
                                         "authority": "ssh-remote+adrien2"
                                     },
                                     "enabled": true,
-                                    "label": "~/python_wkspce/plc_seg [SSH: adrien2]"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/mario_20jan21",
-                                        "path": "/home/val/python_wkspce/mario_20jan21",
-                                        "scheme": "vscode-remote",
-                                        "authority": "ssh-remote+adrien2"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/python_wkspce/mario_20jan21 [SSH: adrien2]"
+                                    "label": "~/python_wkspce/lymphangitis3.0 [SSH: adrien2]"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -94,8 +108,44 @@
                                         "scheme": "vscode-remote",
                                         "authority": "ssh-remote+adrien2"
                                     },
+                                    "remoteAuthority": "ssh-remote+adrien2",
                                     "enabled": true,
                                     "label": "~/python_wkspce/okapy [SSH: adrien2]"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/val/python_wkspce/rgd_mice",
+                                        "path": "/home/val/python_wkspce/rgd_mice",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/python_wkspce/rgd_mice"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/val/python_wkspce/vid_motion",
+                                        "path": "/home/val/python_wkspce/vid_motion",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/python_wkspce/vid_motion"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/plc_seg",
+                                        "path": "/home/val/python_wkspce/plc_seg",
+                                        "scheme": "vscode-remote",
+                                        "authority": "ssh-remote+adrien2"
+                                    },
+                                    "remoteAuthority": "ssh-remote+adrien2",
+                                    "enabled": true,
+                                    "label": "~/python_wkspce/plc_seg [SSH: adrien2]"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -106,20 +156,9 @@
                                         "scheme": "vscode-remote",
                                         "authority": "ssh-remote+adrien2"
                                     },
+                                    "remoteAuthority": "ssh-remote+adrien2",
                                     "enabled": true,
                                     "label": "~/python_wkspce/hecktor_private [SSH: adrien2]"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/lymphangitis3.0",
-                                        "path": "/home/val/python_wkspce/lymphangitis3.0",
-                                        "scheme": "vscode-remote",
-                                        "authority": "ssh-remote+adrien2"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/python_wkspce/lymphangitis3.0 [SSH: adrien2]"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -141,8 +180,34 @@
                                         "scheme": "vscode-remote",
                                         "authority": "ssh-remote+adrien2"
                                     },
+                                    "remoteAuthority": "ssh-remote+adrien2",
                                     "enabled": true,
                                     "label": "~/python_wkspce/petct-seg [SSH: adrien2]"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://ssh-remote%2Bdesuto/home/valentin/python_wkspce",
+                                        "path": "/home/valentin/python_wkspce",
+                                        "scheme": "vscode-remote",
+                                        "authority": "ssh-remote+desuto"
+                                    },
+                                    "remoteAuthority": "ssh-remote+desuto",
+                                    "enabled": true,
+                                    "label": "~/python_wkspce [SSH: desuto]"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/mario_20jan21",
+                                        "path": "/home/val/python_wkspce/mario_20jan21",
+                                        "scheme": "vscode-remote",
+                                        "authority": "ssh-remote+adrien2"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/python_wkspce/mario_20jan21 [SSH: adrien2]"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -196,7 +261,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.23",
+                        "id": "submenuitem.26",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -442,7 +507,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.15",
+                        "id": "submenuitem.17",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -525,7 +590,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.21",
+                        "id": "submenuitem.24",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -617,6 +682,10 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
+                        "id": "workbench.actions.view.problems",
+                        "label": "&&Problems"
+                    },
+                    {
                         "id": "workbench.action.output.toggleOutput",
                         "label": "&&Output"
                     },
@@ -627,10 +696,6 @@
                     {
                         "id": "workbench.action.terminal.toggleTerminal",
                         "label": "&&Terminal"
-                    },
-                    {
-                        "id": "workbench.actions.view.problems",
-                        "label": "&&Problems"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -679,7 +744,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.29",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -728,7 +793,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.30",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -934,7 +999,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.22",
+                        "id": "submenuitem.25",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -989,8 +1054,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1047,6 +1111,10 @@
                     {
                         "id": "workbench.action.showWelcomePage",
                         "label": "&&Welcome"
+                    },
+                    {
+                        "id": "workbench.action.showGettingStarted",
+                        "label": "Getting Started"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1288,10 +1356,6 @@
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
             },
-            "workbench.view.search": {
-                "label": "Ctrl+Shift+F",
-                "userSettingsLabel": "ctrl+shift+f"
-            },
             "workbench.view.scm": {
                 "label": "Ctrl+Shift+G",
                 "userSettingsLabel": "ctrl+shift+g"
@@ -1300,6 +1364,10 @@
                 "label": "Ctrl+Shift+D",
                 "userSettingsLabel": "ctrl+shift+d"
             },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
+            },
             "workbench.debug.action.toggleRepl": {
                 "label": "Ctrl+Shift+Y",
                 "userSettingsLabel": "ctrl+shift+y"
@@ -1307,10 +1375,6 @@
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
-            },
-            "workbench.actions.view.problems": {
-                "label": "Ctrl+Shift+M",
-                "userSettingsLabel": "ctrl+shift+m"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -1458,15 +1522,15 @@
     "themeBackground": "#282a36",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/plc_seg",
-            "backupPath": "/home/val/.config/Code/Backups/fa1ba46c16c00910ee8a50d9a4497c18",
+            "folder": "vscode-remote://ssh-remote%2Badrien2/home/val/python_wkspce/lymphangitis3.0",
+            "backupPath": "/home/val/.config/Code/Backups/56ad9fc9d40857fa8a2b3c2eaf1123c1",
             "remoteAuthority": "ssh-remote+adrien2",
             "uiState": {
                 "mode": 1,
-                "x": 1930,
-                "y": 36,
-                "width": 1900,
-                "height": 1034
+                "x": 0,
+                "y": 26,
+                "width": 1920,
+                "height": 1054
             }
         },
         "openedWindows": []

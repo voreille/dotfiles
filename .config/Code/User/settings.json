@@ -26,5 +26,11 @@
     "python.formatting.provider": "yapf",
     "python.languageServer": "Pylance",
     "jupyter.askForKernelRestart": false,
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }

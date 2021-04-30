@@ -1,0 +1,6 @@
+[2021-04-23 13:17:37.075] [renderer1] [error] IPyKernel not installed into interpreter Python 3.9.3 64-bit ('env'):/home/val/python_wkspce/rgd_mice/env/bin/python: Error: IPyKernel not installed into interpreter Python 3.9.3 64-bit ('env'):/home/val/python_wkspce/rgd_mice/env/bin/python
+    at v.installMissingDependencies (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:561242)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-04-23 13:19:15.091] [renderer1] [error] IPyKernel not installed into interpreter Python 3.9.3 64-bit ('env'):/home/val/python_wkspce/rgd_mice/env/bin/python: Error: IPyKernel not installed into interpreter Python 3.9.3 64-bit ('env'):/home/val/python_wkspce/rgd_mice/env/bin/python
+    at v.installMissingDependencies (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:561242)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

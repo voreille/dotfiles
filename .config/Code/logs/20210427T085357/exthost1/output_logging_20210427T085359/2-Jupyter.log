@@ -1,0 +1,553 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-04-27 08:53:59: ZMQ install verified.
+Info 2021-04-27 08:53:59: id is 2d7b1a11-86f5-41f6-b654-5dbe7eb12aa9
+Info 2021-04-27 08:53:59: Attempting to start a server because of preload conditions ...
+Info 2021-04-27 08:54:00: Found existing keyfile at /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-04-27 08:54:00: Loading web panel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-27 08:54:00: Loading webview. View is notset
+Info 2021-04-27 08:54:00: Attempting to start a server because of preload conditions ...
+Info 2021-04-27 08:54:00: Loading web view...
+Info 2021-04-27 08:54:00: Webview panel created.
+Info 2021-04-27 08:54:00: Creating raw notebook for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-27 08:54:00: Getting preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-27 08:54:01: Web view react rendered
+Info 2021-04-27 08:54:01: Request for onigasm file at /home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/node_modules/onigasm/lib/onigasm.wasm
+Info 2021-04-27 08:54:01: Request for tmlanguage file.
+Info 2021-04-27 08:54:01: Searching for token colors ...
+Info 2021-04-27 08:54:01: Attempting search for colors ...
+Info 2021-04-27 08:54:02: Search all interpreters /home/val/miniconda3/bin/python, /home/val/python_wkspce/rgd_mice/env/bin/python, /usr/bin/python, /usr/bin/python2, /bin/python, /bin/python2, /usr/sbin/python, /usr/sbin/python2, /sbin/python, /sbin/python2
+Info 2021-04-27 08:54:02: Trusting notebook...
+Info 2021-04-27 08:54:02: Wrote trust for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb to /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsignatures/52e15dde8d186cffb0c7eee0ac629986d640484b6f99a7d9a4bc3272051c15e1
+Info 2021-04-27 08:54:02: Searching for token colors ...
+Info 2021-04-27 08:54:02: Attempting search for colors ...
+Info 2021-04-27 08:54:02: Searching for token colors ...
+Info 2021-04-27 08:54:02: Attempting search for colors ...
+Info 2021-04-27 08:54:02: Searching for token colors ...
+Info 2021-04-27 08:54:02: Attempting search for colors ...
+Info 2021-04-27 08:54:03: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-04-27 08:54:03: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-04-27 08:54:03: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+Info 2021-04-27 08:54:04: Loading kernelspec from /home/val/python_wkspce/rgd_mice/env/share/jupyter/kernels/python3/kernel.json for /home/val/python_wkspce/rgd_mice/env/bin/python3.9
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit ('env': venv) is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.8.3 64-bit ('base': conda) is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit ('env') is 19
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-27 08:54:04: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-27 08:54:04: Find kernel spec, Class name = D, completed in 4368ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: {"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.3"},"orig_nbformat":2,"kernelspec":{"name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","display_name":"Python 3.9.3 64-bit ('env')"},"metadata":{"interpreter":{"hash":"20491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4"}}}, Arg 3: undefined, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}},"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"},"id":".python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')"}
+Info 2021-04-27 08:54:04: Computing working directory file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-27 08:54:04: Connecting to raw session for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}},"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"},"id":".python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')"}
+Info 2021-04-27 08:54:04: Starting raw kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-27 08:54:04: installMissingDependencies /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:04: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-27 08:54:04: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-04-27 08:54:04: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-27 08:54:04: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-04-27 08:54:05: Creating daemon pool for /home/val/python_wkspce/hecktor_private/env/bin/python with env variables count 70
+Info 2021-04-27 08:54:05: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-27 08:54:05: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-27 08:54:05: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-27 08:54:05: Install Missing Dependencies, Class name = v, completed in 689ms, has a falsy return value, Return Value: undefined
+Info 2021-04-27 08:54:05: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 2021-04-27 08:54:05: Launching kernel daemon for Python 3.9.3 64-bit ('env') # /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:05: No custom variables for Kernel as interpreter is not conda, but is undefined
+Info 2021-04-27 08:54:05: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python with env variables count 70
+Info 2021-04-27 08:54:05: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Execute rpc method exec_module in DS Daemon
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Execute rpc method exec_module from /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Exec module in DS Kernel Launcher Daemon ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d33caf84-2247-442e-a73c-70cb1ef3d61f"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-497695eJpDc2znpU.json']
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Exec in DS Kernel Launcher Daemon (observable) ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d33caf84-2247-442e-a73c-70cb1ef3d61f"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-497695eJpDc2znpU.json']
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python', '-m', 'ipykernel_launcher', '--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d33caf84-2247-442e-a73c-70cb1ef3d61f"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-497695eJpDc2znpU.json']
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): Kernel launched, with PID 5380
+Warn 2021-04-27 08:54:05: Python Daemon (pid: 5377): Waiting for Kernel to die 5380
+Info 2021-04-27 08:54:05: Launching kernel daemon, Class name = h, completed in 320ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: "/home/val/python_wkspce/rgd_mice/notebooks", Arg 3: {"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","--ip=127.0.0.1","--stdin=9003","--control=9001","--hb=9000","--Session.signature_scheme=\"hmac-sha256\"","--Session.key=b\"d33caf84-2247-442e-a73c-70cb1ef3d61f\"","--shell=9002","--transport=\"tcp\"","--iopub=9004","--f=/tmp/tmp-497695eJpDc2znpU.json"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}}, Arg 4: {"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}, Return Value: <Return value cannot be serialized for logging>
+Info 2021-04-27 08:54:05: Launching kernel in kernelProcess.ts, Class name = _, completed in 321ms, has a truthy return value, Arg 1: "/home/val/python_wkspce/rgd_mice/notebooks", Return Value: {"proc":{"_events":{},"_eventsCount":2,"_closesNeeded":3,"_closesGot":0,"connected":false,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"/home/val/python_wkspce/rgd_mice/env/bin/python","_handle":{"pid":5377},"spawnargs":["/home/val/python_wkspce/rgd_mice/env/bin/python","/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py","vscode_datascience_helpers.daemon","--daemon-module=vscode_datascience_helpers.kernel_launcher_daemon","-v"],"pid":5377,"stdin":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdout":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stderr":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdio":[{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null}]},"out":{"_isScalar":false,"observers":[],"closed":false,"isStopped":false,"hasError":false,"thrownError":null}}
+Info 2021-04-27 08:54:05: Searching for token colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Searching for token colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Searching for token colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Searching for token colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Attempting search for colors ...
+Info 2021-04-27 08:54:05: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: Using colors to generate CSS ...
+Info 2021-04-27 08:54:05: KernelProcess output: Content-Length: 357
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n", "pid": 5377}}Content-Length: 333
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 5377}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}Content-Length: 383
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd33caf84-2247-442e-a73c-70cb1ef3d61f' instead of 'b\"d33caf84-2247-442e-a73c-70cb1ef3d61f\"'.\n", "pid": 5377}}Content-Length: 359
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd33caf84-2247-442e-a73c-70cb1ef3d61f' instead of 'b\"d33caf84-2247-442e-a73c-70cb1ef3d61f\"'.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 5377}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Warn 2021-04-27 08:54:05: Kernel 5377 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Warn 2021-04-27 08:54:05: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): write to stderr:   warn(
+
+Warn 2021-04-27 08:54:05: Kernel 5377 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-27 08:54:05: StdErr from Kernel Process   warn(
+
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd33caf84-2247-442e-a73c-70cb1ef3d61f' instead of 'b"d33caf84-2247-442e-a73c-70cb1ef3d61f"'.
+
+Warn 2021-04-27 08:54:05: Kernel 5377 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd33caf84-2247-442e-a73c-70cb1ef3d61f' instead of 'b"d33caf84-2247-442e-a73c-70cb1ef3d61f"'.
+
+Warn 2021-04-27 08:54:05: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd33caf84-2247-442e-a73c-70cb1ef3d61f' instead of 'b"d33caf84-2247-442e-a73c-70cb1ef3d61f"'.
+
+Info 2021-04-27 08:54:05: Python Daemon (pid: 5377): write to stderr:   warn(
+
+Warn 2021-04-27 08:54:05: Kernel 5377 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-27 08:54:05: StdErr from Kernel Process   warn(
+
+Info 2021-04-27 08:54:05: Raw session started and connected
+Started kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-27 08:54:05: Initial setup for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb starting ...
+Info 2021-04-27 08:54:05: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 08:54:06: Kernel switching to busy
+Info 2021-04-27 08:54:06: Kernel switching to idle
+Info 2021-04-27 08:54:06: Starting raw kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-27 08:54:06: installMissingDependencies /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:06: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-27 08:54:06: Kernel switching to busy
+Info 2021-04-27 08:54:06: Kernel switching to idle
+Info 2021-04-27 08:54:06: Initial setup complete for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-27 08:54:06: Finished connecting 14c0b1a7-59f3-4510-8580-81dffd90d00a
+Info 2021-04-27 08:54:06: Registering commtarget jupyter.widget
+Info 2021-04-27 08:54:06: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python3.9 with env variables count 70
+Info 2021-04-27 08:54:06: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-27 08:54:06: Install Missing Dependencies, Class name = v, completed in 350ms, has a falsy return value, Return Value: undefined
+Info 2021-04-27 08:54:06: Kernel launching with ports 9005,9006,9007,9008,9009. Start port is 9000
+Info 2021-04-27 08:54:06: Launching kernel daemon for Python 3.9.3 64-bit ('env') # /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:06: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python with env variables count 70
+Info 2021-04-27 08:54:06: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-27 08:54:06: No custom variables for Kernel as interpreter is not conda, but is undefined
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Execute rpc method prewarm_kernel in DS Daemon
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Execute rpc method prewarm_kernel from /home/val/python_wkspce/rgd_mice/env/bin/python3.9
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Pre-Warm DS Kernel in DS Kernel Launcher Daemon
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python3.9', '/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/vscode_datascience_helpers/../pyvsc-run-isolated.py', '/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/vscode_datascience_helpers/kernel_prewarm_starter.py']
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Kernel launched, with PID 5410
+Warn 2021-04-27 08:54:06: Python Daemon (pid: 5406): Waiting for Kernel to die 5410
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5406): Kernel launched, with PID as a daemon 5410
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Execute rpc method exec_module in DS Daemon
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Execute rpc method exec_module from /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Exec module in DS Kernel Launcher Daemon ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-4976W2xW0RoflUtT.json']
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Exec in DS Kernel Launcher Daemon (observable) ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-4976W2xW0RoflUtT.json']
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python', '-m', 'ipykernel_launcher', '--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-4976W2xW0RoflUtT.json']
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): Kernel launched, with PID 5416
+Warn 2021-04-27 08:54:06: Python Daemon (pid: 5408): Waiting for Kernel to die 5416
+Info 2021-04-27 08:54:06: Launching kernel daemon, Class name = h, completed in 79ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: "/home/val/python_wkspce/rgd_mice/notebooks", Arg 3: {"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","--ip=127.0.0.1","--stdin=9008","--control=9006","--hb=9005","--Session.signature_scheme=\"hmac-sha256\"","--Session.key=b\"d7939752-54c6-4ef5-93e3-0a6205e6c2be\"","--shell=9007","--transport=\"tcp\"","--iopub=9009","--f=/tmp/tmp-4976W2xW0RoflUtT.json"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}}, Arg 4: {"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}, Return Value: <Return value cannot be serialized for logging>
+Info 2021-04-27 08:54:06: Launching kernel in kernelProcess.ts, Class name = _, completed in 79ms, has a truthy return value, Arg 1: "/home/val/python_wkspce/rgd_mice/notebooks", Return Value: {"proc":{"_events":{},"_eventsCount":2,"_closesNeeded":3,"_closesGot":0,"connected":false,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"/home/val/python_wkspce/rgd_mice/env/bin/python","_handle":{"pid":5408},"spawnargs":["/home/val/python_wkspce/rgd_mice/env/bin/python","/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py","vscode_datascience_helpers.daemon","--daemon-module=vscode_datascience_helpers.kernel_launcher_daemon","-v"],"pid":5408,"stdin":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdout":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stderr":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdio":[{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null}]},"out":{"_isScalar":false,"observers":[],"closed":false,"isStopped":false,"hasError":false,"thrownError":null}}
+Info 2021-04-27 08:54:06: KernelProcess output: Content-Length: 357
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n", "pid": 5408}}
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-27 08:54:06: KernelProcess output: Content-Length: 333
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 5408}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}Content-Length: 383
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd7939752-54c6-4ef5-93e3-0a6205e6c2be' instead of 'b\"d7939752-54c6-4ef5-93e3-0a6205e6c2be\"'.\n", "pid": 5408}}Content-Length: 359
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd7939752-54c6-4ef5-93e3-0a6205e6c2be' instead of 'b\"d7939752-54c6-4ef5-93e3-0a6205e6c2be\"'.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 5408}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}
+Warn 2021-04-27 08:54:06: Kernel 5408 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Warn 2021-04-27 08:54:06: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): write to stderr:   warn(
+
+Warn 2021-04-27 08:54:06: Kernel 5408 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-27 08:54:06: StdErr from Kernel Process   warn(
+
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd7939752-54c6-4ef5-93e3-0a6205e6c2be' instead of 'b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"'.
+
+Warn 2021-04-27 08:54:06: Kernel 5408 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd7939752-54c6-4ef5-93e3-0a6205e6c2be' instead of 'b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"'.
+
+Warn 2021-04-27 08:54:06: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'd7939752-54c6-4ef5-93e3-0a6205e6c2be' instead of 'b"d7939752-54c6-4ef5-93e3-0a6205e6c2be"'.
+
+Info 2021-04-27 08:54:06: Python Daemon (pid: 5408): write to stderr:   warn(
+
+Warn 2021-04-27 08:54:06: Kernel 5408 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-27 08:54:06: StdErr from Kernel Process   warn(
+
+Info 2021-04-27 11:03:18: Kernel switching to busy
+Info 2021-04-27 11:03:18: Kernel switching to idle
+Info 2021-04-27 14:06:40: Kernel switching to busy
+Info 2021-04-27 14:06:40: Kernel switching to idle
+Info 2021-04-27 14:06:40: Kernel switching to busy
+Info 2021-04-27 14:06:40: Kernel switching to idle
+Info 2021-04-27 14:06:41: Kernel switching to busy
+Info 2021-04-27 14:06:41: Kernel switching to idle
+Info 2021-04-27 14:06:42: Kernel switching to busy
+Info 2021-04-27 14:06:42: Kernel switching to idle
+Info 2021-04-27 14:06:42: Kernel switching to busy
+Info 2021-04-27 14:06:42: Kernel switching to idle
+Info 2021-04-27 14:06:43: Kernel switching to busy
+Info 2021-04-27 14:06:43: Kernel switching to idle
+Info 2021-04-27 14:06:44: Kernel switching to busy
+Info 2021-04-27 14:06:44: Kernel switching to idle
+Info 2021-04-27 14:06:48: Trusting notebook...
+Info 2021-04-27 14:06:50: Kernel switching to busy
+Info 2021-04-27 14:06:50: Kernel switching to idle
+Info 2021-04-27 14:06:52: Trusting notebook...
+Info 2021-04-27 14:07:01: Trusting notebook...
+Info 2021-04-27 14:07:21: Trusting notebook...
+Info 2021-04-27 14:07:27: Trusting notebook...
+Info 2021-04-27 14:07:30: Trusting notebook...
+Info 2021-04-27 14:07:31: Kernel switching to busy
+Info 2021-04-27 14:07:31: Kernel switching to idle
+Info 2021-04-27 14:07:34: Kernel switching to busy
+Info 2021-04-27 14:07:34: Kernel switching to idle
+Info 2021-04-27 14:07:39: Kernel switching to busy
+Info 2021-04-27 14:07:39: Kernel switching to idle
+Info 2021-04-27 14:07:39: Trusting notebook...
+Info 2021-04-27 14:07:42: Trusting notebook...
+Info 2021-04-27 14:07:45: Trusting notebook...
+Info 2021-04-27 14:07:45: Kernel switching to busy
+Info 2021-04-27 14:07:45: Kernel switching to idle
+Info 2021-04-27 14:07:45: Kernel switching to busy
+Info 2021-04-27 14:07:45: Kernel switching to idle
+Info 2021-04-27 14:07:48: Trusting notebook...
+Info 2021-04-27 14:07:51: Trusting notebook...
+Info 2021-04-27 14:07:54: Kernel switching to busy
+Info 2021-04-27 14:07:54: Kernel switching to idle
+Info 2021-04-27 14:07:56: Trusting notebook...
+Info 2021-04-27 14:08:07: Trusting notebook...
+Info 2021-04-27 14:08:12: Kernel switching to busy
+Info 2021-04-27 14:08:12: Kernel switching to idle
+Info 2021-04-27 14:08:14: Kernel switching to busy
+Info 2021-04-27 14:08:14: Kernel switching to idle
+Info 2021-04-27 14:08:15: Kernel switching to busy
+Info 2021-04-27 14:08:15: Kernel switching to idle
+Info 2021-04-27 14:08:15: Trusting notebook...
+Info 2021-04-27 14:08:16: Executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:16: Waiting for jupyter server and web panel ...
+Info 2021-04-27 14:08:16: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:08:16: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:08:16: changeDirectoryIfPossible
+Info 2021-04-27 14:08:16: Kernel switching to busy
+Info 2021-04-27 14:08:16: Kernel switching to idle
+Info 2021-04-27 14:08:16: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:16: Kernel switching to busy
+Info 2021-04-27 14:08:16: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:16: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:16: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:16: Finished execution for 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:16: Finished executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:16: Kernel switching to idle
+Info 2021-04-27 14:08:17: Trusting notebook...
+Info 2021-04-27 14:08:18: Kernel switching to busy
+Info 2021-04-27 14:08:18: Kernel switching to idle
+Info 2021-04-27 14:08:19: Executing cell NotebookImport#0
+Info 2021-04-27 14:08:19: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:08:19: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:08:19: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:19: Kernel switching to busy
+Info 2021-04-27 14:08:19: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:19: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Kernel switching to idle
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Finished execution for NotebookImport#0
+Info 2021-04-27 14:08:20: Finished executing cell NotebookImport#0
+Info 2021-04-27 14:08:20: Executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:20: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:08:20: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Kernel switching to busy
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:20: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:21: Trusting notebook...
+Info 2021-04-27 14:08:21: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:21: Kernel switching to idle
+Info 2021-04-27 14:08:21: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:21: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:08:21: Finished execution for 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:21: Finished executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:08:21: Kernel switching to busy
+Info 2021-04-27 14:08:21: Kernel switching to idle
+Info 2021-04-27 14:08:22: Trusting notebook...
+Info 2021-04-27 14:09:06: Kernel switching to busy
+Info 2021-04-27 14:09:06: Kernel switching to idle
+Info 2021-04-27 14:09:08: Trusting notebook...
+Info 2021-04-27 14:09:12: Trusting notebook...
+Info 2021-04-27 14:09:14: Executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:09:14: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:09:14: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:09:14: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:14: Kernel switching to busy
+Info 2021-04-27 14:09:14: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:14: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:15: Kernel switching to idle
+Info 2021-04-27 14:09:15: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:15: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:15: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:15: Finished execution for 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:09:15: Finished executing cell 5e0d1502-10e1-4c23-9ee4-2b6a9029a751
+Info 2021-04-27 14:09:17: Trusting notebook...
+Info 2021-04-27 14:09:27: Trusting notebook...
+Info 2021-04-27 14:09:28: Trusting notebook...
+Info 2021-04-27 14:09:33: Trusting notebook...
+Info 2021-04-27 14:09:34: Trusting notebook...
+Info 2021-04-27 14:09:39: Trusting notebook...
+Info 2021-04-27 14:09:42: Kernel switching to busy
+Info 2021-04-27 14:09:42: Kernel switching to idle
+Info 2021-04-27 14:09:43: Trusting notebook...
+Info 2021-04-27 14:09:47: Trusting notebook...
+Info 2021-04-27 14:09:51: Trusting notebook...
+Info 2021-04-27 14:09:52: Executing cell ff5f8a28-e3f9-4b01-a1ef-9d493f07cda1
+Info 2021-04-27 14:09:52: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:09:52: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:09:52: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:52: Kernel switching to busy
+Info 2021-04-27 14:09:52: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:52: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:52: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:09:52: Finished execution for ff5f8a28-e3f9-4b01-a1ef-9d493f07cda1
+Info 2021-04-27 14:09:52: Finished executing cell ff5f8a28-e3f9-4b01-a1ef-9d493f07cda1
+Info 2021-04-27 14:09:52: Kernel switching to idle
+Info 2021-04-27 14:09:53: Trusting notebook...
+Info 2021-04-27 14:13:39: Kernel switching to busy
+Info 2021-04-27 14:13:39: Kernel switching to idle
+Info 2021-04-27 14:13:39: Kernel switching to busy
+Info 2021-04-27 14:13:39: Kernel switching to idle
+Info 2021-04-27 14:14:14: Kernel switching to busy
+Info 2021-04-27 14:14:14: Kernel switching to idle
+Info 2021-04-27 14:14:16: Kernel switching to busy
+Info 2021-04-27 14:14:16: Kernel switching to idle
+Info 2021-04-27 14:14:16: Kernel switching to busy
+Info 2021-04-27 14:14:16: Kernel switching to idle
+Info 2021-04-27 14:14:18: Trusting notebook...
+Info 2021-04-27 14:14:22: Trusting notebook...
+Info 2021-04-27 14:14:23: Trusting notebook...
+Info 2021-04-27 14:14:26: Trusting notebook...
+Info 2021-04-27 14:14:38: Trusting notebook...
+Info 2021-04-27 14:14:40: Trusting notebook...
+Info 2021-04-27 14:14:41: Executing cell ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:14:41: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:14:41: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Kernel switching to busy
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Kernel switching to idle
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:14:41: Finished execution for ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:14:41: Finished executing cell ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:14:42: Trusting notebook...
+Info 2021-04-27 14:14:43: Kernel switching to busy
+Info 2021-04-27 14:14:44: Kernel switching to idle
+Info 2021-04-27 14:14:50: Trusting notebook...
+Info 2021-04-27 14:14:51: Trusting notebook...
+Info 2021-04-27 14:14:54: Trusting notebook...
+Info 2021-04-27 14:15:01: Trusting notebook...
+Info 2021-04-27 14:15:03: Trusting notebook...
+Info 2021-04-27 14:15:08: Trusting notebook...
+Info 2021-04-27 14:15:09: Trusting notebook...
+Info 2021-04-27 14:15:15: Trusting notebook...
+Info 2021-04-27 14:15:21: Trusting notebook...
+Info 2021-04-27 14:15:26: Trusting notebook...
+Info 2021-04-27 14:15:35: Trusting notebook...
+Info 2021-04-27 14:15:38: Trusting notebook...
+Info 2021-04-27 14:15:44: Trusting notebook...
+Info 2021-04-27 14:15:47: Trusting notebook...
+Info 2021-04-27 14:15:48: Trusting notebook...
+Info 2021-04-27 14:15:53: Trusting notebook...
+Info 2021-04-27 14:15:58: Trusting notebook...
+Info 2021-04-27 14:16:01: Trusting notebook...
+Info 2021-04-27 14:16:07: Trusting notebook...
+Info 2021-04-27 14:16:15: Trusting notebook...
+Info 2021-04-27 14:16:16: Trusting notebook...
+Info 2021-04-27 14:16:19: Trusting notebook...
+Info 2021-04-27 14:16:21: Kernel switching to busy
+Info 2021-04-27 14:16:21: Kernel switching to idle
+Info 2021-04-27 14:16:23: Kernel switching to busy
+Info 2021-04-27 14:16:23: Kernel switching to idle
+Info 2021-04-27 14:16:28: Trusting notebook...
+Info 2021-04-27 14:16:34: Trusting notebook...
+Info 2021-04-27 14:16:35: Kernel switching to busy
+Info 2021-04-27 14:16:35: Kernel switching to idle
+Info 2021-04-27 14:16:36: Kernel switching to busy
+Info 2021-04-27 14:16:36: Kernel switching to idle
+Info 2021-04-27 14:16:36: Executing cell ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:16:36: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:16:36: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Kernel switching to busy
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Kernel switching to idle
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:16:36: Finished execution for ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:16:36: Finished executing cell ed0ad18f-a330-4009-8e26-366bd63d4969
+Info 2021-04-27 14:16:37: Trusting notebook...
+Info 2021-04-27 14:16:37: Kernel switching to busy
+Info 2021-04-27 14:16:37: Kernel switching to idle
+Info 2021-04-27 14:16:38: Kernel switching to busy
+Info 2021-04-27 14:16:38: Kernel switching to idle
+Info 2021-04-27 14:16:38: Trusting notebook...
+Info 2021-04-27 14:16:42: Trusting notebook...
+Info 2021-04-27 14:16:48: Trusting notebook...
+Info 2021-04-27 14:16:54: Trusting notebook...
+Info 2021-04-27 14:16:57: Kernel switching to busy
+Info 2021-04-27 14:16:57: Kernel switching to idle
+Info 2021-04-27 14:17:01: Trusting notebook...
+Info 2021-04-27 14:17:06: Trusting notebook...
+Info 2021-04-27 14:17:07: Trusting notebook...
+Info 2021-04-27 14:17:11: Trusting notebook...
+Info 2021-04-27 14:17:13: Trusting notebook...
+Info 2021-04-27 14:17:19: Trusting notebook...
+Info 2021-04-27 14:17:23: Trusting notebook...
+Info 2021-04-27 14:17:29: Trusting notebook...
+Info 2021-04-27 14:17:30: Trusting notebook...
+Info 2021-04-27 14:17:37: Trusting notebook...
+Info 2021-04-27 14:17:41: Trusting notebook...
+Info 2021-04-27 14:17:45: Trusting notebook...
+Info 2021-04-27 14:17:53: Trusting notebook...
+Info 2021-04-27 14:17:55: Trusting notebook...
+Info 2021-04-27 14:17:56: Trusting notebook...
+Info 2021-04-27 14:22:05: Kernel switching to busy
+Info 2021-04-27 14:22:06: Kernel switching to idle
+Info 2021-04-27 14:22:06: Kernel switching to busy
+Info 2021-04-27 14:22:06: Kernel switching to idle
+Info 2021-04-27 14:22:09: Trusting notebook...
+Info 2021-04-27 14:22:13: Trusting notebook...
+Info 2021-04-27 14:24:38: Trusting notebook...
+Info 2021-04-27 14:24:44: Trusting notebook...
+Info 2021-04-27 14:24:46: Executing cell 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:24:46: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:24:46: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:24:46: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:24:46: Kernel switching to busy
+Info 2021-04-27 14:24:46: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:24:46: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:24:46: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:24:46: Finished execution for 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:24:46: Finished executing cell 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:24:46: Kernel switching to idle
+Info 2021-04-27 14:24:47: Trusting notebook...
+Info 2021-04-27 14:25:05: Kernel switching to busy
+Info 2021-04-27 14:25:05: Kernel switching to idle
+Info 2021-04-27 14:25:28: Kernel switching to busy
+Info 2021-04-27 14:25:28: Kernel switching to idle
+Info 2021-04-27 14:25:30: Kernel switching to busy
+Info 2021-04-27 14:25:30: Kernel switching to idle
+Info 2021-04-27 14:25:34: Trusting notebook...
+Info 2021-04-27 14:25:39: Trusting notebook...
+Info 2021-04-27 14:25:41: Trusting notebook...
+Info 2021-04-27 14:25:44: Executing cell 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:25:44: Submitting code for 8d569022-dfdb-42a8-aa13-60f12bc7d0f3
+Info 2021-04-27 14:25:44: UpdateWorkingDirectoryAndPath
+Info 2021-04-27 14:25:44: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:25:44: Kernel switching to busy
+Info 2021-04-27 14:25:44: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:25:44: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:25:44: Preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb is undefined
+Info 2021-04-27 14:25:44: Finished execution for 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:25:44: Finished executing cell 7aaae806-6a69-4bbe-bd89-6b079e5228f3
+Info 2021-04-27 14:25:44: Kernel switching to idle
+Info 2021-04-27 14:25:45: Trusting notebook...
+Info 2021-04-27 14:26:15: Kernel switching to busy
+Info 2021-04-27 14:26:15: Kernel switching to idle
+Info 2021-04-27 14:26:16: Kernel switching to busy
+Info 2021-04-27 14:26:16: Kernel switching to idle
+Info 2021-04-27 16:10:06: Kernel switching to busy
+Info 2021-04-27 16:10:06: Kernel switching to idle

@@ -1,0 +1,454 @@
+[2021-04-22 13:17:00.768] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:17:10.439] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:17:39.001] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:18:01.857] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:19:41.758] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:20:09.612] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:20:24.698] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:20:25.873] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:20:29.240] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:21:39.568] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:21:42.330] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:22:56.986] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:22:59.484] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:23:15.808] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:24:13.234] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:24:37.837] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 13:25:35.946] [renderer5] [error] Canceled: Canceled
+    at w (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:8:1157)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11299
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at Object.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:68:11404)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:57965
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at R.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15095)
+    at T.cancel (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15636)
+    at T.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:15691)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12931
+    at Object.dispose (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12489)
+    at b (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:17:12350)
+    at s.cancelBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:13374)
+    at scheduleBackup (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12096)
+    at s.onDidChangeContent (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:12055)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:825:11595
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2133:17471
+    at c.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1836)
+    at Ar.change (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:55688)
+    at Ar.pushEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:54610)
+    at B.$onDidEdit (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2151:50930)
+[2021-04-22 18:25:03.464] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+[2021-04-22 18:25:03.470] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] resolving connection...
+[2021-04-22 18:25:05.484] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+[2021-04-22 18:25:05.485] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] resolving connection...
+[2021-04-22 18:25:18.861] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] A temporarily not available error occurred while trying to reconnect, will try again...
+[2021-04-22 18:25:18.861] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] waiting for 5 seconds before reconnecting...
+[2021-04-22 18:25:18.861] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] A temporarily not available error occurred while trying to reconnect, will try again...
+[2021-04-22 18:25:18.861] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] waiting for 5 seconds before reconnecting...
+[2021-04-22 18:25:23.887] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] resolving connection...
+[2021-04-22 18:25:23.909] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] resolving connection...
+[2021-04-22 18:25:36.268] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] connecting to 127.0.0.1:35025...
+[2021-04-22 18:25:36.269] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] connecting to 127.0.0.1:35025...
+[2021-04-22 18:25:36.846] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] reconnected!
+[2021-04-22 18:25:37.332] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] reconnected!
+[2021-04-22 19:24:08.652] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+[2021-04-22 19:24:08.654] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] resolving connection...
+[2021-04-22 19:24:11.144] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] starting reconnecting loop. You can get more information with the trace log level.
+[2021-04-22 19:24:11.145] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] resolving connection...
+[2021-04-22 19:24:24.129] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] A temporarily not available error occurred while trying to reconnect, will try again...
+[2021-04-22 19:24:24.130] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] waiting for 5 seconds before reconnecting...
+[2021-04-22 19:24:24.132] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] A temporarily not available error occurred while trying to reconnect, will try again...
+[2021-04-22 19:24:24.132] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] waiting for 5 seconds before reconnecting...
+[2021-04-22 19:24:29.139] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] resolving connection...
+[2021-04-22 19:24:29.140] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] resolving connection...
+[2021-04-22 19:24:50.431] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] connecting to 127.0.0.1:32993...
+[2021-04-22 19:24:50.434] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] connecting to 127.0.0.1:32993...
+[2021-04-22 19:24:52.559] [renderer5] [info] [remote-connection][Management   ][98196…][reconnect] reconnected!
+[2021-04-22 19:24:52.665] [renderer5] [info] [remote-connection][ExtensionHost][5304f…][reconnect] reconnected!
+[2021-04-22 22:02:38.353] [renderer5] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups

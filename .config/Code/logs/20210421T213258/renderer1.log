@@ -1,0 +1,9 @@
+[2021-04-21 21:36:08.314] [renderer1] [error] Server[pid=97821] disconnected unexpectedly: Error: Server[pid=97821] disconnected unexpectedly
+    at b.handleErrorResponse (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:943:30060)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:943:29357
+    at async A.sendBreakpoints (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2061:39856)
+    at async J (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2100:47652)
+    at async G.sendBreakpoints (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2100:45590)
+    at async Promise.all (index 0)
+    at async G.sendAllBreakpoints (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2100:45265)
+    at async file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2061:47492

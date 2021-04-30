@@ -1,7 +1,7 @@
 [Default Applications]
 application/octet-stream=mousepad.desktop
 application/pdf=qpdfview.desktop
-application/pdf=qpdfview.desktop
+application/pdf=okularApplication_pdf.desktop
 application/x-gettext-translation=mousepad.desktop
 application/xml=mousepad.desktop
 application/x-wine-extension-ini=mousepad.desktop
@@ -16,8 +16,32 @@ video/x-flv=vlc.desktop
 video/x-ms-wmv=vlc.desktop
 video/x-ogm+ogg=vlc.desktop
 video/x-theora+ogg=vlc.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/ftp=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
 
 [Added Associations]
 application/json=mousepad.desktop;
 application/pdf=okularApplication_pdf.desktop;
 image/svg+xml=org.inkscape.Inkscape.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/ftp=firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+image/x-eps=org.inkscape.Inkscape.desktop;

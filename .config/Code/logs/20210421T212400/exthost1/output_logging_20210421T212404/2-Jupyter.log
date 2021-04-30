@@ -1,0 +1,17 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-04-21 21:24:04: ZMQ install verified.
+Info 2021-04-21 21:24:04: id is f481312c-bc87-4451-91a5-58134a315e42
+Info 2021-04-21 21:24:04: Found existing keyfile at /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-04-21 21:32:54: Shutting down notebooks for b5b4bbb5-968a-4333-9147-ba2630a71f63
+Info 2021-04-21 21:32:54: Disposing HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Disposing super HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Disposing HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Finished disposing HostJupyterExecution  0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Disposing HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Finished disposing HostJupyterExecution  0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Getting live share API during dispose HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Detaching HostJupyterExecution 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Cleaning up server cache 0ebe4566-db9c-46de-99c6-dc917daab8de
+Info 2021-04-21 21:32:54: Finished disposing HostJupyterExecution  0ebe4566-db9c-46de-99c6-dc917daab8de

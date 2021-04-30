@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>OpenBitTorrent - An open tracker project</title>
+    <link rel="icon" type="image/gif" href="/favicon.png">
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen">
+</head>
+<body>
+<div id="logo">
+<img src="images/logo.jpg" alt="OpenBitTorrent - An open tracker project" height="154" width="641"><br>
+</div>
+
+<div id="site">
+<h1>OpenBitTorrent - An open tracker project</h1>
+<p class="bigger">OpenBitTorrent is a bittorrent tracker free for anyone to use. You don't need to register, upload or index a torrent anywhere, all you have to do is to include the OpenBitTorrent tracker URL in your torrent.</p>
+
+<h2>How does it work?</h2>
+<p>When you create a torrent file the application will ask you for a tracker address, then simply type in OpenBitTorrents tracker URL:</p>
+<p class="boxed">
+udp://tracker.openbittorrent.com:6969
+</p>
+
+<h2>You mentioned donations, how can I help?</h2>
+<p>
+BitCoin: <a href="bitcoin:1CPQmPYjMSxreJShRKeB6UXxNJaC1kN8hN">1CPQmPYjMSxreJShRKeB6UXxNJaC1kN8hN</a>
+</p> 
+
+</div>
+<div id="footer">
+</div><center>
+<a href="bitcoin.pdf"> <img src="logotop.svg" width=400 height=400></a>
+</center>
+
+</body>
+</html>

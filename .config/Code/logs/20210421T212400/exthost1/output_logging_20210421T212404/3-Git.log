@@ -1,0 +1,90 @@
+Looking for git in: git
+Using git 2.31.1 from git
+Opening repository for path='/home/val/python_wkspce/vid_motion' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/src/models' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/.env' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/LICENSE' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/Makefile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/data' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/docs' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/env' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/models' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/notebooks' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/opticalfb.png' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/opticalhsv.png' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/references' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/reports' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/requirements.txt' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/setup.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/src' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/val/python_wkspce/vid_motion/test_environment.py' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/val/python_wkspce/vid_motion/tox.ini' failed; ex=Error: spawn ENOTDIR

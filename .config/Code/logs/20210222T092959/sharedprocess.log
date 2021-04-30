@@ -1,7 +1,0 @@
-[2021-02-22 09:30:43.261] [sharedprocess] [info] Starting to clean up unused language packs.
-[2021-02-22 10:38:46.878] [sharedprocess] [info] Installing extension: ms-python.python
-[2021-02-22 10:38:53.516] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
-[2021-02-22 10:38:54.870] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.ms-python.python-2021.2.582707922: ms-python.python
-[2021-02-22 10:38:54.870] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/ms-python.python-2021.2.582707922
-[2021-02-22 10:38:54.872] [sharedprocess] [info] Installation completed. ms-python.python
-[2021-02-22 10:38:54.923] [sharedprocess] [info] Extensions installed successfully: ms-python.python

@@ -1,0 +1,13 @@
+[2021-04-29 08:28:12.479] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-04-30 08:02:09.399] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-04-30 08:02:09.405] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-04-30 08:02:13.369] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-04-30 08:02:13.930] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.ef2e06a7-15fc-4bdb-bee4-51b7b7c12537: vscodevim.vim
+[2021-04-30 08:02:13.956] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/vscodevim.vim-1.20.2
+[2021-04-30 08:02:13.962] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-04-30 08:02:13.984] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-04-30 08:02:23.361] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance undefined
+[2021-04-30 08:02:27.089] [sharedprocess] [info] Extracted extension to /home/val/.vscode/extensions/.ae43e84c-f28f-4597-8456-fe8b3386bbd8: ms-python.vscode-pylance
+[2021-04-30 08:02:27.105] [sharedprocess] [info] Renamed to /home/val/.vscode/extensions/ms-python.vscode-pylance-2021.4.3
+[2021-04-30 08:02:27.107] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-04-30 08:02:27.353] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance

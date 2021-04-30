@@ -1,0 +1,126 @@
+[2021-04-28 20:51:25.481] [exthost] [info] extension host started
+[2021-04-28 20:51:25.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-28 20:51:25.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-28 20:51:25.663] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-28 20:51:25.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-28 20:51:25.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:51:25.668] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-04-28 20:51:25.711] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-28 20:51:25.711] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/vscodevim.vim-1.20.1/out/extension
+[2021-04-28 20:51:26.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:51:26.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-04-28 20:51:26.311] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-28 20:51:26.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-28 20:51:26.579] [exthost] [info] eager extensions activated
+[2021-04-28 20:51:26.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:26.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-28 20:51:26.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:26.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-28 20:51:26.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:26.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-28 20:51:26.734] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-28 20:51:26.734] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-28 20:51:26.847] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-28 20:51:27.878] [exthost] [info] exiting with code 0
+[2021-04-28 20:51:32.498] [exthost] [info] extension host started
+[2021-04-28 20:51:32.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-28 20:51:32.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-28 20:51:32.972] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-04-28 20:51:32.973] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension
+[2021-04-28 20:51:33.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-04-28 20:51:33.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-04-28 20:51:33.175] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:51:33.175] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-04-28 20:51:33.219] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-28 20:51:33.219] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/vscodevim.vim-1.20.1/out/extension
+[2021-04-28 20:51:33.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-04-28 20:51:33.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-04-28 20:51:35.053] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-04-28 20:51:35.053] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-04-28 20:51:35.314] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-04-28 20:51:35.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension
+[2021-04-28 20:51:36.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-28 20:51:36.045] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-28 20:51:37.358] [exthost] [info] eager extensions activated
+[2021-04-28 20:51:41.984] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-04-28 20:51:41.985] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-python.vscode-pylance-2021.4.2/dist/extension.bundle.js
+[2021-04-28 20:51:42.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:42.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-04-28 20:51:42.277] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:42.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-04-28 20:51:42.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-04-28 20:51:42.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-04-28 20:51:49.054] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:49.054] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:148205
+[2021-04-28 20:51:50.356] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:50.356] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:148205
+[2021-04-28 20:51:51.584] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.584] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:59:162495
+[2021-04-28 20:51:51.587] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.587] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:152132
+[2021-04-28 20:51:51.603] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.604] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:59:162495
+[2021-04-28 20:51:51.627] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.627] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:59:162495
+[2021-04-28 20:51:51.670] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.670] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:59:162495
+[2021-04-28 20:51:51.672] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.672] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:152132
+[2021-04-28 20:51:51.890] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.890] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:152132
+[2021-04-28 20:51:51.939] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:51.943] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:152132
+    at runNextTicks (internal/process/task_queues.js:62:5)
+    at processImmediate (internal/timers.js:429:9)
+[2021-04-28 20:51:53.815] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:53.815] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:152132
+[2021-04-28 20:51:54.004] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:54.004] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:148205
+[2021-04-28 20:51:54.093] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:54.093] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:148205
+[2021-04-28 20:51:54.289] [exthost] [error] [ms-python.python] provider FAILED
+[2021-04-28 20:51:54.289] [exthost] [error] Canceled: Canceled
+    at E.makeCancelError (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184420)
+    at E.handleFailedRequest (/home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:184271)
+    at /home/val/.vscode/extensions/ms-python.python-2021.4.765268190/out/client/extension.js:9:148205
+[2021-04-28 21:39:40.687] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-28 21:39:41.724] [exthost] [info] exiting with code 0

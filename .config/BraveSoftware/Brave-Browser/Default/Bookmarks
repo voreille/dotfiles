@@ -1,0 +1,1816 @@
+{
+   "checksum": "19aa2636d823f88062987d54ca5b8e3b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13229156465000000",
+            "guid": "8d0db5f9-0e2f-4f16-9a4a-8f83c8775d94",
+            "id": "6",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13229156465000000",
+            "guid": "28ade3f8-2873-47a3-be8d-81017f98fd8f",
+            "id": "7",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13229156465000000",
+            "guid": "e2c1ad5d-27c1-4e05-b9b5-3c93a5ef9928",
+            "id": "8",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13256577197000000",
+            "guid": "e7ca1468-062e-467c-b15c-db63dcd89605",
+            "id": "9",
+            "name": "Manjaro Discover Software",
+            "type": "url",
+            "url": "https://discover.manjaro.org/"
+         }, {
+            "date_added": "13229156465000000",
+            "guid": "54b40536-91c4-40e1-96d8-1007ba2045b4",
+            "id": "10",
+            "name": "Mozilla News",
+            "type": "url",
+            "url": "http://blog.mozilla.com/"
+         }, {
+            "date_added": "13181734192000000",
+            "guid": "cee82f1b-2bd8-4632-aaed-e274b96a6487",
+            "id": "11",
+            "name": "ROI Display Color Attribute — DICOM Standard Browser",
+            "type": "url",
+            "url": "https://dicom.innolitics.com/ciods/rt-dose/roi-contour/30060039/3006002a"
+         }, {
+            "date_added": "13182010890000000",
+            "guid": "ea0b8870-b96a-4de9-bb43-f2ac104e9971",
+            "id": "12",
+            "name": "PROMISE12 - Results",
+            "type": "url",
+            "url": "https://grand-challenge.org/site/promise12/Results/"
+         }, {
+            "date_added": "13182362655000000",
+            "guid": "b0c19743-4965-4ff3-a800-6a9e48c7780d",
+            "id": "13",
+            "name": "Microsoft PowerPoint - geom3d - geom3d.pdf",
+            "type": "url",
+            "url": "http://www.math.tau.ac.il/~dcor/Graphics/cg-slides/geom3d.pdf"
+         }, {
+            "date_added": "13182426316000000",
+            "guid": "c8c072dd-0a35-41fe-af44-2cd5c879b562",
+            "id": "14",
+            "name": "A detailed example of data generators with Keras",
+            "type": "url",
+            "url": "https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly"
+         }, {
+            "date_added": "13182593493000000",
+            "guid": "4eaffd96-1c3a-4bbb-a79b-8a0623bcba81",
+            "id": "15",
+            "name": "Optimization tips — PyTables 3.4.4 documentation",
+            "type": "url",
+            "url": "https://www.pytables.org/usersguide/optimization.html#searchoptim"
+         }, {
+            "date_added": "13183031968000000",
+            "guid": "516333b4-6adc-4c40-8434-b6eb43f23f41",
+            "id": "16",
+            "name": "Saving and loading a large number of images (data) into a single HDF5 file",
+            "type": "url",
+            "url": "http://machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html"
+         }, {
+            "date_added": "13184166514000000",
+            "guid": "1c13fb3b-3522-400d-9acf-6773eee9f72c",
+            "id": "17",
+            "name": "Pdb_Commands.pdf",
+            "type": "url",
+            "url": "https://web.stanford.edu/class/physics91si/2013/handouts/Pdb_Commands.pdf"
+         }, {
+            "date_added": "13184176555000000",
+            "guid": "31ed26d9-22f4-4bca-800e-583cf9a4820a",
+            "id": "18",
+            "name": "Vim by tao12345666333",
+            "type": "url",
+            "url": "http://moelove.info/vim/"
+         }, {
+            "date_added": "13184406219000000",
+            "guid": "ba39a261-8195-4cd2-a8eb-a6627fdef805",
+            "id": "19",
+            "name": "Graduate Fellowships | Research",
+            "type": "url",
+            "url": "https://research.nvidia.com/graduate-fellowships"
+         }, {
+            "date_added": "13157160431000000",
+            "guid": "5318d998-4d5e-4509-a35d-f85d011d3a66",
+            "id": "20",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13157160431000000",
+            "guid": "182ff181-42bc-42b7-a85b-8d79ef9d303a",
+            "id": "21",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13181047499000000",
+            "guid": "e645206e-d3e8-413d-8165-3f2ea542d349",
+            "id": "22",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13256643333000000",
+            "guid": "f8876fbe-2143-448a-a8e1-1b064bf3d146",
+            "id": "23",
+            "name": "Files · master · Derek Taylor / Dotfiles · GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/dwt1/dotfiles/-/tree/master"
+         }, {
+            "date_added": "13256646795000000",
+            "guid": "723cec60-8867-44d3-9a7d-f2533b7a088a",
+            "id": "24",
+            "name": "30 things to do After Installing Manjaro XFCE (2020) | Average Linux User",
+            "type": "url",
+            "url": "https://averagelinuxuser.com/manjaro-xfce-after-install/"
+         }, {
+            "date_added": "13256658911000000",
+            "guid": "72eb1473-3dcb-43ac-a4f7-389909de4c83",
+            "id": "25",
+            "name": "Arch User Repository - Manjaro",
+            "type": "url",
+            "url": "https://wiki.manjaro.org/index.php?title=Arch_User_Repository"
+         }, {
+            "date_added": "13256765115000000",
+            "guid": "e040df0d-8844-47f0-884a-b54315a90c9c",
+            "id": "26",
+            "name": "GitHub - arcolinux/arcolinux-qtile",
+            "type": "url",
+            "url": "https://github.com/arcolinux/arcolinux-qtile"
+         }, {
+            "date_added": "13256818176000000",
+            "guid": "ca4d58c9-77e2-422b-88fb-e622b73092a4",
+            "id": "27",
+            "name": "Setting gtk2 and gtk3 theme via config file (Example)",
+            "type": "url",
+            "url": "https://coderwall.com/p/no3qfa/setting-gtk2-and-gtk3-theme-via-config-file"
+         }, {
+            "date_added": "13256908911000000",
+            "guid": "f99786c9-5d44-4be5-8006-cfc79ae3093f",
+            "id": "28",
+            "name": "[Linux Tips] Disable Suspend And Hibernation - OSTechNix",
+            "type": "url",
+            "url": "https://ostechnix.com/linux-tips-disable-suspend-and-hibernation/"
+         }, {
+            "date_added": "13257609741000000",
+            "guid": "bd420f1c-3714-4fdb-9f19-150c861a444c",
+            "id": "29",
+            "name": "Google Calendar - 4 days, starting Thursday, March 4, 2021",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/u/0/r/customday/2021/3/4"
+         }, {
+            "date_added": "13257970157000000",
+            "guid": "c389b53e-ae1a-41ae-b569-26e4cff3b9e6",
+            "id": "30",
+            "name": "Generalizable fully automated multi-label segmentation of four-chamber view echocardiograms based on deep convolutional adversarial networks | Journal of The Royal Society Interface",
+            "type": "url",
+            "url": "https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0267?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&"
+         }, {
+            "date_added": "13258150982000000",
+            "guid": "c0b23365-b22a-45bc-b0ed-da4d261e547e",
+            "id": "31",
+            "name": "How to store dotfiles | Atlassian Git Tutorial",
+            "type": "url",
+            "url": "https://www.atlassian.com/git/tutorials/dotfiles"
+         }, {
+            "date_added": "13258500186000000",
+            "guid": "7eec164f-0f5c-45ec-aa98-9c62dc58d856",
+            "id": "32",
+            "name": "qtile-examples/roger at master · qtile/qtile-examples",
+            "type": "url",
+            "url": "https://github.com/qtile/qtile-examples/tree/master/roger"
+         }, {
+            "date_added": "13258511206000000",
+            "guid": "5e714b4b-76db-49f8-bf01-a579952ef775",
+            "id": "33",
+            "name": "Iosevka",
+            "type": "url",
+            "url": "https://typeof.net/Iosevka/"
+         }, {
+            "date_added": "13259354807000000",
+            "guid": "e61307e7-48ee-4399-a72f-eb7614e6fb07",
+            "id": "34",
+            "name": "Snapped app not loading fonts on Fedora (and Arch) - snap - snapcraft.io",
+            "type": "url",
+            "url": "https://forum.snapcraft.io/t/snapped-app-not-loading-fonts-on-fedora-and-arch/12484/85"
+         }, {
+            "date_added": "13261065408000000",
+            "guid": "735c3d0f-ae00-4962-9eb2-33de4fdab6b5",
+            "id": "35",
+            "name": "MIMcloud",
+            "type": "url",
+            "url": "https://mim-cloud.appspot.com/main/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13191676860000000",
+                  "guid": "be927151-60db-41ce-b268-9878b2aa8108",
+                  "id": "38",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13181047499000000",
+                  "guid": "42e75493-4dbf-4847-8e9b-6ce5210aad44",
+                  "id": "39",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13191676860000000",
+                  "guid": "680cde83-99cd-41e4-81e5-3fd05e81c9c9",
+                  "id": "40",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13191676860000000",
+                  "guid": "1eb87c02-bf19-4357-a123-535b263b2819",
+                  "id": "41",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               }, {
+                  "date_added": "13194483599000000",
+                  "guid": "b7ba7462-908d-482f-b672-b2ebb206c58b",
+                  "id": "42",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/customize/"
+               }, {
+                  "date_added": "13224348039000000",
+                  "guid": "9ff41baf-5225-4980-838d-54ae5118ed76",
+                  "id": "63",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13224348039000000",
+                  "guid": "604b0782-048a-4f23-9d28-8784332cbec4",
+                  "id": "64",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13224348039000000",
+                  "guid": "b019002d-f7fe-4221-b137-f8eef263bfba",
+                  "id": "65",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13224348039000000",
+                  "guid": "5ff1581f-e6e9-4f8a-8991-4d46d634c86e",
+                  "id": "66",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13261752251639892",
+               "date_modified": "0",
+               "guid": "a940c45a-6a19-4456-ada1-6e1158747c33",
+               "id": "37",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13229156465000000",
+                  "guid": "fc51ca39-13b9-456d-adf2-159e228e22ad",
+                  "id": "44",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               }, {
+                  "date_added": "13229156465000000",
+                  "guid": "a0b5bd0d-ccab-4a45-86d3-56b5538b5b6b",
+                  "id": "45",
+                  "name": "Manjaro Homepage",
+                  "type": "url",
+                  "url": "https://manjaro.org/"
+               }, {
+                  "date_added": "13229156465000000",
+                  "guid": "ef8b6d9b-b5c8-4edf-a0b7-a4cf14a246c7",
+                  "id": "46",
+                  "name": "Manjaro Forum",
+                  "type": "url",
+                  "url": "http://forum.manjaro.org/"
+               }, {
+                  "date_added": "13229156465000000",
+                  "guid": "e2dcd8b8-9b66-4dd6-83e6-9b4d32a576bd",
+                  "id": "47",
+                  "name": "Manjaro Wiki",
+                  "type": "url",
+                  "url": "http://wiki.manjaro.org/index.php/Main_Page"
+               } ],
+               "date_added": "13261752251640086",
+               "date_modified": "0",
+               "guid": "bbee633d-0698-408f-a4d2-ffba60e80bc7",
+               "id": "43",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13157160431000000",
+                  "guid": "31ab55f5-fe24-4079-90fb-eb92219d3b72",
+                  "id": "49",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13157160431000000",
+                  "guid": "8ad96cfb-8ddc-4844-ab69-dee57080536e",
+                  "id": "50",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13157160431000000",
+                  "guid": "3ee9d158-a19f-4e69-bc89-8980f75430ca",
+                  "id": "51",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13157160431000000",
+                  "guid": "34adeefb-5606-43c9-9f0b-1e197ee719f7",
+                  "id": "52",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               }, {
+                  "date_added": "13169480789000000",
+                  "guid": "49b8fddf-b5ef-4bbd-bdda-1305c27b5181",
+                  "id": "53",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13157160431000000",
+                  "guid": "bef28f74-41a5-4c00-a3f2-201f4dd06824",
+                  "id": "54",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13169480789000000",
+                  "guid": "eb06e048-f5d0-4006-bbc1-2f88905cad92",
+                  "id": "55",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13157160431000000",
+                  "guid": "ed8f433e-ca0f-4849-a8d1-67ed98aea0e5",
+                  "id": "56",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13261752251640215",
+               "date_modified": "0",
+               "guid": "1928288d-108d-4b01-a371-d5f59b506d22",
+               "id": "48",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "date_added": "13155308547000000",
+               "guid": "885043fb-1e18-4a26-8f6b-49642f6eab37",
+               "id": "57",
+               "name": "exo_physique_assignement3 - Online LaTeX Editor ShareLaTeX",
+               "type": "url",
+               "url": "https://www.sharelatex.com/project/5a0d81e47e448a32459dad6f"
+            }, {
+               "date_added": "13157160431000000",
+               "guid": "ff772d35-29c5-4e5e-abed-16b36910bedb",
+               "id": "58",
+               "name": "Customize Firefox",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/customize/"
+            }, {
+               "date_added": "13157160431000000",
+               "guid": "1c3eb7b1-9f19-42ae-8e38-0babb63d004c",
+               "id": "59",
+               "name": "Help and Tutorials",
+               "type": "url",
+               "url": "https://support.mozilla.org/en-US/products/firefox"
+            }, {
+               "date_added": "13157160431000000",
+               "guid": "39eabc30-cb73-40ea-9814-43170e4ddf19",
+               "id": "60",
+               "name": "About Us",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/about/"
+            }, {
+               "date_added": "13157160431000000",
+               "guid": "be0029c5-95a9-493e-ac97-0a285244b1f7",
+               "id": "61",
+               "name": "Get Involved",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/contribute/"
+            }, {
+               "date_added": "13230672915000000",
+               "guid": "e7207796-e6e3-4059-9444-1cf560e694a2",
+               "id": "62",
+               "name": "Panier",
+               "type": "url",
+               "url": "javascript:;"
+            }, {
+               "children": [ {
+                  "date_added": "13152103683000000",
+                  "guid": "8fc8e526-63b5-4254-bd0f-4955300d5d02",
+                  "id": "68",
+                  "name": "Enseignement - Espaces métriques et topologiques",
+                  "type": "url",
+                  "url": "http://sma.epfl.ch/~buffoni/topologie-un/topologie-un.html"
+               }, {
+                  "date_added": "13153089321000000",
+                  "guid": "3fdef742-146b-4913-b94c-97705f2cb625",
+                  "id": "69",
+                  "name": "Download Free Bootstrap 4 Admin Template for Amazing Websites",
+                  "type": "url",
+                  "url": "https://themewagon.com/themes/free-bootstrap-4-admin-template/"
+               }, {
+                  "date_added": "13152192211000000",
+                  "guid": "4f4da28d-d2ec-4c60-8069-824ad4d504ec",
+                  "id": "70",
+                  "name": "Course: Probabilités",
+                  "type": "url",
+                  "url": "https://moodle.epfl.ch/course/view.php?id=15447"
+               }, {
+                  "date_added": "13151675657000000",
+                  "guid": "2ab07b08-b794-472c-936a-ed99302f9cf5",
+                  "id": "71",
+                  "name": "Eugène Guillevic — Wikipédia",
+                  "type": "url",
+                  "url": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Guillevic"
+               }, {
+                  "date_added": "13156200003000000",
+                  "guid": "3c58cef1-55e7-4715-9748-b92705fe36d9",
+                  "id": "72",
+                  "name": "Ant is a Flat GTK Theme with a Bloody Bite - OMG! Ubuntu!",
+                  "type": "url",
+                  "url": "http://www.omgubuntu.co.uk/2017/09/ant-flat-gtk-theme-bloody-bite"
+               }, {
+                  "date_added": "13152561313000000",
+                  "guid": "d6d41080-1000-4fe8-aac6-6dc9e03e1fea",
+                  "id": "73",
+                  "name": "Problèmes du premier degré à une ou deux inconnues - E821.pdf",
+                  "type": "url",
+                  "url": "http://passeport.univ-lille1.fr/site/Math-va/08E/E821.pdf"
+               }, {
+                  "date_added": "13152703239000000",
+                  "guid": "4c019a53-b00a-4d8d-9ced-2e984fd04128",
+                  "id": "74",
+                  "name": "How do I convert a video to GIF using ffmpeg, with reasonable quality? - Super User",
+                  "type": "url",
+                  "url": "https://superuser.com/questions/556029/how-do-i-convert-a-video-to-gif-using-ffmpeg-with-reasonable-quality"
+               }, {
+                  "date_added": "13152703240000000",
+                  "guid": "682a6f64-a9c9-42af-8647-53a887b5c4ac",
+                  "id": "75",
+                  "name": "Create animated gif from mp4 video via command line - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/648603/create-animated-gif-from-mp4-video-via-command-line"
+               }, {
+                  "date_added": "13159473293000000",
+                  "guid": "4d0380e7-14b4-4403-937e-524b94c09bc6",
+                  "id": "76",
+                  "name": "Course: Théorie des groupes",
+                  "type": "url",
+                  "url": "https://moodle.epfl.ch/course/view.php?id=15439"
+               }, {
+                  "date_added": "13164149188000000",
+                  "guid": "865b97e9-2424-4fbe-80d2-27b084edee79",
+                  "id": "77",
+                  "name": "Python modules in C by Dan Foreman-Mackey",
+                  "type": "url",
+                  "url": "http://dfm.io/posts/python-c-extensions/"
+               }, {
+                  "date_added": "13164150739000000",
+                  "guid": "49b9d185-10b7-4e25-8aa7-d4aa24f41947",
+                  "id": "78",
+                  "name": "Boost C++ Libraries: Boost.Python Build and Test HOWTO - 1.58.0",
+                  "type": "url",
+                  "url": "http://www.boost.org/doc/libs/1_58_0/libs/python/doc/building.html"
+               }, {
+                  "date_added": "13164150751000000",
+                  "guid": "98f334cd-70e0-444c-bdfa-4395ba3b8863",
+                  "id": "79",
+                  "name": "Boost.Python - 1.66.0",
+                  "type": "url",
+                  "url": "http://www.boost.org/doc/libs/1_66_0/libs/python/doc/html/index.html"
+               }, {
+                  "date_added": "13164238724000000",
+                  "guid": "9b199af0-98c3-493e-a5c2-fd88e1a87524",
+                  "id": "80",
+                  "name": "The Ultimate Introductory Guide to Harmy's Star Wars Trilogy Despecialized Editions",
+                  "type": "url",
+                  "url": "https://docs.google.com/document/d/1yLsvexWBVM8IYSGopKuSfsGk5YIgCwQWd23bqb5ryD4/pub#h.iezr5fw0n6vp"
+               }, {
+                  "date_added": "13164287360000000",
+                  "guid": "1acd8972-0633-4577-8af7-ed47c8aaae80",
+                  "id": "81",
+                  "name": "Exam_math_hebdo2_printemps - Online LaTeX Editor ShareLaTeX",
+                  "type": "url",
+                  "url": "https://www.sharelatex.com/project/5a9421355383f83115e58274"
+               }, {
+                  "date_added": "13165538674000000",
+                  "guid": "b93a73d6-f039-4dc0-be78-ca94551b3082",
+                  "id": "82",
+                  "name": "Home - Keras Documentation",
+                  "type": "url",
+                  "url": "https://faroit.github.io/keras-docs/0.3.3/"
+               }, {
+                  "date_added": "13165621258000000",
+                  "guid": "207d383b-1c3a-49da-bc17-7030fdd7cef1",
+                  "id": "83",
+                  "name": "GitHub - mozilla/DeepSpeech: A TensorFlow implementation of Baidu's DeepSpeech architecture",
+                  "type": "url",
+                  "url": "https://github.com/mozilla/DeepSpeech"
+               }, {
+                  "date_added": "13165621366000000",
+                  "guid": "5db5fc30-98d0-4f17-a0ac-61d705d165b7",
+                  "id": "84",
+                  "name": "Simple Audio Recognition  |  TensorFlow",
+                  "type": "url",
+                  "url": "https://www.tensorflow.org/versions/master/tutorials/audio_recognition"
+               }, {
+                  "date_added": "13165926142000000",
+                  "guid": "074d0235-911b-4744-bda3-0d8b2a374ab0",
+                  "id": "85",
+                  "name": "How can one make Firefox ignore my GTK theme entirely? - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/8336/how-can-one-make-firefox-ignore-my-gtk-theme-entirely/8337"
+               }, {
+                  "date_added": "13166352836000000",
+                  "guid": "4ffae0b3-a673-48d4-bc93-b7d25800d18b",
+                  "id": "86",
+                  "name": "Continuous wireless pressure monitoring and mapping with ultra-small passive sensors for health monitoring and critical care - ncomms6028.pdf",
+                  "type": "url",
+                  "url": "https://www.nature.com/articles/ncomms6028.pdf"
+               }, {
+                  "date_added": "13166642713000000",
+                  "guid": "66d7419e-7c91-41d8-a76a-96a9499d26d0",
+                  "id": "87",
+                  "name": "CS231n Convolutional Neural Networks for Visual Recognition",
+                  "type": "url",
+                  "url": "http://cs231n.github.io/convolutional-networks/"
+               }, {
+                  "date_added": "13166643113000000",
+                  "guid": "7d9feee6-5fec-4933-9519-e449e95c111e",
+                  "id": "88",
+                  "name": "CS231n Convolutional Neural Networks for Visual Recognition",
+                  "type": "url",
+                  "url": "http://cs231n.github.io/"
+               }, {
+                  "date_added": "13166643115000000",
+                  "guid": "d77c8fb3-cc45-45bb-8c01-e7be079538fb",
+                  "id": "89",
+                  "name": "Tech Blog - Agustinus Kristiadi's Blog",
+                  "type": "url",
+                  "url": "https://wiseodd.github.io/techblog/"
+               }, {
+                  "date_added": "13167251737000000",
+                  "guid": "e49d71bf-73de-4a1a-91f1-a1d4b5223a88",
+                  "id": "90",
+                  "name": "Which is the best film restoration software? - Quora",
+                  "type": "url",
+                  "url": "https://www.quora.com/Which-is-the-best-film-restoration-software"
+               }, {
+                  "children": [ {
+                     "date_added": "13169323267000000",
+                     "guid": "aa811299-7452-4f83-b874-09ddf533ecb0",
+                     "id": "92",
+                     "name": "VIM: Command for navigating around visible editors/viewlets/repl · Issue #21669 · Microsoft/vscode · GitHub",
+                     "type": "url",
+                     "url": "https://github.com/Microsoft/vscode/issues/21669"
+                  } ],
+                  "date_added": "13261752251641862",
+                  "date_modified": "0",
+                  "guid": "bb2b60f0-6552-45ce-852d-f03bcead22b3",
+                  "id": "91",
+                  "name": "vscode",
+                  "type": "folder"
+               }, {
+                  "date_added": "13171552588000000",
+                  "guid": "1b5e7b5e-8843-4354-9ded-acacec4982ab",
+                  "id": "93",
+                  "name": "Watch Code Geass: Lelouch of the Rebellion R2 Episode 18 Online Free | AnimeHub",
+                  "type": "url",
+                  "url": "https://animehub.ac/watch/code-geass-lelouch-of-the-rebellion-r2-sub?ep=1649"
+               }, {
+                  "date_added": "13172746141000000",
+                  "guid": "2efd43ed-4e72-489c-a113-d5fb12ffffbf",
+                  "id": "94",
+                  "name": "networking - No internet after upgrade from 16.04 to 18.04 - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/1021884/no-internet-after-upgrade-from-16-04-to-18-04/1021885#1021885"
+               }, {
+                  "date_added": "13176212735000000",
+                  "guid": "ff455d35-c230-4662-bded-462b32b4e76f",
+                  "id": "95",
+                  "name": "Google Docs",
+                  "type": "url",
+                  "url": "https://docs.google.com/document/u/0/"
+               }, {
+                  "date_added": "13180453341000000",
+                  "guid": "dacd5e1a-05de-4895-b7c2-6c5c4632a85d",
+                  "id": "96",
+                  "name": "t - valentin.oreiller@gmail.com - Gmail",
+                  "type": "url",
+                  "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgxvzKQmmrcdMbbZRRgGJshbDbcxH"
+               }, {
+                  "date_added": "13182868053000000",
+                  "guid": "68639e2b-fb7f-4611-8f9c-4be398e13c2d",
+                  "id": "97",
+                  "name": "command line - SSH SCP Local file to Remote in Terminal Mac Os X - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/11822192/ssh-scp-local-file-to-remote-in-terminal-mac-os-x"
+               }, {
+                  "date_added": "13182872290000000",
+                  "guid": "a05ccc4f-0412-4d86-9b92-2e5c34ae3918",
+                  "id": "98",
+                  "name": "dicom.offis.de - DICOM Software made by OFFIS - DICOMscope - DICOM Viewer",
+                  "type": "url",
+                  "url": "https://dicom.offis.de/dscope.php.en"
+               }, {
+                  "date_added": "13183732182000000",
+                  "guid": "3602189a-acf0-4edb-b050-069cab60158b",
+                  "id": "99",
+                  "name": "Skype - valentin.oreiller@gmail.com - Gmail",
+                  "type": "url",
+                  "url": "https://mail.google.com/mail/u/0/#inbox/KtbxLvHXDGSDtvFZNBrVsckHXvdNkthCbV"
+               }, {
+                  "date_added": "13184428825000000",
+                  "guid": "53ee0cf9-9977-45ff-946f-b6a461722eb9",
+                  "id": "100",
+                  "name": "Tutorial on using Keras flow_from_directory and generators",
+                  "type": "url",
+                  "url": "https://medium.com/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720"
+               }, {
+                  "children": [ {
+                     "date_added": "13184673737000000",
+                     "guid": "2a4f631b-5dab-46e1-98ec-dafb39b7df65",
+                     "id": "102",
+                     "name": "kennethreitz/autoenv: Directory-based environments.",
+                     "type": "url",
+                     "url": "https://github.com/kennethreitz/autoenv"
+                  }, {
+                     "date_added": "13184927768000000",
+                     "guid": "7f34a78e-2ecd-41b3-aa50-a56a0e53f8c9",
+                     "id": "103",
+                     "name": "3.3. Scikit-image: image processing — Scipy lecture notes",
+                     "type": "url",
+                     "url": "https://www.scipy-lectures.org/packages/scikit-image/index.html"
+                  }, {
+                     "date_added": "13186140395000000",
+                     "guid": "3e0ee88c-add5-4fc2-8992-68495272138c",
+                     "id": "104",
+                     "name": "Images and words, Emmanuelle Gouillart's blog",
+                     "type": "url",
+                     "url": "http://emmanuelle.github.io/a-tutorial-on-segmentation.html"
+                  }, {
+                     "date_added": "13190995706000000",
+                     "guid": "08833fc6-b5da-4494-8407-4af0aca567c4",
+                     "id": "105",
+                     "name": "sklearn.model_selection.GridSearchCV — scikit-learn 0.20.2 documentation",
+                     "type": "url",
+                     "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html"
+                  } ],
+                  "date_added": "13261752251642292",
+                  "date_modified": "0",
+                  "guid": "89e62150-17f1-464a-b0b9-d4122ad63336",
+                  "id": "101",
+                  "name": "python",
+                  "type": "folder"
+               }, {
+                  "date_added": "13184675729000000",
+                  "guid": "e3524540-439c-422f-99df-34d5d768a84e",
+                  "id": "106",
+                  "name": "Internal Wiki",
+                  "type": "url",
+                  "url": "http://medgift.hevs.ch/wiki/index.php5/Main_Page"
+               }, {
+                  "date_added": "13184683964000000",
+                  "guid": "ae82f342-2e70-41e4-8f19-5c9f885b37aa",
+                  "id": "107",
+                  "name": "Call matlab from a Python virtual environment - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/31550622/call-matlab-from-a-python-virtual-environment"
+               }, {
+                  "date_added": "13184847346000000",
+                  "guid": "ed77d256-7f7c-45a0-b0f5-bedf1ab4d8c7",
+                  "id": "108",
+                  "name": "Medieval Wormhole - Flavien Berger - Google Play Musique",
+                  "type": "url",
+                  "url": "https://play.google.com/music/listen?gclid=Cj0KCQjwjbveBRDVARIsAKxH7vnkx7nwNNU9zndePvHPvom-NmwF2dXHytU4iyXWLc_4bS3btecaBK8aAlENEALw_wcB&gclsrc=aw.ds&dclid=CPyUiM-QnN4CFVYO4AodWTcHRQ#/album/Buswq5izvcdn2oqstpfy4ju2vf4/Flavien+Berger/Contrebande+01.+Disque+de+No%C3%ABl"
+               }, {
+                  "children": [ {
+                     "date_added": "13185990347000000",
+                     "guid": "7919a02d-1765-4677-8195-0592de0c79f4",
+                     "id": "110",
+                     "name": "Index of /people/d.vvedensky/groups",
+                     "type": "url",
+                     "url": "http://www.cmth.ph.ic.ac.uk/people/d.vvedensky/groups/"
+                  }, {
+                     "date_added": "13187806325000000",
+                     "guid": "bd50de0d-108d-4615-ba81-2a477964d644",
+                     "id": "111",
+                     "name": "SHTOOLS/pydjpi2.md at develop · SHTOOLS/SHTOOLS",
+                     "type": "url",
+                     "url": "https://github.com/SHTOOLS/SHTOOLS/blob/develop/src/pydoc/pydjpi2.md"
+                  }, {
+                     "date_added": "13199980058000000",
+                     "guid": "f425d695-2a0d-4f52-b8c6-d86e8b3b6a3a",
+                     "id": "112",
+                     "name": "Canonical correlation - Wikipedia",
+                     "type": "url",
+                     "url": "https://en.wikipedia.org/wiki/Canonical_correlation"
+                  } ],
+                  "date_added": "13261752251642633",
+                  "date_modified": "0",
+                  "guid": "f70dcc75-e51b-42c4-801c-f8663ce6d916",
+                  "id": "109",
+                  "name": "math",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13186140407000000",
+                     "guid": "0fb622e2-52c9-4e2b-b74b-714ad78f5c1d",
+                     "id": "114",
+                     "name": "PETTumorSegmentation: Semi-automatic segmentation of tumors in PET",
+                     "type": "url",
+                     "url": "http://qiicr.org/tool/PETTumorSegmentation/"
+                  }, {
+                     "date_added": "13186662682000000",
+                     "guid": "fa81cd19-0b22-4175-b219-aac342a3ba6d",
+                     "id": "115",
+                     "name": "DICOM Processing and Segmentation in Python – Radiology Data Quest",
+                     "type": "url",
+                     "url": "https://www.raddq.com/dicom-processing-segmentation-visualization-in-python/"
+                  } ],
+                  "date_added": "13261752251642765",
+                  "date_modified": "0",
+                  "guid": "598ea54e-adb2-422f-9f96-7a6441d094dd",
+                  "id": "113",
+                  "name": "pet_segmentation",
+                  "type": "folder"
+               }, {
+                  "date_added": "13186748014000000",
+                  "guid": "3c76329b-8540-4f8a-ba93-74f1e03e6351",
+                  "id": "116",
+                  "name": "Cours : 18_HES-SO_Module Research Methods I (part Depeursinge)",
+                  "type": "url",
+                  "url": "https://cyberlearn.hes-so.ch/course/view.php?id=12010"
+               }, {
+                  "children": [ {
+                     "date_added": "13187708988000000",
+                     "guid": "be4c8328-b3b6-49a1-aaff-00c698036fbb",
+                     "id": "118",
+                     "name": "pandas Multi-index and groupbys (article) - DataCamp",
+                     "type": "url",
+                     "url": "https://www.datacamp.com/community/tutorials/pandas-multi-index"
+                  } ],
+                  "date_added": "13261752251642907",
+                  "date_modified": "0",
+                  "guid": "02772077-ee58-4b33-a708-d30a16633cb2",
+                  "id": "117",
+                  "name": "pandas",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13187962030000000",
+                     "guid": "e6e98eb7-9a90-4ef8-8526-6ec787389af0",
+                     "id": "120",
+                     "name": "The Grey Level Co-occurrence Matrix, GLCM (also called the Grey Tone Spatial Dependency Matrix) | Personal and research",
+                     "type": "url",
+                     "url": "https://www.ucalgary.ca/mhallbey/glcm1"
+                  } ],
+                  "date_added": "13261752251642962",
+                  "date_modified": "0",
+                  "guid": "9f6b62d6-acbb-4af7-9f0e-99443d858618",
+                  "id": "119",
+                  "name": "radiomics_feature",
+                  "type": "folder"
+               }, {
+                  "date_added": "13188663437000000",
+                  "guid": "89d9c4b9-a91c-4079-9b83-c636cb3fc5e2",
+                  "id": "121",
+                  "name": "Get column index from column name in python pandas - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/13021654/get-column-index-from-column-name-in-python-pandas"
+               }, {
+                  "date_added": "13190989301000000",
+                  "guid": "0bb0335e-c28a-4efd-b17a-1d5a6194887b",
+                  "id": "122",
+                  "name": "Seamlessly Navigate Vim and tmux Splits",
+                  "type": "url",
+                  "url": "https://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits"
+               }, {
+                  "date_added": "13191262041000000",
+                  "guid": "d8a92ec6-acbe-40b1-aa97-a196c4f1dd82",
+                  "id": "123",
+                  "name": "How To Recover Deleted Files In Linux [Beginner's Guide]",
+                  "type": "url",
+                  "url": "https://itsfoss.com/recover-deleted-files-linux/"
+               }, {
+                  "date_added": "13191458232000000",
+                  "guid": "0f2490b9-b7e1-4a21-87b8-ab9e659eb0fb",
+                  "id": "124",
+                  "name": "Vagabond - Vol.1 Chapter 1: Shinmen Takezo",
+                  "type": "url",
+                  "url": "https://mangarock.com/manga/mrs-serie-267124/chapter/mrs-chapter-267125"
+               }, {
+                  "date_added": "13192123842000000",
+                  "guid": "d0feb466-9ad2-470b-b501-facc74f37312",
+                  "id": "125",
+                  "name": "PETSTEP: Generation of synthetic PET lesions for fast evaluation of segmentation methods - ScienceDirect",
+                  "type": "url",
+                  "url": "https://www.sciencedirect.com/science/article/pii/S1120179715003130"
+               }, {
+                  "date_added": "13193338268000000",
+                  "guid": "e24bfb45-8456-4ea0-b50e-f1a1822cc447",
+                  "id": "126",
+                  "name": "PET radiomics challenges | Kaggle",
+                  "type": "url",
+                  "url": "https://www.kaggle.com/c/pet-radiomics-challenges#Description"
+               }, {
+                  "date_added": "13193940552000000",
+                  "guid": "9d0d632a-b77a-451b-9e9b-9cd23c165a83",
+                  "id": "127",
+                  "name": "translate - Google Search",
+                  "type": "url",
+                  "url": "https://www.google.com/search?client=ubuntu&channel=fs&q=translate&ie=utf-8&oe=utf-8"
+               }, {
+                  "date_added": "13194008253000000",
+                  "guid": "f5151e8d-463a-4adb-833d-20311aa5f683",
+                  "id": "128",
+                  "name": "Hankel transform",
+                  "type": "url",
+                  "url": "https://documents.epfl.ch/users/l/le/leuteneg/www/MATLABToolbox/HankelTransform.html"
+               }, {
+                  "date_added": "13194976159000000",
+                  "guid": "1d424702-5cc2-4935-ad97-1b5637b38b4f",
+                  "id": "129",
+                  "name": "WhatsApp",
+                  "type": "url",
+                  "url": "https://web.whatsapp.com/"
+               }, {
+                  "date_added": "13195735574000000",
+                  "guid": "a4a90f73-788a-42e2-aa8c-abede5ac7ffa",
+                  "id": "130",
+                  "name": "Specifying width for :vsplit in vim - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/1388252/specifying-width-for-vsplit-in-vim"
+               }, {
+                  "date_added": "13195904144000000",
+                  "guid": "b005dd40-7539-4bd4-b8d9-c4e49fb69500",
+                  "id": "131",
+                  "name": "Viewing 3D Volumetric Data With Matplotlib (article) - DataCamp",
+                  "type": "url",
+                  "url": "https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data"
+               }, {
+                  "date_added": "13195920247000000",
+                  "guid": "b05ffb48-7a7f-469e-8e22-73c5c6477cce",
+                  "id": "132",
+                  "name": "3.1. Cross-validation: evaluating estimator performance — scikit-learn 0.20.2 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation"
+               }, {
+                  "date_added": "13196697340000000",
+                  "guid": "7ecab597-9753-40c9-ae4b-8b3d4de225a6",
+                  "id": "133",
+                  "name": "ITK-SNAP Documentation: Version 3.x",
+                  "type": "url",
+                  "url": "http://www.itksnap.org/pmwiki/pmwiki.php?n=Documentation.SNAP3"
+               }, {
+                  "date_added": "13196875407000000",
+                  "guid": "22e5ac6c-f85c-434e-9dc4-2509ea8db7c9",
+                  "id": "134",
+                  "name": "1.11. Ensemble methods — scikit-learn 0.20.3 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/modules/ensemble.html"
+               }, {
+                  "date_added": "13196953161000000",
+                  "guid": "74c8a439-1faa-4632-9169-e8a619c97665",
+                  "id": "135",
+                  "name": "[]",
+                  "type": "url",
+                  "url": "http://simpleitk.github.io/SimpleITK-Notebooks/01_Image_Basics.html"
+               }, {
+                  "date_added": "13197032632000000",
+                  "guid": "b9f1d40a-96cd-4bcb-a912-b002495962f5",
+                  "id": "136",
+                  "name": "Unravelling the connection between metabolism and tumorigenesis through studies of the liver kinase B1 tumour suppressor",
+                  "type": "url",
+                  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3779404/"
+               }, {
+                  "date_added": "13197125892000000",
+                  "guid": "88792b33-0c2d-4d1a-b351-a3097a2632ff",
+                  "id": "137",
+                  "name": "Untitled presentation - Google Slides",
+                  "type": "url",
+                  "url": "https://docs.google.com/presentation/d/1GVJ7SVeh8VBJKH-KXGteCzCcTCpEtpmBxzj8gTeKXHI/edit#slide=id.g54b9ca2aa2_0_353"
+               }, {
+                  "date_added": "13197389954000000",
+                  "guid": "7cd97bd1-ad88-4370-ae14-124db263bdbc",
+                  "id": "138",
+                  "name": "Computational Molecular Biology",
+                  "type": "url",
+                  "url": "http://biochem218.stanford.edu/"
+               }, {
+                  "date_added": "13198594570000000",
+                  "guid": "1151d0e7-081e-47ad-bbfc-8b73d653153b",
+                  "id": "139",
+                  "name": "Comparison of Calibration of Classifiers — scikit-learn 0.20.3 documentation",
+                  "type": "url",
+                  "url": "https://scikit-learn.org/stable/auto_examples/calibration/plot_compare_calibration.html#sphx-glr-auto-examples-calibration-plot-compare-calibration-py"
+               }, {
+                  "date_added": "13198844077000000",
+                  "guid": "bf994313-42c6-4045-808a-9bff6fb04cd7",
+                  "id": "140",
+                  "name": "Orthanc - DICOM Server",
+                  "type": "url",
+                  "url": "https://www.orthanc-server.com/"
+               }, {
+                  "children": [ {
+                     "date_added": "13198854679000000",
+                     "guid": "1bbcf33c-7a59-4a42-8117-310d0297e650",
+                     "id": "142",
+                     "name": "Home - Cookiecutter Data Science",
+                     "type": "url",
+                     "url": "https://drivendata.github.io/cookiecutter-data-science/#directory-structure"
+                  }, {
+                     "date_added": "13198854760000000",
+                     "guid": "15f50e8c-e992-44eb-abb5-e9f121d73365",
+                     "id": "143",
+                     "name": "Top 10 Coding Mistakes Made by Data Scientists",
+                     "type": "url",
+                     "url": "https://www.kdnuggets.com/2019/04/top-10-coding-mistakes-data-scientists.html"
+                  } ],
+                  "date_added": "13261752251643859",
+                  "date_modified": "0",
+                  "guid": "dfbc9a07-980a-4508-a94f-6fa9489b2ccc",
+                  "id": "141",
+                  "name": "data_pipeline",
+                  "type": "folder"
+               }, {
+                  "date_added": "13200526625000000",
+                  "guid": "532ae0c1-0614-4ebb-bf81-40bc3c044528",
+                  "id": "144",
+                  "name": "Signals, Systems and Inference | Electrical Engineering and Computer Science | MIT OpenCourseWare",
+                  "type": "url",
+                  "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-011-signals-systems-and-inference-spring-2018/"
+               }, {
+                  "date_added": "13200946445000000",
+                  "guid": "bcff1e11-55a3-4174-9be9-1bf3273de20e",
+                  "id": "145",
+                  "name": "Basics: An example workflow — Snakemake 5.4.5+0.gcdd12c5.dirty documentation",
+                  "type": "url",
+                  "url": "https://snakemake.readthedocs.io/en/stable/tutorial/basics.html"
+               }, {
+                  "date_added": "13201272794000000",
+                  "guid": "8a93d1ed-17fc-4eca-916a-9077b012c580",
+                  "id": "146",
+                  "name": "Google Spreadsheets and Python - Twilio",
+                  "type": "url",
+                  "url": "https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html"
+               }, {
+                  "date_added": "13205431088000000",
+                  "guid": "d45629ca-5b3e-463d-ade1-a925e2fbd75f",
+                  "id": "147",
+                  "name": "Valentin Oreiller - Outlook Web App",
+                  "type": "url",
+                  "url": "https://outlook.hevs.ch/owa/#path=/mail"
+               }, {
+                  "date_added": "13206458913000000",
+                  "guid": "4ec8fbb4-6004-47db-9fa4-196ca62ec3f6",
+                  "id": "148",
+                  "name": "Normality test - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Normality_test"
+               }, {
+                  "date_added": "13206549228000000",
+                  "guid": "cd15772d-5625-4822-bfed-26a95b18f9c5",
+                  "id": "149",
+                  "name": "overview2 - Google Drawings",
+                  "type": "url",
+                  "url": "https://docs.google.com/drawings/d/13aOaC9B3kyiURvdXkf8l1asxXWyePuakatYRKgg2UJA/edit"
+               }, {
+                  "date_added": "13207244438000000",
+                  "guid": "7eb6dd3b-f536-4b2d-bb6d-6d6a15ae1149",
+                  "id": "150",
+                  "name": "Deriving physiological information from PET images: from SUV to compartmental modelling | SpringerLink",
+                  "type": "url",
+                  "url": "https://link.springer.com/article/10.1007/s40336-014-0067-x"
+               }, {
+                  "date_added": "13207317495000000",
+                  "guid": "d348ab69-9eb4-468b-8521-71b9c173f09f",
+                  "id": "151",
+                  "name": "PET-SORTEO: A monte carlo-based simulation platform for PET data",
+                  "type": "url",
+                  "url": "http://sorteo.cermep.fr/"
+               }, {
+                  "date_added": "13208009459000000",
+                  "guid": "67bf393f-e1d0-479c-9845-bdd333c275cb",
+                  "id": "152",
+                  "name": "train_clean_val",
+                  "type": "url",
+                  "url": "http://lxhdesuto:8890/notebooks/synthetic_experiments/train_clean_val.ipynb"
+               }, {
+                  "date_added": "13208603594000000",
+                  "guid": "de01a18e-62f3-4245-a9c7-9bf6c08372e6",
+                  "id": "153",
+                  "name": "numpy.dot — NumPy v1.16 Manual",
+                  "type": "url",
+                  "url": "https://docs.scipy.org/doc/numpy/reference/generated/numpy.dot.html#numpy.dot"
+               }, {
+                  "date_added": "13208631081000000",
+                  "guid": "e271b1e8-2232-4127-b6a6-51864e9fd0e0",
+                  "id": "154",
+                  "name": "train_clean_val",
+                  "type": "url",
+                  "url": "http://lxhdesuto:8891/notebooks/synthetic_experiments/train_clean_val.ipynb"
+               }, {
+                  "date_added": "13209554473000000",
+                  "guid": "72d74688-a9c4-4a6c-b9d0-f43d0151626d",
+                  "id": "155",
+                  "name": "Ubuntu Manpage: imwheel - a mouse wheel and button interpreter for X Windows",
+                  "type": "url",
+                  "url": "http://manpages.ubuntu.com/manpages/bionic/man1/imwheel.1.html"
+               }, {
+                  "date_added": "13209655735000000",
+                  "guid": "216581e9-e122-4db3-a8c6-7235a5030cac",
+                  "id": "156",
+                  "name": "Scale Invariant Feature Transform (SIFT) Detector and Descriptor",
+                  "type": "url",
+                  "url": "https://medium.com/lis-computer-vision-blogs/scale-invariant-feature-transform-sift-detector-and-descriptor-14165624a11"
+               }, {
+                  "date_added": "13209662690000000",
+                  "guid": "e26dccf7-7889-489d-a962-9cd593cde924",
+                  "id": "157",
+                  "name": "Implementing SIFT in Python - Sam Lerner - Medium",
+                  "type": "url",
+                  "url": "https://medium.com/@lerner98/implementing-sift-in-python-36c619df7945"
+               }, {
+                  "date_added": "13209673050000000",
+                  "guid": "9247f04c-7738-40a6-860f-4f008caa938c",
+                  "id": "158",
+                  "name": "OpenCV: Introduction to SIFT (Scale-Invariant Feature Transform)",
+                  "type": "url",
+                  "url": "https://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html?source=post_page---------------------------"
+               }, {
+                  "date_added": "13209831951000000",
+                  "guid": "41dd4ca3-04c4-435a-80f5-d8cfb2c4835c",
+                  "id": "159",
+                  "name": "ivreo/sift_anatomy: An implementation of the SIFT method, a popular image matching algorithm.",
+                  "type": "url",
+                  "url": "https://github.com/ivreo/sift_anatomy"
+               }, {
+                  "date_added": "13210176321000000",
+                  "guid": "c8fdac4a-579e-4b8f-9c93-9dd478901143",
+                  "id": "160",
+                  "name": "Files - SWITCHdrive",
+                  "type": "url",
+                  "url": "https://drive.switch.ch/index.php/s/d1st4zSjSjjyb5U"
+               }, {
+                  "date_added": "13210866334000000",
+                  "guid": "e0258d1a-5135-4fd5-951e-375894716cf9",
+                  "id": "161",
+                  "name": "Statistics in Action with R",
+                  "type": "url",
+                  "url": "http://sia.webpopix.org/"
+               }, {
+                  "date_added": "13210932222000000",
+                  "guid": "560532bb-c051-46ba-8d7a-ca2424a508a5",
+                  "id": "162",
+                  "name": "Introduction to Statistical Learning",
+                  "type": "url",
+                  "url": "http://faculty.marshall.usc.edu/gareth-james/ISL/code.html"
+               }, {
+                  "date_added": "13210943149000000",
+                  "guid": "295fc5fa-5d40-4339-9509-3d0355ec8862",
+                  "id": "163",
+                  "name": "Regression Models | DataScience+",
+                  "type": "url",
+                  "url": "https://datascienceplus.com/category/regression-models"
+               }, {
+                  "date_added": "13210949405000000",
+                  "guid": "a0a1c594-4055-4e3b-9ad6-6b01996adee8",
+                  "id": "164",
+                  "name": "Generalized Additive Models in R · A Free Interactive Course",
+                  "type": "url",
+                  "url": "https://noamross.github.io/gams-in-r-course/"
+               }, {
+                  "date_added": "13211882466000000",
+                  "guid": "95695817-ff05-4df4-a4e1-a7f7f8a849df",
+                  "id": "165",
+                  "name": "CTAN: /tex-archive/support/excel2latex",
+                  "type": "url",
+                  "url": "https://ctan.org/tex-archive/support/excel2latex/"
+               }, {
+                  "date_added": "13212157752000000",
+                  "guid": "8f0a0037-5511-4996-bfa9-f283669003cb",
+                  "id": "166",
+                  "name": "The Bispectrum as a source of LRI - Online LaTeX Editor Overleaf",
+                  "type": "url",
+                  "url": "https://www.overleaf.com/project/5d6cc5fcfec30e4189abbc47"
+               }, {
+                  "date_added": "13212250877000000",
+                  "guid": "0f4cb821-779c-4ad3-9834-64fdb861f941",
+                  "id": "167",
+                  "name": "Biomed group",
+                  "type": "url",
+                  "url": "https://image.org.by/"
+               }, {
+                  "date_added": "13214403457000000",
+                  "guid": "0270f24a-75f8-4526-bfdc-6812610c29cd",
+                  "id": "168",
+                  "name": "19_HES-SO_Module Research Methods I (part Depeursinge)",
+                  "type": "url",
+                  "url": "https://cyberlearn.hes-so.ch/enrol/index.php?id=13632"
+               }, {
+                  "date_added": "13214409652000000",
+                  "guid": "5e405b87-79a3-4575-a7b0-855db691f803",
+                  "id": "169",
+                  "name": "YouTube Music",
+                  "type": "url",
+                  "url": "https://music.youtube.com/channel/UCwwjwnnrew9EfYdw_n1BSLg"
+               }, {
+                  "date_added": "13215262004000000",
+                  "guid": "d537b840-d4f8-4951-ba41-4640eee9a3a8",
+                  "id": "170",
+                  "name": "GPU support  |  TensorFlow",
+                  "type": "url",
+                  "url": "https://www.tensorflow.org/install/gpu"
+               }, {
+                  "date_added": "13216397689000000",
+                  "guid": "d6693c79-b08b-4a3d-8320-82fec99c2f69",
+                  "id": "171",
+                  "name": "ftp://dicom.offis.de/pub/dicom/offis/software/dcmtk/dcmtk364/README",
+                  "type": "url",
+                  "url": "ftp://dicom.offis.de/pub/dicom/offis/software/dcmtk/dcmtk364/README"
+               }, {
+                  "date_added": "13217697992000000",
+                  "guid": "41c61c14-dd55-4ea3-bcb9-f0ff75d44284",
+                  "id": "172",
+                  "name": "mmm - Google Slides",
+                  "type": "url",
+                  "url": "https://docs.google.com/presentation/d/167vTZ4i5ygYObGsYoJxSOQUxHJ0KMpk9x8Av0mc9a2U/edit#slide=id.g706cc9e076_1_27"
+               }, {
+                  "date_added": "13217944843000000",
+                  "guid": "13daf77f-9ef3-43c1-82b9-6684a687117a",
+                  "id": "173",
+                  "name": "Fst example",
+                  "type": "url",
+                  "url": "http://www.uwyo.edu/dbmcd/popecol/maylects/fst.html"
+               }, {
+                  "date_added": "13217968692000000",
+                  "guid": "83a5f8ff-202b-4c3b-a572-159f283b21cc",
+                  "id": "174",
+                  "name": "Population genetics and genomics in R",
+                  "type": "url",
+                  "url": "https://grunwaldlab.github.io/Population_Genetics_in_R/"
+               }, {
+                  "date_added": "13218744443000000",
+                  "guid": "91e56aab-e76d-4523-9a80-51f0a361e8d1",
+                  "id": "175",
+                  "name": "Pied industriel intemporel sur mesure",
+                  "type": "url",
+                  "url": "https://www.lafabriquedespieds.com/fr/sur-mesure/173-20613-pied-industriel-sur-mesure.html#/129-reference-noir/280-pieds_indus-croix"
+               }, {
+                  "date_added": "13222192502000000",
+                  "guid": "73f816e2-9d3f-4bc6-b5da-591dff0c64e6",
+                  "id": "176",
+                  "name": "ClearCanvas Workstation, Personal - User's Guide",
+                  "type": "url",
+                  "url": "https://documentation.clearcanvas.ca/Documentation/UsersGuide/Personal/7_0/index.html?suv.htm"
+               }, {
+                  "date_added": "13222535791000000",
+                  "guid": "5e828022-5538-417b-9841-9daf35a72b27",
+                  "id": "177",
+                  "name": "Standardized Uptake Value (SUV) - QIBA Wiki",
+                  "type": "url",
+                  "url": "https://qibawiki.rsna.org/index.php/Standardized_Uptake_Value_(SUV)#SUV_Calculation"
+               }, {
+                  "date_added": "13222605172000000",
+                  "guid": "e32c9e40-0d56-4c32-9ea5-ff740475309b",
+                  "id": "178",
+                  "name": "Exploratory analysis of transcriptomics data in R",
+                  "type": "url",
+                  "url": "https://tavareshugo.github.io/data-carpentry-rnaseq/"
+               }, {
+                  "date_added": "13222621953000000",
+                  "guid": "62837d7a-d931-45f2-a7a3-c7b5e299614d",
+                  "id": "179",
+                  "name": "Manipulating, analyzing and exporting data with tidyverse",
+                  "type": "url",
+                  "url": "https://datacarpentry.org/R-ecology-lesson/03-dplyr.html"
+               }, {
+                  "date_added": "13222778609000000",
+                  "guid": "2788f00f-ad38-4b80-9690-68174a82ab1a",
+                  "id": "180",
+                  "name": "1.0-vo-exploration-of_model_perf-external_validation - Jupyter Notebook",
+                  "type": "url",
+                  "url": "http://localhost:8888/notebooks/notebooks/1.0-vo-exploration-of_model_perf-external_validation.ipynb"
+               }, {
+                  "date_added": "13222801217000000",
+                  "guid": "b72c77f2-c9c0-422f-9614-48b19d6598a5",
+                  "id": "181",
+                  "name": "Simple Trick to Train an Ordinal Regression with any Classifier",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/simple-trick-to-train-an-ordinal-regression-with-any-classifier-6911183d2a3c"
+               }, {
+                  "date_added": "13222801613000000",
+                  "guid": "a2e004ac-3690-4856-9cf1-63824e4a80af",
+                  "id": "182",
+                  "name": "regression - Classification with ordered classes? - Cross Validated",
+                  "type": "url",
+                  "url": "https://stats.stackexchange.com/questions/222073/classification-with-ordered-classes"
+               }, {
+                  "date_added": "13223034805000000",
+                  "guid": "8d8112c9-a5ed-4d1b-afc4-be609c109987",
+                  "id": "183",
+                  "name": "The Autodiff Cookbook — JAX documentation",
+                  "type": "url",
+                  "url": "https://jax.readthedocs.io/en/latest/notebooks/autodiff_cookbook.html"
+               }, {
+                  "date_added": "13223036822000000",
+                  "guid": "080eb772-dbcd-4678-8fb8-3496f9c9c308",
+                  "id": "184",
+                  "name": "Functional Differential Geometry | The MIT Press",
+                  "type": "url",
+                  "url": "https://mitpress.mit.edu/books/functional-differential-geometry"
+               }, {
+                  "date_added": "13223736903000000",
+                  "guid": "8bc92b6b-50da-40ca-9cdb-1c7722cc0b9e",
+                  "id": "185",
+                  "name": "Shimano Deore XT BR-M8020 Frein à disque pour roue arrière PM - Boutique de vélos en ligne - Bikester.fr",
+                  "type": "url",
+                  "url": "https://www.fr.bikester.ch/shimano-deore-xt-m8000-8020-frein-adisque-pm-noir-761803.html"
+               }, {
+                  "date_added": "13224282634000000",
+                  "guid": "29a90ad1-ca35-496d-aa5e-a2ecc0e28062",
+                  "id": "186",
+                  "name": "Poster applied ML EPFL - Google Drawings",
+                  "type": "url",
+                  "url": "https://docs.google.com/drawings/d/1ba_YFDazsRJ53FvPorxQxQMS7mAYTiZ4HwlEehUklYU/edit"
+               }, {
+                  "date_added": "13224544649000000",
+                  "guid": "c1c8c3ec-339f-4f4a-b808-bb425f497c5e",
+                  "id": "187",
+                  "name": "Writing custom layers and models with Keras  |  TensorFlow Core",
+                  "type": "url",
+                  "url": "https://www.tensorflow.org/guide/keras/custom_layers_and_models"
+               }, {
+                  "date_added": "13224762774000000",
+                  "guid": "ad6f98e1-0205-461f-969e-387ef2bd2369",
+                  "id": "188",
+                  "name": "s10851-012-0330-6.pdf",
+                  "type": "url",
+                  "url": "https://link.springer.com/content/pdf/10.1007/s10851-012-0330-6.pdf"
+               }, {
+                  "date_added": "13227099556000000",
+                  "guid": "e889c698-0116-4203-bc76-ecddbf6e7fcf",
+                  "id": "189",
+                  "name": "A Recipe for Training Neural Networks",
+                  "type": "url",
+                  "url": "http://karpathy.github.io/2019/04/25/recipe/"
+               }, {
+                  "date_added": "13227184908000000",
+                  "guid": "7b68f798-30e3-4d6a-bd8b-5aadd95a355d",
+                  "id": "190",
+                  "name": "(2) (PDF) Interstitial Lung Diseases via Deep Convolutional Neural Networks: Segmentation Label Propagation, Unordered Pooling and Cross-Dataset Learning",
+                  "type": "url",
+                  "url": "https://www.researchgate.net/publication/318395342_Interstitial_Lung_Diseases_via_Deep_Convolutional_Neural_Networks_Segmentation_Label_Propagation_Unordered_Pooling_and_Cross-Dataset_Learning"
+               }, {
+                  "date_added": "13227262660000000",
+                  "guid": "02386720-5c88-40fc-ad37-80d4a3fb2868",
+                  "id": "191",
+                  "name": "Cours : Bioinformatic Algorithms 2020",
+                  "type": "url",
+                  "url": "https://moodle.unil.ch/course/view.php?id=6217"
+               }, {
+                  "date_added": "13227626081000000",
+                  "guid": "2b876489-eec6-4942-b4cd-7e65527c446f",
+                  "id": "192",
+                  "name": "mid_thesis_exam - Google Slides",
+                  "type": "url",
+                  "url": "https://docs.google.com/presentation/d/1lUyNiXwjFviEz9BhMOu_j1s5iF_1BAx952VBKvAz69E/edit#slide=id.g704144b4ec_1_7"
+               }, {
+                  "date_added": "13227827115000000",
+                  "guid": "97934ab2-6208-404e-bec7-4f06729f0dc9",
+                  "id": "193",
+                  "name": "medIA extension MIDL exploring - Online LaTeX Editor Overleaf",
+                  "type": "url",
+                  "url": "https://www.overleaf.com/project/5c98f401bc92382065a59de0"
+               }, {
+                  "date_added": "13227971694000000",
+                  "guid": "00b1325d-129b-4139-86c8-e18ab7b94679",
+                  "id": "194",
+                  "name": "Welcome to RadIO’s documentation! — RadIO 0.1.0 documentation",
+                  "type": "url",
+                  "url": "https://analysiscenter.github.io/radio/"
+               }, {
+                  "date_added": "13228413755000000",
+                  "guid": "d8dced40-1c71-4b25-a57b-2039b297b516",
+                  "id": "195",
+                  "name": "Arxiv Sanity Preserver",
+                  "type": "url",
+                  "url": "http://www.arxiv-sanity.com/"
+               }, {
+                  "date_added": "13228845513000000",
+                  "guid": "ffa6b667-fe57-4edc-b47a-a5a7bd2be911",
+                  "id": "196",
+                  "name": "Library Genesis",
+                  "type": "url",
+                  "url": "https://libgen.is/"
+               }, {
+                  "date_added": "13228869924000000",
+                  "guid": "bb38fb6e-8662-4681-a64e-86add7aa7171",
+                  "id": "197",
+                  "name": "Browse — Simple Desktops",
+                  "type": "url",
+                  "url": "http://simpledesktops.com/browse/5/"
+               }, {
+                  "date_added": "13228872219000000",
+                  "guid": "a7d33c78-c9ae-4e2d-bbe9-eb474cd1afe5",
+                  "id": "198",
+                  "name": "5 Best Companies for High-Risk Auto Insurance – The Champion Blog",
+                  "type": "url",
+                  "url": "https://theconservativechampion.org/blog/5-best-companies-for-high-risk-auto-insurance/"
+               }, {
+                  "date_added": "13229110111000000",
+                  "guid": "de4ba02c-6dd4-4448-9f8d-2220785a172d",
+                  "id": "199",
+                  "name": "Electronic library. Download books free. Finding books",
+                  "type": "url",
+                  "url": "https://b-ok.cc/"
+               }, {
+                  "date_added": "13230381139000000",
+                  "guid": "bea26d12-cdae-4962-ab9a-54e9ec333cba",
+                  "id": "200",
+                  "name": "EPFL EE-559 – Deep Learning",
+                  "type": "url",
+                  "url": "https://fleuret.org/ee559/"
+               }, {
+                  "date_added": "13230389147000000",
+                  "guid": "e4fb15eb-117b-44ac-b9b4-80192dda3e19",
+                  "id": "201",
+                  "name": "How To Customize Your KDE Plasma Desktop's Look and Feel",
+                  "type": "url",
+                  "url": "https://www.ubuntupit.com/customize-kde-plasma-desktops-look-feel/"
+               }, {
+                  "date_added": "13230395237000000",
+                  "guid": "8b0093da-98e4-4dca-820d-d9d8d7d309ff",
+                  "id": "202",
+                  "name": "Learn vim For the Last Time: A Tutorial and Primer | Daniel Miessler",
+                  "type": "url",
+                  "url": "https://danielmiessler.com/study/vim/"
+               }, {
+                  "date_added": "13230583136000000",
+                  "guid": "727522e3-d27f-4be4-99ca-d6e614d2ff0c",
+                  "id": "203",
+                  "name": "Ordinateur portable de gaming Dell G3 15 pouces avec technologie Game Shift | Dell Suisse",
+                  "type": "url",
+                  "url": "https://www.dell.com/fr-ch/work/shop/ordinateurs-br-portables/nouveau-dell-g3-15/spd/g-series-15-3590-laptop/bn35916"
+               }, {
+                  "date_added": "13230829080000000",
+                  "guid": "2d7274c4-40ba-41ee-8c47-74e9842a243c",
+                  "id": "204",
+                  "name": "idiap/attention-sampling: This Python package enables the training and inference of deep learning models for very large data, such as megapixel images, using attention-sampling",
+                  "type": "url",
+                  "url": "https://github.com/idiap/attention-sampling"
+               }, {
+                  "date_added": "13231001257000000",
+                  "guid": "ed78fc27-f8aa-4008-b2b0-7fef5d2b583d",
+                  "id": "205",
+                  "name": "themix-project/oomox: Graphical application for generating different color variations of a Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.",
+                  "type": "url",
+                  "url": "https://github.com/themix-project/oomox"
+               }, {
+                  "date_added": "13231097428000000",
+                  "guid": "208ef369-54cb-4a41-a83d-c9d4372e133c",
+                  "id": "206",
+                  "name": "Amenagements loisirs, aménagements amovibles, aménagement démontable, aménagement jumpy, aménagement escapades, aménagement Fiat Doblo, aménagement VW Caddy, aménagement Transit Custom - ALP FOURGONS aménagement de fourgons",
+                  "type": "url",
+                  "url": "https://www.alp-fourgons.fr/amenagement-loisirs/"
+               }, {
+                  "date_added": "13231856198000000",
+                  "guid": "ad668efa-b3ba-48f4-8361-2529db0e92f6",
+                  "id": "207",
+                  "name": "Frein Avant SHIMANO SAINT M820 J-Kit Sans Disque Noir 2020 - Probikeshop",
+                  "type": "url",
+                  "url": "https://www.probikeshop.ch/fr/ch/frein-avant-shimano-saint-m820-j-kit-sans-disque-noir-2020/176009.html"
+               }, {
+                  "date_added": "13232209913000000",
+                  "guid": "0d72163f-4032-465f-a0f2-e13a9327ead3",
+                  "id": "208",
+                  "name": "Learn to Pay Attention! Trainable Visual Attention in CNNs",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/learn-to-pay-attention-trainable-visual-attention-in-cnns-87e2869f89f1"
+               }, {
+                  "date_added": "13232736606000000",
+                  "guid": "a25712e7-352b-49a5-86a5-f61d5c3cdf44",
+                  "id": "209",
+                  "name": "A Survey of Visual Attention Mechanisms in Deep Learning",
+                  "type": "url",
+                  "url": "https://medium.com/@shairozsohail/a-survey-of-visual-attention-mechanisms-in-deep-learning-1043eb25f343"
+               }, {
+                  "date_added": "13235559348000000",
+                  "guid": "6353d0ce-0fa4-4f66-8b4a-f9354a596ade",
+                  "id": "210",
+                  "name": "Multimodal Brain Tumor Segmentation Challenge 2020: Registration / Data Request | CBICA | Perelman School of Medicine at the University of Pennsylvania",
+                  "type": "url",
+                  "url": "https://www.med.upenn.edu/cbica/brats2020/registration.html"
+               }, {
+                  "date_added": "13235660371000000",
+                  "guid": "f0db51f0-bcbe-473c-bb98-955fc7e890aa",
+                  "id": "211",
+                  "name": "AIcrowd/aicrowd-example-evaluator: Example evaluator template",
+                  "type": "url",
+                  "url": "https://github.com/AIcrowd/aicrowd-example-evaluator"
+               }, {
+                  "date_added": "13236164935000000",
+                  "guid": "48d13125-13af-4c05-8c36-144964c7f8ba",
+                  "id": "212",
+                  "name": "CPTAC-GBM - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki",
+                  "type": "url",
+                  "url": "https://wiki.cancerimagingarchive.net/display/Public/CPTAC-GBM"
+               }, {
+                  "date_added": "13236165677000000",
+                  "guid": "4a24add5-173b-4230-be7a-c3e21002ab91",
+                  "id": "213",
+                  "name": "Radiomic Biomarkers in Oropharyngeal Carcinoma (OPC-Radiomics) - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki",
+                  "type": "url",
+                  "url": "https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948764"
+               }, {
+                  "date_added": "13236165816000000",
+                  "guid": "b4c1599a-44c8-4322-9ec0-71fbf8f68430",
+                  "id": "214",
+                  "name": "ACRIN-HNSCC-FDG-PET/CT (ACRIN 6685) - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki",
+                  "type": "url",
+                  "url": "https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52763679#171ba531fc374829b21d3647e95f532c"
+               }, {
+                  "date_added": "13236643414000000",
+                  "guid": "e9f5c497-3f35-4120-a299-92049625e240",
+                  "id": "215",
+                  "name": "Noeud papillon bleu décontracté | En stock! | Tailor Toki",
+                  "type": "url",
+                  "url": "https://www.trendhim.ch/fr/noeud-papillon-bleu-decontracte-p.html"
+               }, {
+                  "date_added": "13237378877000000",
+                  "guid": "25a42484-629b-43f3-8bce-c3a20b4f9d5c",
+                  "id": "216",
+                  "name": "Multimodal Brain Tumor Segmentation Challenge 2020: Data | CBICA | Perelman School of Medicine at the University of Pennsylvania",
+                  "type": "url",
+                  "url": "https://www.med.upenn.edu/cbica/brats2020/data.html"
+               }, {
+                  "date_added": "13237405316000000",
+                  "guid": "40b7709a-53fc-4698-8369-ec86aa0e3e3d",
+                  "id": "217",
+                  "name": "python - 'tf.data()' throwing Your input ran out of data; interrupting training - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/60567183/tf-data-throwing-your-input-ran-out-of-data-interrupting-training"
+               }, {
+                  "date_added": "13237923495000000",
+                  "guid": "a5ed6186-f4cd-453d-afaa-d39f3e0eaeef",
+                  "id": "218",
+                  "name": "Survival Analysis for Deep Learning | Sebastian Pölsterl",
+                  "type": "url",
+                  "url": "https://k-d-w.org/blog/2019/07/survival-analysis-for-deep-learning/"
+               }, {
+                  "date_added": "13238186110000000",
+                  "guid": "83e33feb-e79b-4561-b641-fd1b2eb9e0fc",
+                  "id": "219",
+                  "name": "Predicting Probability Distributions Using Neural Networks",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/predicting-probability-distributions-using-neural-networks-abef7db10eac"
+               }, {
+                  "date_added": "13238248562000000",
+                  "guid": "8bc4a7bb-d3db-441c-8485-53ce8e6ce062",
+                  "id": "220",
+                  "name": "A guide to generating probability distributions with neural networks",
+                  "type": "url",
+                  "url": "https://medium.com/hal24k-techblog/a-guide-to-generating-probability-distributions-with-neural-networks-ffc4efacd6a4"
+               }, {
+                  "date_added": "13239310375000000",
+                  "guid": "e18293f4-7b0a-4b40-8d17-26a3a15c95b4",
+                  "id": "221",
+                  "name": "[voreille/hecktor] Resampling issue (#3) - valentin.oreiller@gmail.com - Gmail",
+                  "type": "url",
+                  "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgxwJWhsmslBmtxSTNpbhwRdJSJvX"
+               }, {
+                  "date_added": "13240316959000000",
+                  "guid": "505c46c7-ad70-46c7-962f-d0b02318ee16",
+                  "id": "222",
+                  "name": "Gravity and Light International Winter School 2015",
+                  "type": "url",
+                  "url": "https://gravity-and-light.herokuapp.com/tutorials"
+               }, {
+                  "date_added": "13240332528000000",
+                  "guid": "4579b2d0-959e-486e-af75-facf72f650e4",
+                  "id": "223",
+                  "name": "Neuroimaging in Python — NiBabel 3.1.1 documentation",
+                  "type": "url",
+                  "url": "https://nipy.org/nibabel/dicom/dicom_orientation.html"
+               }, {
+                  "date_added": "13240952241000000",
+                  "guid": "20891332-9b75-4bd6-bdd0-1e6a7003ad86",
+                  "id": "224",
+                  "name": "Barbecueshop - bbq - Tourne broche, grill, grillade et raclette au charbon de bois et bois pour particuliers - Mini-foyer",
+                  "type": "url",
+                  "url": "http://www.barbecueshop.ch/site/index.php/nos-modeles/mini-foyer"
+               }, {
+                  "date_added": "13241652947000000",
+                  "guid": "b52933ca-0944-456f-8162-11d9feccb8ca",
+                  "id": "225",
+                  "name": "Stroganov végétarien - Recette | fooby.ch",
+                  "type": "url",
+                  "url": "https://fooby.ch/fr/recettes/10443/stroganov-vegetarien?startAuto1=0"
+               }, {
+                  "date_added": "13244046849000000",
+                  "guid": "e9010748-9027-48e7-bd29-9c7925d1f667",
+                  "id": "226",
+                  "name": "review_TMI2020 - Google Docs",
+                  "type": "url",
+                  "url": "https://docs.google.com/document/d/12t1R3D7RihD0SHc73mczUbYl8GeOwm6Uh31v41ge-so/edit#"
+               }, {
+                  "date_added": "13244218559000000",
+                  "guid": "603e1595-df0d-41e4-bd66-bc100a649b40",
+                  "id": "227",
+                  "name": "One Punch Man (Webcomic/Original) (Title) - MangaDex",
+                  "type": "url",
+                  "url": "https://mangadex.org/title/9123/one-punch-man-webcomic-original"
+               }, {
+                  "date_added": "13245864939000000",
+                  "guid": "7c9cc919-30bf-43fd-8000-61943a5dac86",
+                  "id": "228",
+                  "name": "Plotting with categorical data — seaborn 0.11.0 documentation",
+                  "type": "url",
+                  "url": "https://seaborn.pydata.org/tutorial/categorical.html"
+               }, {
+                  "date_added": "13247319800000000",
+                  "guid": "5b95f604-3e17-4c1a-bb4b-88f5aa21f8e0",
+                  "id": "229",
+                  "name": "SOFA – Documentation",
+                  "type": "url",
+                  "url": "https://www.sofa-framework.org/community/doc/"
+               }, {
+                  "date_added": "13248993853000000",
+                  "guid": "a0250036-ed65-4e7e-a62f-26506eeeffaa",
+                  "id": "230",
+                  "name": "[math/0307152] An iterative thresholding algorithm for linear inverse problems with a sparsity constraint",
+                  "type": "url",
+                  "url": "https://arxiv.org/abs/math/0307152"
+               }, {
+                  "date_added": "13249232884000000",
+                  "guid": "aeb39779-71f5-4d8d-b980-b8568dddf132",
+                  "id": "231",
+                  "name": "Corsair CMSA16GX3M2A1600C11 (2x, 8Go, RAM DDR3L, SODIMM 204) - digitec",
+                  "type": "url",
+                  "url": "https://www.digitec.ch/fr/s1/product/corsair-cmsa16gx3m2a1600c11-2x-8go-ram-ddr3l-sodimm-204-memoires-vives-374058?gclid=CjwKCAiAqJn9BRB0EiwAJ1SztZCPPYmBVzUR2CpHhlKV4Rbd6H0A4P9XbT1EqcOsypeOZmqC61EJCxoCOdgQAvD_BwE&gclsrc=aw.ds"
+               }, {
+                  "date_added": "13249311044000000",
+                  "guid": "13ac9ce4-73bb-4a4c-bc93-51f25b32341d",
+                  "id": "232",
+                  "name": "Kibernetik M34A01 - Galaxus",
+                  "type": "url",
+                  "url": "https://www.galaxus.ch/fr/s2/product/kibernetik-m34a01-caves-a-vin-climatisees-en-pose-libre-5605022"
+               }, {
+                  "date_added": "13249343373000000",
+                  "guid": "c352dffc-0214-404d-8c0b-6a3cd17360d7",
+                  "id": "233",
+                  "name": "Editing remote code with Emacs - Umar Ahmad",
+                  "type": "url",
+                  "url": "http://gleek.github.io/blog/2017/04/11/editing-remote-code-with-emacs/"
+               }, {
+                  "date_added": "13249416352000000",
+                  "guid": "04c9c3fb-8f34-4b3b-a595-15422ec9c103",
+                  "id": "234",
+                  "name": "LIDC-IDRI - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki",
+                  "type": "url",
+                  "url": "https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI"
+               }, {
+                  "date_added": "13249822441000000",
+                  "guid": "4cbb557b-3673-4a20-bca6-85afd73f2dde",
+                  "id": "235",
+                  "name": "Distributed training in tf.keras with Weights & Biases | Towards Data Science",
+                  "type": "url",
+                  "url": "https://towardsdatascience.com/distributed-training-in-tf-keras-with-w-b-ccf021f9322e"
+               }, {
+                  "date_added": "13249920017000000",
+                  "guid": "ba7d43ec-4fea-4aa1-aece-6f9134a25adb",
+                  "id": "236",
+                  "name": "MLearing/Keras-Brats-Improved-Unet3d: 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation",
+                  "type": "url",
+                  "url": "https://github.com/MLearing/Keras-Brats-Improved-Unet3d"
+               }, {
+                  "date_added": "13250023393000000",
+                  "guid": "6e0e2613-1c85-4861-a641-9a6e0abc3660",
+                  "id": "237",
+                  "name": "18.04 - Two Docks are shown when Super key is pressed - Ask Ubuntu",
+                  "type": "url",
+                  "url": "https://askubuntu.com/questions/1105668/two-docks-are-shown-when-super-key-is-pressed"
+               }, {
+                  "date_added": "13250121219000000",
+                  "guid": "5f6e355f-7c70-4439-befb-344ec4181103",
+                  "id": "238",
+                  "name": "1608.02158.pdf",
+                  "type": "url",
+                  "url": "https://arxiv.org/pdf/1608.02158.pdf"
+               }, {
+                  "date_added": "13250639153000000",
+                  "guid": "3a8fe662-03b5-4941-a38f-811bc9f2b08b",
+                  "id": "239",
+                  "name": "Getting mspyls (microsoft python language server) running · Issue #2600 · hlissner/doom-emacs",
+                  "type": "url",
+                  "url": "https://github.com/hlissner/doom-emacs/issues/2600"
+               }, {
+                  "date_added": "13250640579000000",
+                  "guid": "05663789-fb36-48e0-a6d8-be0d4a96a536",
+                  "id": "240",
+                  "name": "ztlevi/doom-config: Blazing fast Doom Emacs private configuration",
+                  "type": "url",
+                  "url": "https://github.com/ztlevi/doom-config"
+               }, {
+                  "date_added": "13251285957000000",
+                  "guid": "26e40230-f378-4c7a-8b65-784351fb7c68",
+                  "id": "241",
+                  "name": "radiomics.shape — pyradiomics v3.0.post5+gf06ac1d documentation",
+                  "type": "url",
+                  "url": "https://pyradiomics.readthedocs.io/en/latest/_modules/radiomics/shape.html#RadiomicsShape.getMeshVolumeFeatureValue"
+               }, {
+                  "date_added": "13252149048000000",
+                  "guid": "5cc4ce6a-bc39-40d8-8fa6-0363ced7e253",
+                  "id": "242",
+                  "name": "UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction — umap 0.5 documentation",
+                  "type": "url",
+                  "url": "https://umap-learn.readthedocs.io/en/latest/"
+               }, {
+                  "date_added": "13252179064000000",
+                  "guid": "0638d77e-aeef-4a75-83af-451cf8928e8a",
+                  "id": "243",
+                  "name": "Introduction to Numba: CUDA Programming",
+                  "type": "url",
+                  "url": "https://nyu-cds.github.io/python-numba/05-cuda/"
+               }, {
+                  "date_added": "13255188288000000",
+                  "guid": "c84db2fe-13ee-4c9b-8fe8-12be7537dc2d",
+                  "id": "244",
+                  "name": "SimpleITK: itk::simple::BinaryMedianImageFilter Class Reference",
+                  "type": "url",
+                  "url": "https://simpleitk.org/doxygen/latest/html/classitk_1_1simple_1_1BinaryMedianImageFilter.html"
+               }, {
+                  "date_added": "13255437275000000",
+                  "guid": "d5b5b513-8c1c-40dc-b6dc-8147d646c00a",
+                  "id": "245",
+                  "name": "JunMa11/MICCAI-Reproducibility-Checklist: Submission for MICCAI HACKATHON: https://miccai-hackathon.com/#participate",
+                  "type": "url",
+                  "url": "https://github.com/JunMa11/MICCAI-Reproducibility-Checklist"
+               }, {
+                  "date_added": "13255450069000000",
+                  "guid": "dfc939ea-746b-43ba-b123-d738ac7a25c6",
+                  "id": "246",
+                  "name": "CodaLab - Competition",
+                  "type": "url",
+                  "url": "https://competitions.codalab.org/competitions/23712#learn_the_details"
+               }, {
+                  "date_added": "13255455820000000",
+                  "guid": "8af0f6a3-fb68-48e3-ac07-7c61b117f96b",
+                  "id": "247",
+                  "name": "MedSeg",
+                  "type": "url",
+                  "url": "https://htmlsegmentation.s3.eu-north-1.amazonaws.com/index.html"
+               }, {
+                  "date_added": "13255465157000000",
+                  "guid": "3f3eb28f-a40e-4fe4-a533-8693ec173026",
+                  "id": "248",
+                  "name": "Install Pulse Secure on Ubuntu 20.04.md",
+                  "type": "url",
+                  "url": "https://gist.github.com/eugenetriguba/beb90e0bca7e5299436693d9b74a9853"
+               }, {
+                  "date_added": "13255521413000000",
+                  "guid": "ecb5fc51-9fae-4f3a-aecb-367a8cf15540",
+                  "id": "249",
+                  "name": "QuantImage v2",
+                  "type": "url",
+                  "url": "https://quantimage2.ehealth.hevs.ch/"
+               }, {
+                  "date_added": "13255742089000000",
+                  "guid": "da2da7a6-613e-480b-9b21-b3286f23fddf",
+                  "id": "250",
+                  "name": "How to Install Alacritty Terminal Emulator via PPA in Ubuntu 20.04 | UbuntuHandbook",
+                  "type": "url",
+                  "url": "https://ubuntuhandbook.org/index.php/2020/12/install-alacritty-ppa-ubuntu-20-04/"
+               }, {
+                  "date_added": "13256081796000000",
+                  "guid": "6b36e637-0c4c-4ee3-8adb-04ace7370d12",
+                  "id": "251",
+                  "name": "1 artists and 257 artworks found - WikiArt.org",
+                  "type": "url",
+                  "url": "https://www.wikiart.org/en/Search/hodler"
+               }, {
+                  "date_added": "13256085037000000",
+                  "guid": "d56207f2-945e-478c-bb87-fbbe399448bd",
+                  "id": "252",
+                  "name": "DICOM is Easy: Introduction to DICOM - Chapter 4 - DICOM Objects",
+                  "type": "url",
+                  "url": "https://dicomiseasy.blogspot.com/2011/12/chapter-4-dicom-objects-in-chapter-3.html"
+               }, {
+                  "date_added": "13256125170000000",
+                  "guid": "259f6580-63e9-4d96-b8da-236f529c7377",
+                  "id": "253",
+                  "name": "Evaluation of segmentation methods on head and neck CT: Auto‐segmentation challenge 2015",
+                  "type": "url",
+                  "url": "https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.12197"
+               }, {
+                  "date_added": "13256835821000000",
+                  "guid": "8260e5e9-5c5e-4bb7-8ddb-735bc1a43ff5",
+                  "id": "254",
+                  "name": "Integrating VSCode With Neovim | Barbarian Meets Coding",
+                  "type": "url",
+                  "url": "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/integrating-vscode-with-neovim/"
+               }, {
+                  "date_added": "13258066869000000",
+                  "guid": "61bfe966-7021-4fc4-aeb8-9452dfef79cb",
+                  "id": "255",
+                  "name": "GitHub - dylanaraps/pywal: 🎨 Generate and change color-schemes on the fly.",
+                  "type": "url",
+                  "url": "https://github.com/dylanaraps/pywal"
+               }, {
+                  "date_added": "13258066986000000",
+                  "guid": "b8648ca2-2411-468a-953c-55799d6cdcf9",
+                  "id": "256",
+                  "name": "[i3] $olid : unixporn",
+                  "type": "url",
+                  "url": "https://www.reddit.com/r/unixporn/comments/lk5rv1/i3_olid/"
+               }, {
+                  "date_added": "13258151865000000",
+                  "guid": "b4a08b4f-f032-486f-b6a5-48cd0fd08c09",
+                  "id": "257",
+                  "name": "https://raw.githubusercontent.com/voreille/dotfiles/main/.Xresources",
+                  "type": "url",
+                  "url": "https://raw.githubusercontent.com/voreille/dotfiles/main/.Xresources"
+               }, {
+                  "date_added": "13258311253000000",
+                  "guid": "4cdab955-f0b8-49b2-8600-b12f6fd787c1",
+                  "id": "258",
+                  "name": "arcolinux-qtile/etc/skel/.config/qtile at master · arcolinux/arcolinux-qtile",
+                  "type": "url",
+                  "url": "https://github.com/arcolinux/arcolinux-qtile/tree/master/etc/skel/.config/qtile"
+               } ],
+               "date_added": "13261752251640829",
+               "date_modified": "0",
+               "guid": "5b61bcdc-50d9-4d92-8245-c87796affaf8",
+               "id": "67",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13261752251639874",
+            "date_modified": "0",
+            "guid": "60d4f85f-e2cd-451f-a0e1-58775ac7b8da",
+            "id": "36",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13261752217885993",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13261752217885994",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13261752217885996",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

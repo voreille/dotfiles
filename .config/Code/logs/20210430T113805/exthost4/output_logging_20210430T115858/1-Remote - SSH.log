@@ -1,0 +1,34 @@
+[11:58:58.310] Log Level: 2
+[11:58:58.312] remote-ssh@0.65.4
+[11:58:58.312] linux x64
+[11:58:58.313] SSH Resolver called for "ssh-remote+adrien2", attempt 1
+[11:58:58.313] "remote.SSH.useLocalServer": true
+[11:58:58.313] "remote.SSH.path": undefined
+[11:58:58.314] "remote.SSH.configFile": undefined
+[11:58:58.314] "remote.SSH.useFlock": true
+[11:58:58.314] "remote.SSH.lockfilesInTmp": false
+[11:58:58.314] "remote.SSH.localServerDownload": auto
+[11:58:58.314] "remote.SSH.remoteServerListenOnSocket": false
+[11:58:58.314] "remote.SSH.showLoginTerminal": false
+[11:58:58.314] "remote.SSH.defaultExtensions": []
+[11:58:58.314] "remote.SSH.loglevel": 2
+[11:58:58.315] SSH Resolver called for host: adrien2
+[11:58:58.315] Setting up SSH remote "adrien2"
+[11:58:58.317] Acquiring local install lock: /tmp/vscode-remote-ssh-adrien2-install.lock
+[11:58:58.327] Looking for existing server data file at /home/val/.config/Code/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-adrien2-3c4e3df9e89829dce27b7b5c24508306b151f30d-0.65.4/data.json
+[11:58:58.328] Found local server running: {"remoteListeningOn":{"port":33481},"osReleaseId":"ubuntu","arch":"x86_64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"a111a111-1aaa-1a1a-111a-1aa1a1111aa1","pid":4081,"ipcHandlePath":"/run/user/1000/vscode-ssh-askpass-5422ec37436d8df0d6450a589f9064129325add4.sock","socksPort":41837,"startupTime":1619776387311}
+[11:58:58.350] Found running server - short-circuiting install
+[11:58:58.351] Starting forwarding server. localPort 41749 -> socksPort 41837 -> remotePort 33481
+[11:58:58.351] Forwarding server listening on 41749
+[11:58:58.351] Waiting for ssh tunnel to be ready
+[11:58:58.352] [Forwarding server 41749] Got connection 0
+[11:58:58.353] Tunneled 33481 to local port 41749
+[11:58:58.353] Resolved "ssh-remote+adrien2" to "127.0.0.1:41749"
+[11:58:58.361] ------
+
+
+
+
+[11:58:58.404] [Forwarding server 41749] Got connection 1
+[11:58:58.429] [Forwarding server 41749] Got connection 2
+[11:58:59.052] [Forwarding server 41749] Got connection 3

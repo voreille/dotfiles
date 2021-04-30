@@ -9,6 +9,7 @@ from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
 import fontawesome as fa
 import nerdfonts as nf 
+# from libqtile.log_utils import logger
 
 mod = "mod4"
 # terminal = guess_terminal()
@@ -258,7 +259,8 @@ keys = [
                 desc="Launch KeepAssXC",
             ),
             Key([], "d", lazy.spawn("dolphin"), desc="Launch Dolphin"),
-            Key([], "f", lazy.spawn("firefox"), desc="Launch Firefox"),
+            Key([], "f", lazy.spawn("firefox -P 'default-release'"), desc="Launch Firefox"),
+            Key([], "p", lazy.spawn("firefox -P 'lexi'"), desc="Launch Firefox"),
         ],
     ),
 # ---------- ROFI ----------
@@ -306,7 +308,7 @@ def my_groups():
          {"name": "3", "layout": "monadtall", "label": group_labels[2]},
          {"name": "4", "layout": "monadtall", "label": group_labels[3]},
          {"name": "5", "layout": "monadtall", "label": group_labels[4]},
-         {"name": "6", "layout": "monadtall", "label": nf.icons["fa_book"]},
+         {"name": "6", "layout": "bsp", "label": nf.icons["fa_file_video_o"]},
          {"name": "7", "layout": "monadtall", "label": nf.icons["fa_bar_chart_o"]},
          {"name": "8", "layout": "monadtall", "label": nf.icons["fa_file_text"]},
          {"name": "9", "layout": "monadtall", "label": group_labels[8]},
@@ -329,38 +331,14 @@ for i in groups:
 
 @hook.subscribe.client_new
 def programs_to_group_startup(window):
-    if "Teams" in window.name:
+    # logger.warning(f"MEC window name {window.name}")
+    if window.name is None:
+        # window.togroup("0", switch_group=False)
+        return
+    elif "Teams" in window.name:
         window.togroup("9", switch_group=False)
-    elif "spotify" in window.name:
-        window.togroup("0", switch_group=False)
     elif "Firefox" in window.name:
         window.togroup("1", switch_group=False)
-
-
-
-
-def init_layout_theme():
-    return {"margin":5,
-            "border_width":2,
-            "border_focus": "#6272a4",
-            "border_normal": "#44475a"
-            }
-
-layout_theme = init_layout_theme()
-
-
-layouts = [
-    layout.MonadTall(margin=8, border_width=2, border_focus="#6272a4", border_normal="#44475a"),
-    layout.MonadWide(margin=8, border_width=2, border_focus="#6272a4", border_normal="#44475a"),
-    layout.Matrix(**layout_theme),
-    layout.Bsp(**layout_theme),
-    layout.Floating(margin=5, border_width=2, border_focus="#bd93f9", border_normal="#44475a"),
-    layout.RatioTile(**layout_theme),
-    layout.Max(**layout_theme)
-]
-
-# COLORS FOR THE BAR
-
 
 
 # Colorpalet - Dracula Theme
@@ -383,6 +361,27 @@ def my_colors():
 
 
 colors = my_colors()
+
+
+def init_layout_theme():
+    return {"margin":5,
+            "border_width":2,
+            "border_focus": colors["blue"],
+            "border_normal": colors["grey"],
+            }
+
+layout_theme = init_layout_theme()
+
+
+layouts = [
+    layout.MonadTall(**layout_theme),
+    layout.MonadWide(**layout_theme),
+    layout.Matrix(**layout_theme),
+    layout.Bsp(**layout_theme),
+    layout.Floating(margin=5, border_width=2, border_focus=colors["pink"], border_normal=colors["blue"]),
+    layout.RatioTile(**layout_theme),
+    layout.Max(**layout_theme)
+]
 
 
 def init_colors():
@@ -563,10 +562,6 @@ floating_types = ["notification", "toolbar", "splash", "dialog"]
 @hook.subscribe.startup_once
 def start_once():
     subprocess.call([home + '/.config/qtile/scripts/autostart.sh'])
-
-@hook.subscribe.screen_change
-def restart_on_randr(qtile):
-    qtile.cmd_restart()
 
 follow_mouse_focus = False
 bring_front_click = False

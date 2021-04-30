@@ -1,0 +1,346 @@
+User belongs to experiment group 'pythonJediLSPcf'
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-04-29 08:27:31: ZMQ install verified.
+Info 2021-04-29 08:27:31: id is 1f9a6f28-f3fd-4ddd-9a32-5520a02c66fc
+Info 2021-04-29 08:27:31: Attempting to start a server because of preload conditions ...
+Info 2021-04-29 08:27:32: Found existing keyfile at /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-04-29 08:27:32: Loading web panel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-29 08:27:32: Loading webview. View is notset
+Info 2021-04-29 08:27:32: Attempting to start a server because of preload conditions ...
+Info 2021-04-29 08:27:32: Loading web view...
+Info 2021-04-29 08:27:32: Webview panel created.
+Info 2021-04-29 08:27:32: Creating raw notebook for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-29 08:27:32: Getting preferred kernel for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-29 08:27:34: Web view react rendered
+Info 2021-04-29 08:27:34: Request for onigasm file at /home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/node_modules/onigasm/lib/onigasm.wasm
+Info 2021-04-29 08:27:34: Request for tmlanguage file.
+Info 2021-04-29 08:27:34: Searching for token colors ...
+Info 2021-04-29 08:27:34: Attempting search for colors ...
+Info 2021-04-29 08:27:34: Search all interpreters /home/val/miniconda3/bin/python, /home/val/python_wkspce/rgd_mice/env/bin/python, /usr/bin/python, /usr/bin/python2, /bin/python, /bin/python2, /usr/sbin/python, /usr/sbin/python2, /sbin/python, /sbin/python2, /usr/bin/python3.6, /usr/bin/python2
+Info 2021-04-29 08:27:34: Trusting notebook...
+Info 2021-04-29 08:27:34: Wrote trust for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb to /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsignatures/52e15dde8d186cffb0c7eee0ac629986d640484b6f99a7d9a4bc3272051c15e1
+Info 2021-04-29 08:27:35: Searching for token colors ...
+Info 2021-04-29 08:27:35: Attempting search for colors ...
+Info 2021-04-29 08:27:35: Searching for token colors ...
+Info 2021-04-29 08:27:35: Attempting search for colors ...
+Info 2021-04-29 08:27:35: Searching for token colors ...
+Info 2021-04-29 08:27:35: Attempting search for colors ...
+Info 2021-04-29 08:27:36: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import notebook"
+Info 2021-04-29 08:27:36: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import jupyter"
+Info 2021-04-29 08:27:37: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py jupyter kernelspec --version
+Info 2021-04-29 08:27:37: Loading kernelspec from /home/val/python_wkspce/rgd_mice/env/share/jupyter/kernels/python3/kernel.json for /home/val/python_wkspce/rgd_mice/env/bin/python3.9
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit ('env': venv) is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.8.3 64-bit ('base': conda) is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit ('env') is 19
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.9.3 64-bit is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 2.7.18 64-bit is 1
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 3.6.9 64-bit is 3
+Info 2021-04-29 08:27:37: findPreferredKernel score for Python 2.7.17 64-bit is 1
+Info 2021-04-29 08:27:37: Find kernel spec, Class name = D, completed in 5732ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: {"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.9.3"},"orig_nbformat":2,"kernelspec":{"name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","display_name":"Python 3.9.3 64-bit ('env')"},"metadata":{"interpreter":{"hash":"20491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4"}}}, Arg 3: undefined, Return Value: {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}},"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"},"id":".python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')"}
+Info 2021-04-29 08:27:37: Computing working directory file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-29 08:27:37: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-04-29 08:27:37: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-29 08:27:37: Connecting to raw session for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb with connection {"kind":"startUsingPythonInterpreter","kernelSpec":{"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}},"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"},"id":".python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')"}
+Info 2021-04-29 08:27:37: Starting raw kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-29 08:27:37: installMissingDependencies /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py pip list
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-29 08:27:38: Creating daemon pool for /home/val/python_wkspce/hecktor_private/env/bin/python with env variables count 70
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+> ~/python_wkspce/hecktor_private/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.jupyter_daemon -v
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Searching for token colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Searching for token colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Searching for token colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Searching for token colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Install Missing Dependencies, Class name = v, completed in 668ms, has a falsy return value, Return Value: undefined
+Info 2021-04-29 08:27:38: Kernel launching with ports 9000,9001,9002,9003,9004. Start port is 9000
+Info 2021-04-29 08:27:38: Launching kernel daemon for Python 3.9.3 64-bit ('env') # /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Attempting search for colors ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: Loading base colors from /home/val/.vscode/extensions/dracula-theme.theme-dracula-2.22.3/theme/dracula.json ...
+Info 2021-04-29 08:27:38: No custom variables for Kernel as interpreter is not conda, but is undefined
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Using colors to generate CSS ...
+Info 2021-04-29 08:27:38: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python with env variables count 70
+Info 2021-04-29 08:27:38: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Execute rpc method exec_module in DS Daemon
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Execute rpc method exec_module from /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Exec module in DS Kernel Launcher Daemon ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"e20dd329-80d3-45c1-a3ca-f666b00217f1"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-1919oEORO7S4Cr0d.json']
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Exec in DS Kernel Launcher Daemon (observable) ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"e20dd329-80d3-45c1-a3ca-f666b00217f1"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-1919oEORO7S4Cr0d.json']
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python', '-m', 'ipykernel_launcher', '--ip=127.0.0.1', '--stdin=9003', '--control=9001', '--hb=9000', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"e20dd329-80d3-45c1-a3ca-f666b00217f1"', '--shell=9002', '--transport="tcp"', '--iopub=9004', '--f=/tmp/tmp-1919oEORO7S4Cr0d.json']
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): Kernel launched, with PID 2384
+Warn 2021-04-29 08:27:39: Python Daemon (pid: 2380): Waiting for Kernel to die 2384
+Info 2021-04-29 08:27:39: Launching kernel daemon, Class name = h, completed in 440ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: "/home/val/python_wkspce/rgd_mice/notebooks", Arg 3: {"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","--ip=127.0.0.1","--stdin=9003","--control=9001","--hb=9000","--Session.signature_scheme=\"hmac-sha256\"","--Session.key=b\"e20dd329-80d3-45c1-a3ca-f666b00217f1\"","--shell=9002","--transport=\"tcp\"","--iopub=9004","--f=/tmp/tmp-1919oEORO7S4Cr0d.json"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}}, Arg 4: {"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}, Return Value: <Return value cannot be serialized for logging>
+Info 2021-04-29 08:27:39: Launching kernel in kernelProcess.ts, Class name = _, completed in 440ms, has a truthy return value, Arg 1: "/home/val/python_wkspce/rgd_mice/notebooks", Return Value: {"proc":{"_events":{},"_eventsCount":2,"_closesNeeded":3,"_closesGot":0,"connected":false,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"/home/val/python_wkspce/rgd_mice/env/bin/python","_handle":{"pid":2380},"spawnargs":["/home/val/python_wkspce/rgd_mice/env/bin/python","/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py","vscode_datascience_helpers.daemon","--daemon-module=vscode_datascience_helpers.kernel_launcher_daemon","-v"],"pid":2380,"stdin":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdout":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stderr":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdio":[{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null}]},"out":{"_isScalar":false,"observers":[],"closed":false,"isStopped":false,"hasError":false,"thrownError":null}}
+Info 2021-04-29 08:27:39: KernelProcess output: Content-Length: 357
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n", "pid": 2380}}
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-29 08:27:39: KernelProcess output: Content-Length: 333
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 2380}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}Content-Length: 383
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e20dd329-80d3-45c1-a3ca-f666b00217f1' instead of 'b\"e20dd329-80d3-45c1-a3ca-f666b00217f1\"'.\n", "pid": 2380}}Content-Length: 359
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e20dd329-80d3-45c1-a3ca-f666b00217f1' instead of 'b\"e20dd329-80d3-45c1-a3ca-f666b00217f1\"'.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 2380}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}
+Warn 2021-04-29 08:27:39: Kernel 2380 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Warn 2021-04-29 08:27:39: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): write to stderr:   warn(
+
+Warn 2021-04-29 08:27:39: Kernel 2380 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-29 08:27:39: StdErr from Kernel Process   warn(
+
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e20dd329-80d3-45c1-a3ca-f666b00217f1' instead of 'b"e20dd329-80d3-45c1-a3ca-f666b00217f1"'.
+
+Warn 2021-04-29 08:27:39: Kernel 2380 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e20dd329-80d3-45c1-a3ca-f666b00217f1' instead of 'b"e20dd329-80d3-45c1-a3ca-f666b00217f1"'.
+
+Warn 2021-04-29 08:27:39: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'e20dd329-80d3-45c1-a3ca-f666b00217f1' instead of 'b"e20dd329-80d3-45c1-a3ca-f666b00217f1"'.
+
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2380): write to stderr:   warn(
+
+Warn 2021-04-29 08:27:39: Kernel 2380 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-29 08:27:39: StdErr from Kernel Process   warn(
+
+Info 2021-04-29 08:27:39: Raw session started and connected
+Started kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-29 08:27:39: Initial setup for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb starting ...
+Info 2021-04-29 08:27:39: UpdateWorkingDirectoryAndPath
+Info 2021-04-29 08:27:39: Kernel switching to busy
+Info 2021-04-29 08:27:39: Kernel switching to idle
+Info 2021-04-29 08:27:39: Starting raw kernel Python 3.9.3 64-bit ('env')
+Info 2021-04-29 08:27:39: installMissingDependencies /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:39: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py -c "import ipykernel"
+Info 2021-04-29 08:27:39: Kernel switching to busy
+Info 2021-04-29 08:27:39: Kernel switching to idle
+Info 2021-04-29 08:27:39: Initial setup complete for file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-29 08:27:39: Finished connecting 56c7d394-588f-4f65-aa79-08aafda7ffae
+Info 2021-04-29 08:27:39: Registering commtarget jupyter.widget
+Info 2021-04-29 08:27:39: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python3.9 with env variables count 70
+Info 2021-04-29 08:27:39: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python3.9 ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Execute rpc method prewarm_kernel in DS Daemon
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Execute rpc method prewarm_kernel from /home/val/python_wkspce/rgd_mice/env/bin/python3.9
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Pre-Warm DS Kernel in DS Kernel Launcher Daemon
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python3.9', '/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/vscode_datascience_helpers/../pyvsc-run-isolated.py', '/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/vscode_datascience_helpers/kernel_prewarm_starter.py']
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Kernel launched, with PID 2408
+Warn 2021-04-29 08:27:39: Python Daemon (pid: 2406): Waiting for Kernel to die 2408
+Info 2021-04-29 08:27:39: Python Daemon (pid: 2406): Kernel launched, with PID as a daemon 2408
+Info 2021-04-29 08:27:40: Install Missing Dependencies, Class name = v, completed in 437ms, has a falsy return value, Return Value: undefined
+Info 2021-04-29 08:27:40: Kernel launching with ports 9005,9006,9007,9008,9009. Start port is 9000
+Info 2021-04-29 08:27:40: Launching kernel daemon for Python 3.9.3 64-bit ('env') # /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:40: Creating daemon process for /home/val/python_wkspce/rgd_mice/env/bin/python with env variables count 70
+Info 2021-04-29 08:27:40: Process Execution: > ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+> ~/python_wkspce/rgd_mice/env/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py vscode_datascience_helpers.daemon --daemon-module=vscode_datascience_helpers.kernel_launcher_daemon -v
+Info 2021-04-29 08:27:40: No custom variables for Kernel as interpreter is not conda, but is undefined
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Execute rpc method exec_module in DS Daemon
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Execute rpc method exec_module from /home/val/python_wkspce/rgd_mice/env/bin/python
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Exec module in DS Kernel Launcher Daemon ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-1919arTqjnsyJnDr.json']
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Exec in DS Kernel Launcher Daemon (observable) ipykernel_launcher with args ['--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-1919arTqjnsyJnDr.json']
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Exec in DS Kernel Launcher Daemon (observable) ['/home/val/python_wkspce/rgd_mice/env/bin/python', '-m', 'ipykernel_launcher', '--ip=127.0.0.1', '--stdin=9008', '--control=9006', '--hb=9005', '--Session.signature_scheme="hmac-sha256"', '--Session.key=b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"', '--shell=9007', '--transport="tcp"', '--iopub=9009', '--f=/tmp/tmp-1919arTqjnsyJnDr.json']
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Exec in DS Kernel Launcher Daemon (observable)
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): Kernel launched, with PID 2414
+Warn 2021-04-29 08:27:40: Python Daemon (pid: 2412): Waiting for Kernel to die 2414
+Info 2021-04-29 08:27:40: Launching kernel daemon, Class name = h, completed in 84ms, has a truthy return value, Arg 1: <Uri:/home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb>, Arg 2: "/home/val/python_wkspce/rgd_mice/notebooks", Arg 3: {"specFile":"/home/val/.local/share/jupyter/kernels/python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4/kernel.json","interpreterPath":"/home/val/python_wkspce/rgd_mice/env/bin/python","name":"python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4","argv":["python","-m","ipykernel_launcher","--ip=127.0.0.1","--stdin=9008","--control=9006","--hb=9005","--Session.signature_scheme=\"hmac-sha256\"","--Session.key=b\"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6\"","--shell=9007","--transport=\"tcp\"","--iopub=9009","--f=/tmp/tmp-1919arTqjnsyJnDr.json"],"language":"python","path":"python","display_name":"Python 3.9.3 64-bit ('env')","metadata":{"interpreter":{"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}},"env":{}}, Arg 4: {"architecture":3,"path":"/home/val/python_wkspce/rgd_mice/env/bin/python","version":{"options":{"loose":false,"includePrerelease":false},"loose":false,"raw":"3.9.3","major":3,"minor":9,"patch":3,"prerelease":[],"build":[],"version":"3.9.3"},"sysVersion":"3.9.3 (default, Apr  8 2021, 23:35:02) \n[GCC 10.2.0]","sysPrefix":"/home/val/python_wkspce/rgd_mice/env","fileHash":"5a3a204cf0f5814f7f0a99594d5fd52519995676d4d4970cec1eaabacc7923d82859c396d535bf970dcf9f1c2c0a4d0cee84bd7a7ff22bb97036614a27cb412b","envName":"env","type":"Venv","cachedEntry":true,"displayName":"Python 3.9.3 64-bit ('env')"}, Return Value: <Return value cannot be serialized for logging>
+Info 2021-04-29 08:27:40: Launching kernel in kernelProcess.ts, Class name = _, completed in 85ms, has a truthy return value, Arg 1: "/home/val/python_wkspce/rgd_mice/notebooks", Return Value: {"proc":{"_events":{},"_eventsCount":2,"_closesNeeded":3,"_closesGot":0,"connected":false,"signalCode":null,"exitCode":null,"killed":false,"spawnfile":"/home/val/python_wkspce/rgd_mice/env/bin/python","_handle":{"pid":2412},"spawnargs":["/home/val/python_wkspce/rgd_mice/env/bin/python","/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/pythonFiles/pyvsc-run-isolated.py","vscode_datascience_helpers.daemon","--daemon-module=vscode_datascience_helpers.kernel_launcher_daemon","-v"],"pid":2412,"stdin":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdout":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stderr":{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},"stdio":[{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":null,"ended":false,"endEmitted":false,"reading":false,"sync":true,"needReadable":false,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":false,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":false,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":true,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{"close":[null,null]},"_eventsCount":4,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null},{"connecting":false,"_hadError":false,"_parent":null,"_host":null,"_readableState":{"objectMode":false,"highWaterMark":16384,"buffer":{"head":null,"tail":null,"length":0},"length":0,"pipes":null,"pipesCount":0,"flowing":true,"ended":false,"endEmitted":false,"reading":true,"sync":false,"needReadable":true,"emittedReadable":false,"readableListening":false,"resumeScheduled":false,"emitClose":false,"autoDestroy":false,"destroyed":false,"defaultEncoding":"utf8","awaitDrainWriters":null,"multiAwaitDrain":false,"readingMore":false,"decoder":null,"encoding":null},"readable":true,"_events":{},"_eventsCount":3,"_writableState":{"objectMode":false,"highWaterMark":16384,"finalCalled":false,"needDrain":false,"ending":false,"ended":false,"finished":false,"destroyed":false,"decodeStrings":false,"defaultEncoding":"utf8","length":0,"writing":false,"corked":0,"sync":true,"bufferProcessing":false,"writecb":null,"writelen":0,"afterWriteTickInfo":null,"bufferedRequest":null,"lastBufferedRequest":null,"pendingcb":0,"prefinished":false,"errorEmitted":false,"emitClose":false,"autoDestroy":false,"bufferedRequestCount":0,"corkedRequestsFree":{"next":null,"entry":null}},"writable":false,"allowHalfOpen":false,"_sockname":null,"_pendingData":null,"_pendingEncoding":"","server":null,"_server":null}]},"out":{"_isScalar":false,"observers":[],"closed":false,"isStopped":false,"hasError":false,"thrownError":null}}
+Info 2021-04-29 08:27:40: KernelProcess output: Content-Length: 357
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n", "pid": 2412}}Content-Length: 333
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '\"hmac-sha256\"' \u2013 or use CUnicode.\n"}}
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-29 08:27:40: KernelProcess output: Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 2412}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}Content-Length: 383
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6' instead of 'b\"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6\"'.\n", "pid": 2412}}Content-Length: 359
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "/home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6' instead of 'b\"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6\"'.\n"}}Content-Length: 114
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "log", "params": {"level": "INFO", "msg": "write to stderr:   warn(\n", "pid": 2412}}Content-Length: 90
+Content-Type: application/vscode-jsonrpc; charset=utf8
+
+{"jsonrpc": "2.0", "method": "output", "params": {"source": "stderr", "out": "  warn(\n"}}
+Warn 2021-04-29 08:27:40: Kernel 2412 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Warn 2021-04-29 08:27:40: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2196: FutureWarning: Supporting extra quotes around Unicode is deprecated in traitlets 5.0. Use 'hmac-sha256' instead of '"hmac-sha256"' – or use CUnicode.
+
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): write to stderr:   warn(
+
+Warn 2021-04-29 08:27:40: Kernel 2412 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-29 08:27:40: StdErr from Kernel Process   warn(
+
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): write to stderr: /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6' instead of 'b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"'.
+
+Warn 2021-04-29 08:27:40: Kernel 2412 as possibly died, StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6' instead of 'b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"'.
+
+Warn 2021-04-29 08:27:40: StdErr from Kernel Process /home/val/python_wkspce/rgd_mice/env/lib/python3.9/site-packages/traitlets/traitlets.py:2151: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6' instead of 'b"b55492c2-6a36-4cf7-bee1-e2cfd8b9b9e6"'.
+
+Info 2021-04-29 08:27:40: Python Daemon (pid: 2412): write to stderr:   warn(
+
+Warn 2021-04-29 08:27:40: Kernel 2412 as possibly died, StdErr from Kernel Process   warn(
+
+Warn 2021-04-29 08:27:40: StdErr from Kernel Process   warn(
+
+Info 2021-04-29 08:28:03: Kernel switching to busy
+Error 2021-04-29 08:28:03: Exception attempting to retrieve hover for variables a [Error]: Canceled
+    at /home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:526406
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at I.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:5196)
+    at D.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:5737)
+    at O.handleCancel (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:269589)
+    at O.dispatchMessage (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:269319)
+    at O.onMessage (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:264419)
+    at /home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:32:668581
+    at Array.forEach (<anonymous>)
+    at T.postMessageToListeners (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:32:668568)
+    at T.onMessage (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:32:658565)
+    at T.onMessage (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:32:640996)
+    at t.InteractiveWindowMessageListener.onMessage (/home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:49:393338)
+    at /home/val/.vscode/extensions/ms-toolsai.jupyter-2021.5.745244803/out/client/extension.js:47:310569
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at E.$onMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:54146)
+    at u._doInvokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:12794)
+    at u._invokeHandler (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:12478)
+    at u._receiveRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:11145)
+    at u._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:9931)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:8032
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at E.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15496)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:105:29750
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at E.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:15496)
+    at t._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:20754)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:17640
+    at _.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:57:1836)
+    at acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12861)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:65:12209
+    at Socket.w (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:105:13173)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23) {
+  category: 'cancelled'
+}
+Info 2021-04-29 08:28:03: Kernel switching to idle
+Info 2021-04-30 10:19:38: Shutting down notebooks for 56c7d394-588f-4f65-aa79-08aafda7ffae
+Info 2021-04-30 10:19:38: Disposing HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Disposing super HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Disposing HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Finished disposing HostJupyterExecution  ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Disposing HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Finished disposing HostJupyterExecution  ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Getting live share API during dispose HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Shutting down session file:///home/val/python_wkspce/rgd_mice/notebooks/explo.ipynb
+Info 2021-04-30 10:19:38: Shutdown session - current session
+Info 2021-04-30 10:19:38: shutdownSession 5d0a416a-5302-4f9a-af61-5cd00abe2aec, .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env') - start
+Info 2021-04-30 10:19:38: Session can be shutdown .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')
+Info 2021-04-30 10:19:38: Dispose Kernel process
+Info 2021-04-30 10:19:38: kill daemon
+Info 2021-04-30 10:19:38: Detaching HostJupyterExecution ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Cleaning up server cache ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: Finished disposing HostJupyterExecution  ad51ab00-3201-4b0b-9450-863bad7c6550
+Info 2021-04-30 10:19:38: KernelProcess Exit Exit - undefined 
+Info 2021-04-30 10:19:38: KernelProcess Exit Exit - undefined 
+Error 2021-04-30 10:19:38: Disposing session as kernel process died ExitCode: undefined, Reason: 
+Info 2021-04-30 10:19:38: Dispose Kernel process
+Info 2021-04-30 10:19:38: kill daemon
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: shutdownSession 5d0a416a-5302-4f9a-af61-5cd00abe2aec, .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env') - shutdown complete
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: Shutdown session - get restart session
+Info 2021-04-30 10:19:39: Shutdown session - shutdown restart session
+Info 2021-04-30 10:19:39: shutdownSession 1e519ec8-790a-4012-abcc-9618a7adb647, .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env') - start
+Info 2021-04-30 10:19:39: Session can be shutdown .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env')
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: shutdownSession 1e519ec8-790a-4012-abcc-9618a7adb647, .python393jvsc74a57bd020491d40c47ec2356f78d7f422bc54c2e7e4fb0022d436bb8acebe0bc21093a4.python./home/val/python_wkspce/rgd_mice/env/bin/python.Python 3.9.3 64-bit ('env') - shutdown complete
+Info 2021-04-30 10:19:39: Dispose Kernel process
+Info 2021-04-30 10:19:39: Shutdown session -- complete

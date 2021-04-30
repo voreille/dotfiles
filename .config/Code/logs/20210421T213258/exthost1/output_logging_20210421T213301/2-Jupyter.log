@@ -1,0 +1,17 @@
+User belongs to experiment group 'jupyterTestcf'
+User belongs to experiment group 'pythonDiscoveryModulecf'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-04-21 21:33:01: ZMQ install verified.
+Info 2021-04-21 21:33:01: id is a8e0248c-d317-4f03-9bfb-ad66c82171a2
+Info 2021-04-21 21:33:01: Found existing keyfile at /home/val/.config/Code/User/globalStorage/ms-toolsai.jupyter/nbsecret
+Info 2021-04-21 23:14:16: Shutting down notebooks for adea5278-c31b-41b9-9467-83fb81d2ba03
+Info 2021-04-21 23:14:16: Disposing HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Disposing super HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Disposing HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Finished disposing HostJupyterExecution  0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Disposing HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Finished disposing HostJupyterExecution  0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Getting live share API during dispose HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Detaching HostJupyterExecution 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Cleaning up server cache 0587c4ff-feea-4516-85b3-807f1ee955ab
+Info 2021-04-21 23:14:16: Finished disposing HostJupyterExecution  0587c4ff-feea-4516-85b3-807f1ee955ab

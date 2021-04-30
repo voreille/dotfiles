@@ -1,0 +1,22 @@
+[2021-04-28 08:56:09.788] [exthost] [info] extension host started
+[2021-04-28 08:56:09.804] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-04-28 08:56:09.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.4/out/extension
+[2021-04-28 08:56:16.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-04-28 08:56:16.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-04-28 08:56:16.155] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2021-04-28 08:56:16.155] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/val/.vscode/extensions/vscodevim.vim-1.20.1/out/extension
+[2021-04-28 08:56:16.290] [exthost] [info] eager extensions activated
+[2021-04-28 08:56:18.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-04-28 08:56:18.077] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-04-28 09:11:08.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 09:11:08.553] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 09:11:09.929] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 09:11:09.929] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 16:37:12.578] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 16:37:12.578] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 16:49:30.858] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 16:49:30.858] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 17:43:15.412] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 17:43:15.412] [exthost] [warning] TextEditor is closed/disposed
+[2021-04-28 20:48:07.183] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-04-28 20:48:08.191] [exthost] [info] exiting with code 0

@@ -1,0 +1,1 @@
+[2021-04-28 20:51:43.438] [renderer3] [warning] UNRESPONSIVE extension host, 'ms-python.python' took 98% of 368.723ms, saved PROFILE here: 'file:///tmp/exthost-987c77.cpuprofile' [{"id":"ms-python.python","total":362931,"percentage":98},{"id":"program","total":165,"percentage":0}]
